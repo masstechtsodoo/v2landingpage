@@ -120,3 +120,38 @@
     @apply bg-background text-foreground;
   }
 }
+
+:root {
+  --translate-z-8: translateZ(8px);
+  --translate-z-16: translateZ(16px);
+  --translate-z-24: translateZ(24px);
+  --rotate-y-6: rotateY(6deg);
+}
+
+.translate-z-8 {
+  transform: var(--translate-z-8);
+}
+.translate-z-16 {
+  transform: var(--translate-z-16);
+}
+.translate-z-24 {
+  transform: var(--translate-z-24);
+}
+.rotate-y-6 {
+  transform: var(--rotate-y-6);
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  display: flex;
+  animation: marquee 20s linear infinite;
+  width: max-content;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}

@@ -6,10 +6,10 @@ import React from "react";
 import { ModeToggle } from "./mode-toggle";
 
 const menuItems = [
-  { name: "Features", href: "#link" },
+  { name: "Features", href: "#features" },
   { name: "Solution", href: "#link" },
   { name: "Pricing", href: "#link" },
-  { name: "About", href: "#link" },
+  { name: "About", href: "#About" },
 ];
 
 export const HeroHeader = () => {
