@@ -51,63 +51,56 @@ export default function ContentSection() {
 
   return (
     <section className="py-20 bg-white dark:bg-gray-900">
-      <div className="mx-auto max-w-7xl px-6 lg:px-8">
-        <div className="text-center mb-16">
-          <span className="inline-block px-3 py-1 text-sm font-medium rounded-full bg-blue-50 text-blue-800 dark:bg-blue-900/30 dark:text-blue-300 mb-4">
-            Our Services
-          </span>
-          <h2 className="text-4xl font-bold text-gray-900 dark:text-white sm:text-5xl">
-            Professional Radiation Solutions
-          </h2>
-          <p className="mt-6 text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Trusted services for accurate measurement and comprehensive protection
-          </p>
-        </div>
+    <div className="mx-auto max-w-7xl px-6 lg:px-8">
+      {/* Heading */}
+      <div className="text-center mb-16">
+        <span className="inline-block px-3 py-1 text-sm font-medium rounded-full bg-blue-50 text-blue-800 dark:bg-blue-900/30 dark:text-blue-300 mb-4">
+          Our Services
+        </span>
+        <h2 className="text-balance text-4xl font-bold lg:text-5xl mb-4 transition-transform hover:-translate-y-1 duration-300 ease-in-out text-gray-900 dark:text-white cursor-pointer">
+          Professional Radiation Solutions
+        </h2>
+        <p className="mt-6 text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
+          Trusted services for accurate measurement and comprehensive protection
+        </p>
+      </div>
 
-        <div className="grid gap-16 md:grid-cols-2 items-center">
-          <div className="relative aspect-[16/10] w-full overflow-hidden rounded-2xl bg-gray-50 dark:bg-gray-800 shadow-lg border border-gray-100 dark:border-gray-700">
-            <Image
-              src="/payments.png"
-              className="hidden object-cover w-full h-full dark:block"
-              alt="Radiation measurement equipment"
-              width={1207}
-              height={929}
-              priority
-            />
-            <Image
-              src="/payments-light.png"
-              className="object-cover w-full h-full dark:hidden"
-              alt="Radiation measurement equipment"
-              width={1207}
-              height={929}
-              priority
-            />
-          </div>
+      {/* Content Grid */}
+      <div className="grid gap-16 md:grid-cols-2 items-center">
+        {/* Image */}
+        <div className="relative aspect-[16/10] w-full overflow-hidden rounded-2xl shadow-xl border border-gray-200 dark:border-gray-700 group cursor-pointer">
+  <Image
+    src="/images/feature.jpg"
+    alt="Radiation measurement equipment"
+    fill
+    className="object-contain transition-transform duration-500 ease-in-out group-hover:scale-105"
+  />
+</div>
 
-          <div className="space-y-8">
-            <div className="space-y-6">
-              {services.map((service, index) => (
-                <div key={index} className="group relative pl-9">
-                  <div className="absolute left-0 top-1 flex h-6 w-6 items-center justify-center rounded-lg bg-blue-100 text-blue-800 dark:bg-blue-900/50 dark:text-blue-300">
-                    {service.icon}
-                  </div>
-                  <h3 className="text-xl font-semibold text-gray-900 dark:text-white">{service.title}</h3>
-                  <p className="mt-1 text-gray-600 dark:text-gray-400">{service.description}</p>
-                </div>
-              ))}
+        {/* Service List */}
+        <div className="space-y-8 cursor-pointer">
+          {services.map((service, index) => (
+            <div
+              key={index}
+              className="group relative pl-12 transition-all duration-300 hover:scale-[1.02]"
+            >
+              {/* Icon */}
+              <div className="absolute left-0 top-1 flex h-9 w-9 items-center justify-center rounded-md bg-blue-100 text-blue-800 dark:bg-blue-900/50 dark:text-blue-300 shadow-sm group-hover:rotate-6 transition-transform duration-300">
+                {service.icon}
+              </div>
+
+              {/* Title */}
+              <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                {service.title}
+              </h3>
+              <p className="mt-1 text-gray-600 dark:text-gray-400 text-sm leading-relaxed">
+                {service.description}
+              </p>
             </div>
-
-            {/* <div className="pt-4">
-              <button className="inline-flex items-center px-6 py-3 text-base font-medium text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors">
-                Contact Our Experts
-                <svg xmlns="http://www.w3.org/2000/svg" className="ml-2 h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                </svg>
-              </button>
-            </div> */}
-          </div>
+          ))}
         </div>
       </div>
-    </section>
+    </div>
+  </section>
   );
 }

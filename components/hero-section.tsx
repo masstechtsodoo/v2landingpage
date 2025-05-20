@@ -11,146 +11,105 @@ export default function HeroSection() {
     <>
       <HeroHeader />
       <main className="overflow-x-hidden">
-        <section>
-          <div className="pb-24 pt-12 md:pb-32 lg:pb-56 lg:pt-44">
-            <div className="relative mx-auto flex max-w-6xl flex-col px-6 lg:block">
-              <div className="mx-auto max-w-lg text-center lg:ml-0 lg:w-1/2 lg:text-left">
-                <h1 className="mt-8 max-w-2xl text-balance text-5xl font-medium md:text-6xl lg:mt-16 xl:text-7xl">
-                  MASSTECH LLC
-                </h1>
-                <p className="mt-8 max-w-2xl text-pretty text-lg">
-                  We will localize the world’s best technologies in our country and to meet the demands of customers.
-                </p>
+        <section className="relative bg-white dark:bg-gray-950 text-gray-900 dark:text-gray-100">
+  <div className="pb-24 pt-12 md:pb-32 lg:pb-56 lg:pt-44">
+    <div className="relative mx-auto flex max-w-6xl flex-col px-6 lg:flex-row lg:items-center">
+      {/* Text Content */}
+      <div className="mx-auto max-w-xl text-center lg:mx-0 lg:w-1/2 lg:text-left">
+        <h1
+          className="mt-8 text-balance text-5xl font-bold tracking-tight transition-transform duration-300 hover:scale-105 md:text-6xl lg:mt-0 xl:text-7xl cursor-pointer"
+        >
+          MASSTECH LLC
+        </h1>
+        <p className="mt-6 text-lg text-gray-700 dark:text-gray-300">
+          We will localize the world’s best technologies in our country and meet the demands of customers.
+        </p>
 
-                <div className="mt-12 flex flex-col items-center justify-center gap-2 sm:flex-row lg:justify-start">
-                  <Button asChild size="lg" className="px-5 text-base">
-                    <Link href="/">
-                      <span className="text-nowrap">Start Building</span>
-                    </Link>
-                  </Button>
-                  <Button
-                    key={2}
-                    asChild
-                    size="lg"
-                    variant="ghost"
-                    className="px-5 text-base"
-                  >
-                    <Link href="/">
-                      <span className="text-nowrap">Request a demo</span>
-                    </Link>
-                  </Button>
-                </div>
-              </div>
+        <div className="mt-10 flex flex-col items-center gap-3 sm:flex-row lg:justify-start">
+          <Button asChild size="lg" className="px-6 text-base">
+            <Link href="/">
+              <span className="whitespace-nowrap">Start Building</span>
+            </Link>
+          </Button>
+          <Button asChild size="lg" variant="ghost" className="px-6 text-base">
+            <Link href="/">
+              <span className="whitespace-nowrap">Request a demo</span>
+            </Link>
+          </Button>
+        </div>
+      </div>
+
+      {/* Background Image */}
+      <div className="relative mt-12 lg:mt-0 lg:ml-auto lg:w-1/2">
+        <Image
+          src="/images/bg.jpg"
+          alt="Abstract Object"
+          width={450}
+          height={450}
+          className="mx-auto w-full max-w-sm lg:max-w-md lg:absolute lg:left-1/2 lg:top-1/2 lg:-translate-x-1/2 lg:-translate-y-1/2 object-contain transition-transform duration-500 ease-in-out group-hover:scale-105"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+
+
+        <section className="bg-background pb-16 md:pb-32">
+  <div className="group relative m-auto max-w-6xl px-6">
+    <div className="flex flex-col items-center md:flex-row">
+      
+      {/* Title Area */}
+      <div className="md:max-w-44 md:border-r md:pr-6 mb-4 md:mb-0">
+        <p className="text-end text-sm text-gray-600 dark:text-gray-400 uppercase tracking-wider font-medium">
+          Our Partners
+        </p>
+      </div>
+
+      {/* Slider Container */}
+      <div className="relative py-2 md:w-[calc(100%-11rem)]">
+        <InfiniteSlider speedOnHover={20} speed={40} gap={112}>
+          {[
+            { src: "nvidia.svg", alt: "Nvidia", w: 20, h: 5 },
+            { src: "column.svg", alt: "Column", w: 16, h: 4 },
+            { src: "github.svg", alt: "GitHub", w: 16, h: 4 },
+            { src: "nike.svg", alt: "Nike", w: 20, h: 5 },
+            { src: "lemonsqueezy.svg", alt: "Lemon Squeezy", w: 20, h: 5 },
+            { src: "laravel.svg", alt: "Laravel", w: 16, h: 4 },
+            { src: "lilly.svg", alt: "Lilly", w: 28, h: 7 },
+            { src: "openai.svg", alt: "OpenAI", w: 24, h: 6 },
+          ].map((logo, index) => (
+            <div key={index} className="flex px-6">
               <Image
-                className="absolute top-1/2 left-2/2 max-w-none -translate-x-1/2 -translate-y-1/2 lg:w-1/2"
-                src="/images/bg.jpg"
-                alt="Abstract Object"
-                height="500"
-                width="500"
+                className="h-auto max-h-6 w-auto dark:invert transition-opacity duration-300 hover:opacity-80"
+                src={`https://html.tailus.io/blocks/customers/${logo.src}`}
+                alt={`${logo.alt} Logo`}
+                width={logo.w}
+                height={logo.h}
               />
             </div>
-          </div>
-        </section>
-        <section className="bg-background pb-16 md:pb-32">
-          <div className="group relative m-auto max-w-6xl px-6">
-            <div className="flex flex-col items-center md:flex-row">
-              <div className="md:max-w-44 md:border-r md:pr-6">
-                <p className="text-end text-sm">Our Partners</p>
-              </div>
-              <div className="relative py-6 md:w-[calc(100%-11rem)]">
-                <InfiniteSlider speedOnHover={20} speed={40} gap={112}>
-                  <div className="flex">
-                    <Image
-                      className="mx-auto h-5 w-fit dark:invert"
-                      src="https://html.tailus.io/blocks/customers/nvidia.svg"
-                      alt="Nvidia Logo"
-                      width={20}
-                      height={20}
-                    />
-                  </div>
+          ))}
+        </InfiniteSlider>
 
-                  <div className="flex">
-                    <Image
-                      className="mx-auto h-4 w-fit dark:invert"
-                      src="https://html.tailus.io/blocks/customers/column.svg"
-                      alt="Column Logo"
-                      width={16}
-                      height={16}
-                    />
-                  </div>
-                  <div className="flex">
-                    <Image
-                      className="mx-auto h-4 w-fit dark:invert"
-                      src="https://html.tailus.io/blocks/customers/github.svg"
-                      alt="GitHub Logo"
-                      width={16}
-                      height={16}
-                    />
-                  </div>
-                  <div className="flex">
-                    <Image
-                      className="mx-auto h-5 w-fit dark:invert"
-                      src="https://html.tailus.io/blocks/customers/nike.svg"
-                      alt="Nike Logo"
-                      width={20}
-                      height={20}
-                    />
-                  </div>
-                  <div className="flex">
-                    <Image
-                      className="mx-auto h-5 w-fit dark:invert"
-                      src="https://html.tailus.io/blocks/customers/lemonsqueezy.svg"
-                      alt="Lemon Squeezy Logo"
-                      width={20}
-                      height={20}
-                    />
-                  </div>
-                  <div className="flex">
-                    <Image
-                      className="mx-auto h-4 w-fit dark:invert"
-                      src="https://html.tailus.io/blocks/customers/laravel.svg"
-                      alt="Laravel Logo"
-                      width={16}
-                      height={16}
-                    />
-                  </div>
-                  <div className="flex">
-                    <Image
-                      className="mx-auto h-7 w-fit dark:invert"
-                      src="https://html.tailus.io/blocks/customers/lilly.svg"
-                      alt="Lilly Logo"
-                      width={28}
-                      height={28}
-                    />
-                  </div>
+        {/* Edge Fade Effects */}
+        <div className="absolute inset-y-0 left-0 w-20 bg-gradient-to-r from-background to-transparent pointer-events-none" />
+        <div className="absolute inset-y-0 right-0 w-20 bg-gradient-to-l from-background to-transparent pointer-events-none" />
 
-                  <div className="flex">
-                    <Image
-                      className="mx-auto h-6 w-fit dark:invert"
-                      src="https://html.tailus.io/blocks/customers/openai.svg"
-                      alt="OpenAI Logo"
-                      width={24}
-                      height={24}
-                    />
-                  </div>
-                </InfiniteSlider>
+        {/* Optional Blur Elements */}
+        <ProgressiveBlur
+          className="pointer-events-none absolute left-0 top-0 h-full w-20"
+          direction="left"
+          blurIntensity={1}
+        />
+        <ProgressiveBlur
+          className="pointer-events-none absolute right-0 top-0 h-full w-20"
+          direction="right"
+          blurIntensity={1}
+        />
+      </div>
+    </div>
+  </div>
+</section>
 
-                <div className="bg-linear-to-r from-background absolute inset-y-0 left-0 w-20"></div>
-                <div className="bg-linear-to-l from-background absolute inset-y-0 right-0 w-20"></div>
-                <ProgressiveBlur
-                  className="pointer-events-none absolute left-0 top-0 h-full w-20"
-                  direction="left"
-                  blurIntensity={1}
-                />
-                <ProgressiveBlur
-                  className="pointer-events-none absolute right-0 top-0 h-full w-20"
-                  direction="right"
-                  blurIntensity={1}
-                />
-              </div>
-            </div>
-          </div>
-        </section>
       </main>
     </>
   );

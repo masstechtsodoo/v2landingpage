@@ -9,7 +9,7 @@ const menuItems = [
   { name: "Features", href: "#features" },
   { name: "Solution", href: "#link" },
   { name: "Pricing", href: "#link" },
-  { name: "About", href: "#About" },
+  { name: "About", href: "#about" },
 ];
 
 export const HeroHeader = () => {
@@ -41,7 +41,7 @@ export const HeroHeader = () => {
               </button>
 
               <div className="hidden lg:block">
-                <ul className="flex gap-8 text-sm">
+                <ul className="flex gap-8 text-md text-black ml-12">
                   {menuItems.map((item, index) => (
                     <li key={index}>
                       <Link
