@@ -17,7 +17,7 @@ export default function HeroSection() {
       {/* Text Content */}
       <div className="mx-auto max-w-xl text-center lg:mx-0 lg:w-1/2 lg:text-left">
         <h1
-          className="mt-8 text-balance text-5xl font-bold tracking-tight transition-transform duration-300 hover:scale-105 md:text-6xl lg:mt-0 xl:text-7xl cursor-pointer"
+          className="mt-8 text-balance text-5xl font-bold tracking-tight transition-transform duration-700 hover:scale-105 md:text-6xl lg:mt-0 xl:text-7xl cursor-pointer"
         >
           MASSTECH LLC
         </h1>
@@ -54,7 +54,7 @@ export default function HeroSection() {
 </section>
 
 
-        <section className="bg-background pb-16 md:pb-32">
+        <section className="bg-background pb-16 md:pb-32 dark:bg-gray-950">
   <div className="group relative m-auto max-w-6xl px-6">
     <div className="flex flex-col items-center md:flex-row">
       
@@ -66,7 +66,7 @@ export default function HeroSection() {
       </div>
 
       {/* Slider Container */}
-      <div className="relative py-2 md:w-[calc(100%-11rem)]">
+      <div className="relative py-2 md:w-[calc(100%-11rem)] ">
         <InfiniteSlider speedOnHover={20} speed={40} gap={112}>
           {[
             { src: "nvidia.svg", alt: "Nvidia", w: 20, h: 5 },
@@ -80,7 +80,7 @@ export default function HeroSection() {
           ].map((logo, index) => (
             <div key={index} className="flex px-6">
               <Image
-                className="h-auto max-h-6 w-auto dark:invert transition-opacity duration-300 hover:opacity-80"
+                className="h-auto max-h-6 w-auto dark:invert transition-opacity duration-300 hover:opacity-80 "
                 src={`https://html.tailus.io/blocks/customers/${logo.src}`}
                 alt={`${logo.alt} Logo`}
                 width={logo.w}
@@ -96,12 +96,12 @@ export default function HeroSection() {
 
         {/* Optional Blur Elements */}
         <ProgressiveBlur
-          className="pointer-events-none absolute left-0 top-0 h-full w-20"
+          className="pointer-events-none absolute left-0 top-0 h-full w-20 dark:bg-gray-950"
           direction="left"
           blurIntensity={1}
         />
         <ProgressiveBlur
-          className="pointer-events-none absolute right-0 top-0 h-full w-20"
+          className="pointer-events-none absolute right-0 top-0 h-full w-20 dark:bg-gray-950"
           direction="right"
           blurIntensity={1}
         />

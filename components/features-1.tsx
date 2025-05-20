@@ -6,7 +6,7 @@ export default function Features() {
   <div className="mx-auto max-w-7xl px-6 lg:px-8">
     {/* Section Heading */}
     <div className="text-center mb-16">
-      <h2 className="text-4xl font-bold tracking-tight sm:text-5xl bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-emerald-600 dark:from-blue-400 dark:to-emerald-400 transition-transform duration-300 hover:scale-105">
+      <h2 className="text-4xl font-bold tracking-tight sm:text-5xl bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-emerald-600 dark:from-blue-400 dark:to-emerald-400 transition-transform duration-500 hover:scale-105 cursor-pointer">
         Our Business Areas
       </h2>
       <p className="mt-4 text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
@@ -35,7 +35,7 @@ export default function Features() {
       ].map((item, index) => (
         <div
           key={index}
-          className="group relative overflow-hidden rounded-xl bg-gradient-to-br from-white to-gray-100 dark:from-gray-800 dark:to-gray-900 p-8 shadow-md transition-all duration-300 hover:shadow-xl hover:-translate-y-2"
+          className="group relative overflow-hidden rounded-xl bg-gradient-to-br from-white to-gray-100 dark:from-gray-800 dark:to-gray-900 p-8 shadow-md transition-all duration-300 hover:shadow-xl hover:-translate-y-2 cursor-pointer"
         >
           <div className="mb-4">{item.icon}</div>
           <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">{item.title}</h3>

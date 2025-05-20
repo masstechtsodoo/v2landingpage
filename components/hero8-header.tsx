@@ -7,9 +7,9 @@ import { ModeToggle } from "./mode-toggle";
 
 const menuItems = [
   { name: "Features", href: "#features" },
-  { name: "Solution", href: "#link" },
-  { name: "Pricing", href: "#link" },
-  { name: "About", href: "#about" },
+  { name: "Service", href: "#services" },
+  { name: "Product", href: "#link" },
+  { name: "About", href: "/about" },
 ];
 
 export const HeroHeader = () => {

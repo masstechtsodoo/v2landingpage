@@ -50,7 +50,7 @@ export default function ContentSection() {
   ];
 
   return (
-    <section className="py-20 bg-white dark:bg-gray-900">
+    <section className="py-20 bg-white dark:bg-gray-900" id="services">
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
       {/* Heading */}
       <div className="text-center mb-16">
