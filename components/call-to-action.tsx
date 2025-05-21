@@ -25,13 +25,11 @@ export default function CallToAction() {
 
   return (
     <section className="relative py-24 md:py-40 overflow-hidden bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800 transition-colors duration-500">
-      {/* Background Gradients */}
       <div className="absolute inset-0 pointer-events-none opacity-10 dark:opacity-5">
         <div className="absolute inset-y-0 left-0 w-1/3"></div>
         <div className="absolute bottom-0 right-0 w-1/3 h-1/3"></div>
       </div>
 
-      {/* Content */}
       <div
         ref={sectionRef}
         className={`relative mx-auto max-w-7xl px-6 lg:px-8 transition-opacity duration-1000 ${
@@ -50,8 +48,6 @@ export default function CallToAction() {
           <p className="mt-6 text-xl leading-8 text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
             We aim to access cutting-edge technology and deliver quality products with reliable services to Mongolia, while honoring human health and environmental sustainability.
           </p>
-
-          {/* Buttons */}
           <div className="mt-12 flex flex-wrap justify-center gap-4">
             <Button
               asChild

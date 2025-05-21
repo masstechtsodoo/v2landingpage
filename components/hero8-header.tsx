@@ -8,7 +8,7 @@ import { ModeToggle } from "./mode-toggle";
 const menuItems = [
   { name: "Features", href: "#features" },
   { name: "Service", href: "#services" },
-  { name: "Product", href: "#link" },
+  { name: "Product", href: "/product" },
   { name: "About", href: "/about" },
 ];
 

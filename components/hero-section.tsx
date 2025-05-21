@@ -14,7 +14,6 @@ export default function HeroSection() {
         <section className="relative bg-white dark:bg-gray-950 text-gray-900 dark:text-gray-100">
   <div className="pb-24 pt-12 md:pb-32 lg:pb-56 lg:pt-44">
     <div className="relative mx-auto flex max-w-6xl flex-col px-6 lg:flex-row lg:items-center">
-      {/* Text Content */}
       <div className="mx-auto max-w-xl text-center lg:mx-0 lg:w-1/2 lg:text-left">
         <h1
           className="mt-8 text-balance text-5xl font-bold tracking-tight transition-transform duration-700 hover:scale-105 md:text-6xl lg:mt-0 xl:text-7xl cursor-pointer"
@@ -39,7 +38,6 @@ export default function HeroSection() {
         </div>
       </div>
 
-      {/* Background Image */}
       <div className="relative mt-12 lg:mt-0 lg:ml-auto lg:w-1/2">
         <Image
           src="/images/bg.jpg"
@@ -58,14 +56,12 @@ export default function HeroSection() {
   <div className="group relative m-auto max-w-6xl px-6">
     <div className="flex flex-col items-center md:flex-row">
       
-      {/* Title Area */}
       <div className="md:max-w-44 md:border-r md:pr-6 mb-4 md:mb-0">
         <p className="text-end text-sm text-gray-600 dark:text-gray-400 uppercase tracking-wider font-medium">
           Our Partners
         </p>
       </div>
 
-      {/* Slider Container */}
       <div className="relative py-2 md:w-[calc(100%-11rem)] ">
         <InfiniteSlider speedOnHover={20} speed={40} gap={112}>
           {[
@@ -90,11 +86,9 @@ export default function HeroSection() {
           ))}
         </InfiniteSlider>
 
-        {/* Edge Fade Effects */}
         <div className="absolute inset-y-0 left-0 w-20 bg-gradient-to-r from-background to-transparent pointer-events-none" />
         <div className="absolute inset-y-0 right-0 w-20 bg-gradient-to-l from-background to-transparent pointer-events-none" />
 
-        {/* Optional Blur Elements */}
         <ProgressiveBlur
           className="pointer-events-none absolute left-0 top-0 h-full w-20 dark:bg-gray-950"
           direction="left"
