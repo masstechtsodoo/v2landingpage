@@ -3,12 +3,22 @@ import FooterSection from "@/components/footer";
 import { HeroHeader } from "@/components/hero8-header";
 import Image from "next/image";
 
-const products = Array(6).fill({
+const products = [{
+  id: 1,
+  title: "STORA-ABG",
+  description: "A compact search device with a telescopic rod for quick detection and localization of al pha, beta, gamma and X-ray radiation sources",
+  image: "/images/logos/prod1.jpg",
+},
+{
+  id: 2,
   title: "Mass Tech - Leading Innovation",
   description:
     "“Mass Tech” LLC is a nuclear instruments distributor in Mongolia providing radiation solutions and safety equipment for industrial and healthcare sectors since 2017.",
-  image: "/images/about.jpg",
-});
+  image: "/images/logos/prod1.jpg",
+}
+]
+  
+;
 
 export default function About() {
   return (
@@ -34,7 +44,7 @@ export default function About() {
                   className="w-full h-60 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-3">
+                  <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">
                     {product.title}
                   </h3>
                   <p className="text-gray-700 dark:text-gray-300 mb-4 text-sm leading-relaxed">
