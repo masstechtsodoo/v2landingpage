@@ -1,0 +1,530 @@
+[
+  {
+    "slug": "01-radiation-monitoring-equipment-for-nuclear-medicine-diagnostics",
+    "n": 1,
+    "start": "2022-06-06",
+    "end": "2022-09-15",
+    "title": {
+      "en": "Radiation Monitoring Equipment for Nuclear Medicine Diagnostics and Therapy",
+      "mn": "Цөмийн оношилгоо, эмчилгээний цацрагийн хяналтын тоног төхөөрөмж"
+    },
+    "client": {
+      "en": "Second State Central Hospital",
+      "mn": "Улсын Хоёрдугаар Төв эмнэлэг"
+    },
+    "body": {
+      "en": [
+        "As part of the “Procurement of Radiation Monitoring Equipment for Nuclear Medicine Diagnostics and Therapy” project, we completed the assembly, installation and connection of equipment designed to support radiation safety in nuclear medicine diagnostic and treatment activities, monitor personnel for radioactive contamination, and measure ambient radiation levels.",
+        "The project included the installation of hand-and-foot contamination monitors and ambient radiation monitors, together with the required power and data cabling. We also connected the monitoring system to a central server computer, enabling measurement data to be collected and monitored from a single location."
+      ],
+      "mn": [
+        "“Цөмийн оношилгоо, эмчилгээний цацрагийн хяналтын тоног төхөөрөмж худалдан авах” төслийн хүрээнд цөмийн оношилгоо, эмчилгээний үйл ажиллагааны цацрагийн аюулгүй байдлыг хангах, ажилтнуудын цацраг идэвхт бохирдол болон орчны цацрагийн түвшнийг хянах зориулалттай тоног төхөөрөмжүүдийн угсралт, суурилуулалт, холболтын ажлуудыг хийж гүйцэтгэсэн.",
+        "Төслийн хүрээнд гар, хөлийн цацраг идэвхт бохирдол хэмжигч болон орчны цацрагийн түвшин хэмжигч төхөөрөмжүүдийг суурилуулж, шаардлагатай цахилгаан, мэдээлэл дамжуулах кабелийн холболтыг хийсэн. Мөн хэмжилтийн мэдээллийг төвлөрсөн сервер компьютерт дамжуулах системийн холболтыг гүйцэтгэж, цацрагийн хяналтын мэдээллийг нэг цэгээс хүлээн авах, хянах техникийн нөхцөлийг бүрдүүлсэн."
+      ]
+    },
+    "images": [
+      "/images/projects/p01-1.webp",
+      "/images/projects/p01-2.webp",
+      "/images/projects/p01-3.webp",
+      "/images/projects/p01-4.webp"
+    ],
+    "cover": "/images/projects/p01-1.webp",
+    "coverWidth": 376
+  },
+  {
+    "slug": "02-installation-of-a-pedestrian-radiation-portal-monitor",
+    "n": 2,
+    "start": "2022-10-25",
+    "end": "2022-11-08",
+    "title": {
+      "en": "Installation of a Pedestrian Radiation Portal Monitor at the Cargo Terminal of Chinggis Khaan International Airport",
+      "mn": "“ЧИНГИС ХААН” олон улсын нисэх буудлын карго терминалын явган хүн шалгах зориулалт бүхий цацрагийн монитор"
+    },
+    "client": {
+      "en": "New Ulaanbaatar International Airport",
+      "mn": "Нью Улаанбаатар Интернэйшнл Эйрпорт"
+    },
+    "body": {
+      "en": [
+        "We relocated and reinstalled a pedestrian radiation portal monitor (RPM) at the cargo terminal of Chinggis Khaan International Airport to improve radiation monitoring operations.",
+        "The project included construction of a concrete foundation at the new location, installation of anchor bolts, power and data cable connections, relocation and installation of the equipment, and construction of a protective canopy against weather exposure. These works improved the monitor’s positioning, protection and operating conditions, enabling continued radiation monitoring at the cargo terminal."
+      ],
+      "mn": [
+        "“Чингис хаан” олон улсын нисэх буудлын карго терминалын цацрагийн хяналтын үйл ажиллагааг сайжруулах зорилгоор явган зорчигч шалгах зориулалттай цацрагийн портал монитор (RPM)-ыг шинэ байршилд шилжүүлэн суурилуулах ажлыг хийж гүйцэтгэсэн.",
+        "Төслийн хүрээнд төхөөрөмжийн шинэ байршлын суурь бетон хийц, анкер боолтны угсралт, цахилгаан болон мэдээлэл дамжуулах кабелийн холболт, төхөөрөмжийн шилжүүлэлт, суурилуулалт, мөн гаднын орчны нөлөөллөөс хамгаалах саравчны барилга угсралтын ажлуудыг цогцоор нь гүйцэтгэсэн. Энэхүү төслийг хэрэгжүүлснээр нисэх буудлын карго терминалын цацрагийн хяналтын төхөөрөмжийн байршил, хамгаалалт болон ашиглалтын орчны нөхцөлийг сайжруулж, цацрагийн хяналтын үйл ажиллагааг хэвийн үргэлжлүүлэх техникийн боломжийг бүрдүүлсэн."
+      ]
+    },
+    "images": [
+      "/images/projects/p02-1.webp",
+      "/images/projects/p02-2.webp",
+      "/images/projects/p02-3.webp",
+      "/images/projects/p02-4.webp",
+      "/images/projects/p02-5.webp"
+    ],
+    "cover": "/images/projects/p02-1.webp",
+    "coverWidth": 478
+  },
+  {
+    "slug": "03-construction-and-installation-works-for-the-relocation",
+    "n": 3,
+    "start": "2022-06-23",
+    "end": "2023-12-24",
+    "title": {
+      "en": "Construction and Installation Works for the Relocation of Radiation Monitoring Equipment at Zamyn-Uud Border Crossing, Dornogovi Province",
+      "mn": "“Дорноговь аймаг, Замын-Үүд \"Хилийн замын-Үүд боомтын цацрагийн төхөөрөмжийг шилжүүлэх барилга угсралтын ажил"
+    },
+    "client": {
+      "en": "Development Gateway Infrastructure Project",
+      "mn": "Хөгжлийн хөтөч дэд бүтэц төсөл"
+    },
+    "body": {
+      "en": [
+        "Worksite Preparation: Prepared the worksite of consortium member Wankhuu LLC in Ulaanbaatar for the fabrication of concrete foundations for TM-850 radiation monitoring equipment.",
+        "Concrete Foundation Fabrication: Cast the concrete foundations for the TM-850 vehicle radiation monitors to be installed at Zamyn-Uud Border Crossing in accordance with the design drawings.",
+        "Construction Supervision: Provided construction engineering supervision throughout foundation fabrication to ensure compliance with the approved design drawings.",
+        "Occupational Health and Safety: Conducted daily safety briefings, documented attendance with employee signatures, and provided the necessary personal protective equipment.",
+        "Completion of Concrete Foundations: Completed the concrete foundation casting works for the TM-850 radiation monitors between September 18 and October 3, 2023"
+      ],
+      "mn": [
+        "Ажлын талбайн бэлтгэл: Улаанбаатар хот дахь түншлэлийн гишүүн “Ванхүү” ХХК-ийн ажлын талбайд ТМ-850 загварын цацрагийн хяналтын төхөөрөмжийн бетон суурийн хийц үйлдвэрлэх ажлын бэлтгэлийг хангасан.",
+        "Бетон суурийн хийц үйлдвэрлэх: Замын-Үүд хилийн боомтод суурилуулах ТМ-850 загварын автомашины цацрагийн хяналтын төхөөрөмжүүдийн бетон суурийн бүтээцийн цутгалтын ажлыг зураг төслийн дагуу хийж гүйцэтгэсэн.",
+        "Барилгын ажлын техникийн хяналт: Бетон суурийн бүтээц үйлдвэрлэх ажлын явцад барилгын инженерийн хяналтыг хэрэгжүүлж, ажлыг батлагдсан зураг төслийн дагуу гүйцэтгэсэн.",
+        "Хөдөлмөрийн аюулгүй байдал, эрүүл ахуйн хяналт: Ажилтнуудад өдөр бүр хөдөлмөрийн аюулгүй байдлын урьдчилсан зааварчилгаа өгч, гарын үсгээр баталгаажуулан, шаардлагатай хамгаалах хэрэгслээр хангаж ажилласан.",
+        "Бетон суурийн бүтээцийн ажлыг дуусгах: ТМ-850 загварын цацрагийн хяналтын төхөөрөмжүүдэд зориулсан бетон суурийн бүтээцийн цутгалтын ажлыг 2023 оны 09 дүгээр сарын 18-наас 10 дугаар сарын 03-ны хооронд хийж дуусгасан."
+      ]
+    },
+    "images": [
+      "/images/projects/p03-1.webp",
+      "/images/projects/p03-2.webp",
+      "/images/projects/p03-3.webp",
+      "/images/projects/p03-4.webp",
+      "/images/projects/p03-5.webp",
+      "/images/projects/p03-6.webp",
+      "/images/projects/p03-7.webp",
+      "/images/projects/p03-8.webp",
+      "/images/projects/p03-9.webp",
+      "/images/projects/p03-10.webp",
+      "/images/projects/p03-11.webp",
+      "/images/projects/p03-12.webp"
+    ],
+    "cover": "/images/projects/p03-7.webp",
+    "coverWidth": 1800
+  },
+  {
+    "slug": "04-supply-of-de-icing-agents-for-snow",
+    "n": 4,
+    "start": "2023-12-22",
+    "end": "2024-01-04",
+    "title": {
+      "en": "Supply of De-icing Agents for Snow and Ice Removal and Slippery Surface Control",
+      "mn": "Халтиргаа гулгаа, цас, мөс хайлуулах зориулалтын бодис нийлүүлэх"
+    },
+    "client": {
+      "en": "Office of the Governor of Ulaanbaatar City",
+      "mn": "Улаанбаатар Хотын Захирагчийн Ажлын Алба"
+    },
+    "body": {
+      "en": [
+        "Supplied 404.5 tonnes of de-icing agents to the Office of the Governor of Ulaanbaatar City."
+      ],
+      "mn": [
+        "Улаанбаатар хотын Захирагчийн ажлын албанд 404.5тн халтиргаа гулгаа арилгах зориулалтын бодисыг нийлүүлсэн."
+      ]
+    },
+    "images": [
+      "/images/projects/p04-1.webp",
+      "/images/projects/p04-2.webp",
+      "/images/projects/p04-3.webp",
+      "/images/projects/p04-4.webp",
+      "/images/projects/p04-5.webp"
+    ],
+    "cover": "/images/projects/p04-4.webp",
+    "coverWidth": 424
+  },
+  {
+    "slug": "05-relocation-and-reinstallation-of-radiation-monitoring-equipment",
+    "n": 5,
+    "start": "2024-03-04",
+    "end": "2024-03-14",
+    "title": {
+      "en": "Relocation and Reinstallation of Radiation Monitoring Equipment",
+      "mn": "Цацрагийн хяналтын төхөөрөмжийг зөөж угсрах"
+    },
+    "client": {
+      "en": "Chinggis Khaan International Airport Customs Office",
+      "mn": "Чингис Хаан олон улсын нисэх буудал гаалийн газар"
+    },
+    "body": {
+      "en": [
+        "We relocated and reinstalled three pedestrian radiation portal monitors (RPMs) at Chinggis Khaan International Airport to improve the positioning and operating conditions of the passenger radiation monitoring system.",
+        "The project involved relocating one RPM at the business lounge entrance and two RPMs at the entrance to the international passenger security screening area to new locations.",
+        "The work included dismantling and transporting the equipment, securing it with anchor bolts, updating power, data network and CCTV connections, replacing security locks, and performing calibration and operational verification using a radioactive source."
+      ],
+      "mn": [
+        "“Чингис хаан” олон улсын нисэх буудлын зорчигчдын цацрагийн хяналтын системийн байршил, ашиглалтын нөхцөлийг сайжруулах зорилгоор явган зорчигч шалгах зориулалттай нийт 3 ширхэг цацрагийн портал монитор (RPM)-ыг шилжүүлэн суурилуулах ажлыг хийж гүйцэтгэсэн.",
+        "Төслийн хүрээнд бизнес лоунжийн орох хаалганы хэсэгт байрлах 1 ширхэг, олон улсын зорчигчдын аюулгүй байдлын шалган нэвтрүүлэх хэсгийн орох хаалганд байрлах 2 ширхэг RPM төхөөрөмжийг шинэ байршилд шилжүүлэн суурилуулсан.",
+        "Шилжүүлэн суурилуулах ажлын хүрээнд төхөөрөмжүүдийг буулгах, зөөвөрлөх, анкер боолтоор бэхлэх, цахилгаан болон мэдээлэл дамжуулах сүлжээ, хяналтын камерын холболтыг шинэчлэх, хамгаалалтын цоож солих, цацраг идэвхт үүсгүүр ашиглан тохируулга, ажиллагааны баталгаажуулалт хийх ажлуудыг цогцоор нь гүйцэтгэсэн."
+      ]
+    },
+    "images": [
+      "/images/projects/p05-1.webp",
+      "/images/projects/p05-2.webp",
+      "/images/projects/p05-3.webp",
+      "/images/projects/p05-4.webp",
+      "/images/projects/p05-5.webp",
+      "/images/projects/p05-6.webp"
+    ],
+    "cover": "/images/projects/p05-6.webp",
+    "coverWidth": 594
+  },
+  {
+    "slug": "06-transportation-assembly-and-installation-of-eight-thermo",
+    "n": 6,
+    "start": "2024-02-28",
+    "end": "2024-09-22",
+    "title": {
+      "en": "Transportation, Assembly and Installation of Eight Thermo Fisher DDG3 High-Performance Digital Density Gauges Containing Radioactive Sources",
+      "mn": "Цацрагийн үүсгүүр бүхий 8 ширхэг TermoFISHER DDG3, High-Performance Digital Density Meter цөмийн нягт хэмжигч төхөөрөмжийг тээвэрлэх, угсралт хийж суурилуулах"
+    },
+    "client": {
+      "en": "NORINCO International Cooperation Ltd. — Coal Handling Representative Office",
+      "mn": "НОРИНКО Интернэйшнл Кооперэйшн Лтд. - Коал Хэндлинг Төлөөний Газар"
+    },
+    "body": {
+      "en": [
+        "We completed the import, customs clearance, licensing, transportation, temporary storage, assembly, installation and electrical connection of coal density gauges containing radioactive sources for use in the coal beneficiation plant of Erdenes Tavan Tolgoi JSC.",
+        "Equipment Receipt and Customs Clearance: Received the coal density gauges containing radioactive sources at Chinggis Khaan International Airport and completed import customs clearance.",
+        "Licensing and Documentation: Obtained the required licenses for importing and transporting radioactive sources from the competent government authorities and prepared the supporting documentation.",
+        "Transport Route Approval: Obtained approval for the radioactive source transportation route from the relevant authorities.",
+        "Equipment Transportation: Loaded and transported the equipment to the Erdenes Tavan Tolgoi JSC coal beneficiation plant in Tsogttsetsii soum, Umnugovi Province.",
+        "Temporary Storage and Handover: Unloaded and sealed the equipment at the plant’s designated temporary radioactive source storage facility and handed it over for storage in accordance with applicable procedures.",
+        "Work Authorization: Obtained the required permit to begin assembly and installation at the plant and completed the necessary preparations.",
+        "Mounting Assembly: Positioned and assembled the density gauge mounting brackets and installation components at the locations specified in the design drawings.",
+        "Transfer to the Plant Building: Transported the equipment containing radioactive sources from the temporary storage facility to the plant building.",
+        "Lifting and Positioning: Used a crane to lift the equipment to the second floor of the plant building and move it to the installation locations.",
+        "Radioactive Source and Detector Installation: Installed the radioactive sources and measurement detectors on their designated supports and mounting assemblies.",
+        "Control Panel Installation: Assembled and installed the density gauge control and monitoring panels.",
+        "Electrical Connection and Handover: Completed the electrical connections, connected the equipment to the power supply and switched it on, then handed over the completed installation to the client."
+      ],
+      "mn": [
+        "Эрдэнэс Таван Толгой ХК-ийн нүүрс баяжуулах үйлдвэрийн технологийн үйл ажиллагаанд ашиглах цацраг идэвхт үүсгүүр бүхий нүүрсний нягт хэмжигч төхөөрөмжүүдийн импорт, гаалийн бүрдүүлэлт, тусгай зөвшөөрөл, тээвэрлэлт, түр хадгалалт, угсралт, суурилуулалт болон цахилгаан холболтын ажлуудыг цогцоор нь хийж гүйцэтгэсэн.",
+        "Тоног төхөөрөмж хүлээн авах, гаалийн бүрдүүлэлт: Цацрагийн үүсгүүр бүхий нүүрсний нягт хэмжигч төхөөрөмжүүдийг Чингис хаан олон улсын нисэх буудлаас хүлээн авч, импортын гаалийн бүрдүүлэлтийг хийж гүйцэтгэсэн.",
+        "Тусгай зөвшөөрөл бүрдүүлэх: Цацрагийн үүсгүүрийг импортлох, тээвэрлэхэд шаардлагатай тусгай зөвшөөрлүүдийг эрх бүхий төрийн захиргааны байгууллагаас авч, холбогдох баримт бичгийг бүрдүүлсэн.",
+        "Тээвэрлэлтийн маршрут батлуулах: Цацрагийн үүсгүүрийн тээвэрлэлтийн маршрутыг холбогдох эрх бүхий байгууллагаар батлуулсан.",
+        "Тоног төхөөрөмжийн тээвэрлэлт: Цацрагийн үүсгүүр бүхий төхөөрөмжүүдийг ачиж, Өмнөговь аймгийн Цогтцэций суманд байрлах Эрдэнэс Таван Толгой ХК-ийн нүүрс баяжуулах үйлдвэрт тээвэрлэн хүргэсэн.",
+        "Түр хадгалалт, хүлээлгэн өгөх: Төхөөрөмжүүдийг үйлдвэрийн цацрагийн үүсгүүр түр хадгалах зориулалтын агуулахад буулган, лацдаж, холбогдох журмын дагуу түр хадгалалтад хүлээлгэн өгсөн.",
+        "Ажил эхлүүлэх зөвшөөрөл: Үйлдвэрийн талбайд угсралт, суурилуулалтын ажил гүйцэтгэхэд шаардлагатай ажил эхлүүлэх зөвшөөрлийг авч, ажлын бэлтгэлийг хангасан.",
+        "Төхөөрөмжийн бэхэлгээний угсралт: Нягт хэмжигч төхөөрөмжүүдийн бэхэлгээ, суурилуулалтын эд ангиудыг зураг төсөлд заасан байршилд байрлуулж, угсарсан.",
+        "Цацрагийн үүсгүүрийг үйлдвэрийн барилгад шилжүүлэх: Цацрагийн үүсгүүр бүхий төхөөрөмжүүдийг түр хадгалах агуулахаас үйлдвэрийн барилга руу шилжүүлэн тээвэрлэсэн.",
+        "Өргөх, байрлуулах ажил: Өргөгч кран ашиглан цацрагийн үүсгүүр бүхий төхөөрөмжүүдийг үйлдвэрийн барилгын хоёрдугаар давхарт өргөж, суурилуулах хэсэгт хүргэсэн.",
+        "Цацрагийн үүсгүүр болон детектор суурилуулах: Цацрагийн үүсгүүрүүд болон хэмжилтийн детекторуудыг зориулалтын суурь, бэхэлгээнд байрлуулж, угсралтын ажлыг хийж гүйцэтгэсэн.",
+        "Удирдлагын самбарын угсралт: Нягт хэмжигч төхөөрөмжүүдийн удирдлага, хяналтын самбаруудыг угсарч, суурилуулсан.",
+        "Цахилгаан холболт, ажиллагаанд бэлтгэх: Төхөөрөмжүүдийн цахилгаан холболтыг хийж, тэжээлд залган асааж, угсралт, суурилуулалтын ажлыг дуусган захиалагчид хүлээлгэн өгсөн."
+      ]
+    },
+    "images": [
+      "/images/projects/p06-1.webp",
+      "/images/projects/p06-2.webp",
+      "/images/projects/p06-3.webp",
+      "/images/projects/p06-4.webp",
+      "/images/projects/p06-5.webp",
+      "/images/projects/p06-6.webp"
+    ],
+    "cover": "/images/projects/p06-1.webp",
+    "coverWidth": 562
+  },
+  {
+    "slug": "07-relocation-and-reinstallation-of-radiation-monitoring-equipment",
+    "n": 7,
+    "start": "2024-06-15",
+    "end": "2024-09-16",
+    "title": {
+      "en": "Relocation and Reinstallation of Radiation Monitoring Equipment for Detecting Nuclear Materials and Radioactive Sources",
+      "mn": "Цөмийн материал, цацраг идэвхт үүсгүүр илрүүлэх зориулалттай цацрагийн хяналтын төхөөрөмжүүдийг шилжүүлэн суурилуулах"
+    },
+    "client": {
+      "en": "General Customs Administration",
+      "mn": "Гаалийн Ерөнхий Газар"
+    },
+    "body": {
+      "en": [
+        "Foundations and Concrete Works: Constructed foundations for the main and auxiliary RPM pillars, protective bollards and camera poles, together with associated concrete structures, in accordance with the site layout and technical requirements.",
+        "Vehicle Radiation Monitoring Equipment: Assembled and installed VM-250 radiation portal monitors (RPMs) for screening vehicle traffic.",
+        "Pedestrian Radiation Monitoring Equipment: Installed PM-700 RPMs inside the border crossing building for pedestrian screening.",
+        "Electrical Distribution Panels: Installed and connected power distribution panels for the vehicle and pedestrian radiation monitoring equipment.",
+        "Protective Bollards and Camera Poles: Installed 250 mm and 150 mm protective bollards and surveillance camera poles in accordance with the design drawings.",
+        "Power and Network Infrastructure: Routed and connected power supply and data network cables, and tested the connections.",
+        "CCTV System: Installed cameras for visual monitoring of equipment operation and connected them to the surveillance system.",
+        "Server and Control System: Installed and configured the server and centralized control system for receiving, processing and monitoring data from the radiation monitoring equipment.",
+        "RAVEN Software: Installed the RAVEN radiation monitoring software, connected it to the equipment and completed the required configuration.",
+        "Equipment Calibration and Operational Verification: Used radioactive sources to calibrate the detectors and perform operational checks and verification tests."
+      ],
+      "mn": [
+        "Суурь болон бетон хийцийн ажил: Цацрагийн портал монитор (RPM)-ын үндсэн болон туслах баганын суурь, хамгаалалтын шон, камерын шонгийн суурь болон холбогдох бетон хийцүүдийг ерөнхий төлөвлөлт, техникийн шаардлагын дагуу хийж гүйцэтгэсэн.",
+        "Автомашины цацрагийн хяналтын төхөөрөмж: Автомашины хөдөлгөөний цацрагийн хяналтад зориулсан VM-250 загварын RPM төхөөрөмжийн угсралт, суурилуулалтыг хийж гүйцэтгэсэн.",
+        "Явган зорчигчийн цацрагийн хяналтын төхөөрөмж: Боомтын барилга дотор явган зорчигчийн хяналтад зориулсан PM-700 загварын RPM төхөөрөмжийг суурилуулсан.",
+        "Цахилгааны хуваарилах самбар: Автомашин болон явган зорчигчийн цацрагийн хяналтын төхөөрөмжүүдийн цахилгаан хангамжийн самбаруудыг суурилуулж, холболтыг хийж гүйцэтгэсэн.",
+        "Хамгаалалтын болон камерын шон: 250 мм, 150 мм хэмжээтэй хамгаалалтын шонгууд болон хяналтын камерын шонгуудыг зураг төслийн дагуу суурилуулсан.",
+        "Цахилгаан болон сүлжээний дэд бүтэц: Төхөөрөмжүүдийн цахилгаан хангамж, мэдээлэл дамжуулах сүлжээний кабель татах, холбох болон холболтын ажиллагааг шалгах ажлыг хийж гүйцэтгэсэн.",
+        "Хяналтын камерын систем: Цацрагийн хяналтын төхөөрөмжүүдийн үйл ажиллагааг дүрсээр хянах зориулалттай камеруудыг суурилуулж, хяналтын системд холбосон.",
+        "Сервер болон удирдлагын систем: Цацрагийн хяналтын төхөөрөмжүүдийн мэдээллийг хүлээн авах, боловсруулах, хянах зориулалттай сервер болон төвлөрсөн удирдлагын системийг суурилуулж, тохируулсан.",
+        "RAVEN программ хангамж: Цацрагийн хяналтын системийн RAVEN программ хангамжийг суулгаж, төхөөрөмжүүдтэй холбон, шаардлагатай тохиргоог хийсэн.",
+        "Төхөөрөмжийн тохируулга, ажиллагааны баталгаажуулалт: Цацрагийн үүсгүүр ашиглан төхөөрөмжүүдийн мэдрэгчийн тохируулга, ажиллагааны шалгалт болон баталгаажуулалтын туршилтыг хийж гүйцэтгэсэн."
+      ]
+    },
+    "images": [
+      "/images/projects/p07-1.webp",
+      "/images/projects/p07-2.webp",
+      "/images/projects/p07-3.webp",
+      "/images/projects/p07-4.webp"
+    ],
+    "cover": "/images/projects/p07-3.webp",
+    "coverWidth": 562
+  },
+  {
+    "slug": "08-nationwide-supply-of-customs-x-ray-inspection",
+    "n": 8,
+    "start": "2024-06-05",
+    "end": "2024-09-05",
+    "title": {
+      "en": "Nationwide Supply of Customs X-ray Inspection Equipment for Passenger Baggage Screening",
+      "mn": "Зорчигчийн ачаа тээш шалгах зориулалттай гаалийн хяналт шалгалтын рентген тоног төхөөрөмж /Улсын хэмжээнд/ нийлүүлэх"
+    },
+    "client": {
+      "en": "General Customs Administration",
+      "mn": "Гаалийн Ерөнхий Газар"
+    },
+    "body": {
+      "en": [
+        "Supplied and installed equipment at the following locations nationwide.",
+        "Mongol Post Branch, Buyant-Ukhaa CX100100D",
+        "Landbridge Customs Control Zone CX100100D",
+        "Mongol Post Branch, New Ulaanbaatar International Airport CX7555D",
+        "Mongol Post Branch Customs Control Zone, Buyant-Ukhaa CX7555D",
+        "Infinity Customs Control Zone CX150180D",
+        "Amgalan Customs Control Zone CX100100D",
+        "Tuushin Customs Control Zone CX100100D",
+        "Tekhnik Import Customs Control Area CX100100D",
+        "Landbridge Customs Control Zone CX150180D",
+        "Chinggis Khaan International Airport Customs Office CX100100D",
+        "Chinggis Khaan International Airport Customs Office CX100100D",
+        "Baggage Inspection Area, Chinggis Khaan International Airport CX150180D",
+        "Khangi Customs Office, Khangi Border Crossing CX100100D — Unit 1",
+        "Khangi Border Crossing CX100100D — Unit 2",
+        "Dornod Province Customs Office, Khavirga Border Crossing CX100100D",
+        "Sumber Border Crossing CX7555D",
+        "Bayankhoshuu Border Crossing CX7555D",
+        "Sukhbaatar Province Customs Office, Bichigt Border Crossing CX100100D",
+        "Khovd Province Customs Office, Bulgan Border Crossing CX100100D",
+        "Bayan-Ulgii Province Customs Office, Tsagaannuur Border Crossing CX7555D — Unit 1",
+        "Tsagaannuur Border Crossing CX7555D — Unit 2",
+        "Dornogovi Province Customs Office, Zamyn-Uud Border Crossing CX150180D",
+        "Khuvsgul Province Customs Office, Murun Airport CX7555D",
+        "A total of 23 X-ray inspection systems were assembled, installed and handed over: 7 CX7555D systems, 12 CX100100D systems and 4 CX150180D systems.."
+      ],
+      "mn": [
+        "Улсын хэмжээнд дараах байршлуудад тоног төхөөрөмжийг нийлүүлж суурилуулсан.",
+        "Буянт-Ухаа Монгол шуудан салбар CX100100D",
+        "Ландмриж гаалийн хяналтын бүс CX100100D",
+        "Шинэ Улаанбаатар нисэх онгоцны буудал Монгол шуудан салбар CX7555D",
+        "Буянт-Ухаа Монгол шуудангийн салбар хяналтын бүс CX7555D",
+        "Инфинити гаалийн хяналтын бүс CX150180D",
+        "Амгалан гаалийн хяналтын бүс CX100100D",
+        "Туушин гаалийн хяналтын бүс CX100100D",
+        "Техник импорт гаалийн хяналтын талбай CX100100D",
+        "Ландвриж гаалийн хяналтын бүс CX150180D",
+        "Чингис хаан ОУНБ-ын гаалийн газар CX100100D",
+        "Чингис хаан ОУНБ-ын гаалийн газар CX100100D",
+        "Чингис хаан олон улсын нисэх онгоцны буудал ачаа тээшны хяналтын бүс CX150180D:",
+        "Ханги дахь гаалийн газар, Ханги боомт CX100100D-1",
+        "Ханги боомт CX100100D-2",
+        "Дорнод аймаг дахь гаалийн газар: Хавирга боомт CX100100D",
+        "Сүмбэр боомт CX7555D",
+        "Баянхошуу боомт CX7555D",
+        "Сүхбаатар аймаг дахь гаалийн газар: Бичигт боомт CX100100D",
+        "Ховд аймаг дахь гаалийн газар: Булган боомт CX100100D",
+        "Баян-Өлгий аймаг дахь гаалийн газар: Цагааннуур боомт CX7555D-1",
+        "Цагааннуур боомт CX75555D-2",
+        "Дорноговь аймаг дахь гаалийн газар: Замын-Үүд боомт CX150180D",
+        "Хөвсгөл аймаг дахь гаалийн газар: Мөрөн нисэх онгоцны буудал CX7555D",
+        "Нийт CX7555D 7 иж бүрдэл, CX100100D 12 иж бүрдэл, CX150180D 4 иж бүрдэл рентген тоног төхөөрөмж угсарч суурилуулан хүлээлгэн өгсөн болно."
+      ]
+    },
+    "images": [
+      "/images/projects/p08-1.webp",
+      "/images/projects/p08-2.webp",
+      "/images/projects/p08-3.webp",
+      "/images/projects/p08-4.webp",
+      "/images/projects/p08-5.webp",
+      "/images/projects/p08-6.webp",
+      "/images/projects/p08-7.webp",
+      "/images/projects/p08-8.webp",
+      "/images/projects/p08-9.webp",
+      "/images/projects/p08-10.webp",
+      "/images/projects/p08-11.webp",
+      "/images/projects/p08-12.webp",
+      "/images/projects/p08-13.webp",
+      "/images/projects/p08-14.webp",
+      "/images/projects/p08-15.webp"
+    ],
+    "cover": "/images/projects/p08-2.webp",
+    "coverWidth": 553
+  },
+  {
+    "slug": "09-supply-and-installation-of-three-neuvision-850",
+    "n": 9,
+    "start": "2025-12-18",
+    "end": "2026-04-20",
+    "title": {
+      "en": "Supply and Installation of Three NeuVision 850 Digital Radiography Systems Manufactured by Neusoft Medical Systems Co., Ltd.",
+      "mn": "Neusoft Medical Systems Co., Ltd NeuVision 850 загварын гурван ширхэг Дижитал рентген системийн нийлүүлэлт болон угсралт."
+    },
+    "client": {
+      "en": "Songinokhairkhan District Hospital, Enerel Hospital in Bayanzurkh District, and Baganuur District Hospital.",
+      "mn": "Сонгинохайрхан, Баянзүрх дүүргийн Энэрэл эмнэлэг, Багануур дүүргийн эмнэлэг."
+    },
+    "body": {
+      "en": [
+        "Completed customs clearance and received the X-ray equipment.",
+        "Obtained the required licenses for importing and transporting radiation sources from the competent government authorities.",
+        "Loaded the X-ray equipment under conditions meeting applicable standards and safely transported it to Baganuur District General Hospital.",
+        "Supported the manufacturer’s engineers during mechanical assembly and installation.",
+        "Completed power supply connections.",
+        "Configured the system software.",
+        "Tested DICOM connectivity.",
+        "Connected and configured the Access Carte system.",
+        "Performed test imaging.",
+        "Conducted safety inspections and tests.",
+        "Provided hospital engineers, physicians and operators with training and instruction on equipment operation and safety.",
+        "Completed assembly, testing and commissioning, and formally handed over the fully operational equipment to the client organizations.",
+        "The NeuVision 850 digital radiography systems were fully assembled and installed at Songinokhairkhan District Hospital, Enerel Hospital in Bayanzurkh District, and Baganuur District Hospital. All systems were tested, commissioned and handed over in accordance with the manufacturer’s technical requirements and applicable Mongolian standards. At handover, the systems were operating normally, the equipment was complete and undamaged, and all safety requirements were met."
+      ],
+      "mn": [
+        "Рентген төхөөрөмжийг гаалийн бүрдүүлэлт хийж хүлээн авсан.",
+        "Цацрагийн үүсгүүрийн импорт, тээвэрлэлтийн тусгай зөвшөөрлийг эрх бүхий төрийн захиргааны байгууллагаас авсан.",
+        "Рентген тоног төхөөрөмжийг стандартын шаардлага хангасан нөхцөлд ачиж, Багануур дүүргийн нэгдсэн эмнэлэгт аюулгүй тээвэрлэн хүргэсэн.",
+        "Рентген тоног төхөөрөмжийн механик угсралт, суурилуулалтыг үйлдвэрлэгчийн инженерүүд угсарч суурилуулан бид угсралт суурилуулалтад дэмжин ажилласан.",
+        "Цахилгаан тэжээлийн холболт",
+        "Системийн программ тохируулга",
+        "DICOM холболтын шалгалт",
+        "Access Carte Систем холболт тохируулга",
+        "Туршилтын зураг авалт",
+        "Аюулгүй ажиллагааны шалгалт, туршилт",
+        "Эмнэлгийн инженер, эмч, операторуудад тоног төхөөрөмжийн ашиглалт, аюулгүй ажиллагааны сургалт, зааварчилгааг зохион байгуулсан.",
+        "Тоног төхөөрөмжийг бүрэн угсарч, туршиж шалган хэвийн ажиллагаатай байдалд ашиглалтад оруулж, захиалагч байгууллагад албан ёсоор хүлээлгэн өгсөн.",
+        "NeuVision 850 загварын дижитал рентген радиографи системийг Сонгинохайрхан, Баянзүрх дүүргийн Энэрэл эмнэлэг, Багануур дүүргийн эмнэлэгт бүрэн угсарч суурилуулан, үйлдвэрлэгчийн техникийн шаардлага болон Монгол Улсын холбогдох стандартын дагуу туршиж шалган ашиглалтад оруулж, хүлээлгэн өгсөн болно.Тоног төхөөрөмж хүлээлгэн өгөх үед системийн ажиллагаа хэвийн, тоног төхөөрөмж бүрэн бүтэн ба аюулгүй ажиллагааны шаардлага хангаж байна."
+      ]
+    },
+    "images": [
+      "/images/projects/p09-1.webp",
+      "/images/projects/p09-2.webp",
+      "/images/projects/p09-3.webp",
+      "/images/projects/p09-4.webp",
+      "/images/projects/p09-5.webp",
+      "/images/projects/p09-6.webp",
+      "/images/projects/p09-7.webp",
+      "/images/projects/p09-8.webp",
+      "/images/projects/p09-9.webp"
+    ],
+    "cover": "/images/projects/p09-2.webp",
+    "coverWidth": 1600
+  },
+  {
+    "slug": "10-supply-of-x-ray-inspection-equipment-for",
+    "n": 10,
+    "start": "2026-04-23",
+    "end": "2026-07-06",
+    "title": {
+      "en": "Supply of X-ray Inspection Equipment for the Customs Office at Chinggis Khaan International Airport",
+      "mn": "Чингис Хаан Олон Улсын нисэх буудал дахь Гаалийн газарт хяналт шалгалтанд ашиглах рентген аппарат нийлүүлэх"
+    },
+    "client": {
+      "en": "Ulaanbaatar City Governor’s Office",
+      "mn": "Нийслэлийн Засаг Даргын Тамгын Газар"
+    },
+    "body": {
+      "en": [
+        "Imported CX7555D and CX100100D X-ray inspection systems, manufactured by NUCTECH COMPANY LIMITED, China, into Mongolia and completed customs clearance in accordance with applicable laws and regulations.",
+        "Obtained the required license to import X-ray equipment from the competent government authority and carried out the import activities in compliance with applicable legislation.",
+        "Transported the equipment under conditions meeting applicable standards and safely delivered it to the Customs Office at Chinggis Khaan International Airport.",
+        "The manufacturer’s engineers and the supplier’s engineering and technical personnel jointly completed mechanical assembly, installation, electrical connections, configuration and testing.",
+        "Tested and verified equipment performance against the manufacturer’s technical requirements and commissioned the systems for operation.",
+        "Provided the client’s designated personnel with training and instructions on equipment operation, routine maintenance and safety.",
+        "Jointly inspected the quantity, completeness, technical specifications and operation of the supplied equipment, confirming full compliance with the contractual terms and technical requirements."
+      ],
+      "mn": [
+        "БНХАУ-ын NUCTECH COMPANY LIMITED компанийн үйлдвэрлэсэн CX7555D болон CX100100D загварын рентген хяналт шалгалтын төхөөрөмжүүдийг Монгол Улсад импортлон оруулж, гаалийн бүрдүүлэлтийг хууль тогтоомжийн дагуу бүрэн хийж гүйцэтгэсэн.",
+        "Рентген тоног төхөөрөмж импортлох тусгай зөвшөөрлийг эрх бүхий төрийн захиргааны байгууллагаас авч, импортын үйл ажиллагааг холбогдох хууль тогтоомжийн дагуу хэрэгжүүлсэн.",
+        "Төхөөрөмжүүдийг стандартын шаардлага хангасан нөхцөлд тээвэрлэн Чингис Хаан олон улсын нисэх буудал дахь Гаалийн газарт аюулгүй хүргэж нийлүүлсэн.",
+        "Үйлдвэрлэгчийн инженерүүд болон нийлүүлэгчийн инженер, техникийн ажилтнууд хамтран тоног төхөөрөмжийн механик угсралт, суурилуулалт, цахилгааны холболт, тохируулга, туршилтыг бүрэн хийж гүйцэтгэсэн.",
+        "Төхөөрөмжүүдийн ажиллагааг туршиж шалган, үйлдвэрлэгчийн техникийн шаардлагын дагуу хэвийн ажиллагааг баталгаажуулж ашиглалтад оруулсан.",
+        "Захиалагч байгууллагын холбогдох ажилтнуудад төхөөрөмжийн ашиглалт, өдөр тутмын арчилгаа, аюулгүй ажиллагааны талаарх зааварчилгаа, сургалтыг зохион байгуулсан.",
+        "Талууд нийлүүлсэн тоног төхөөрөмжийн тоо хэмжээ, иж бүрдэл, техникийн үзүүлэлт болон ажиллагааг хамтран шалгаж, гэрээний нөхцөл, техникийн шаардлагыг бүрэн хангасан болохыг баталгаажуулсан."
+      ]
+    },
+    "images": [
+      "/images/projects/p10-1.webp",
+      "/images/projects/p10-2.webp",
+      "/images/projects/p10-3.webp",
+      "/images/projects/p10-4.webp"
+    ],
+    "cover": "/images/projects/p10-3.webp",
+    "coverWidth": 586
+  },
+  {
+    "slug": "11-supply-of-a-portable-xrf-analyzer-for",
+    "n": 11,
+    "start": "2026-05-18",
+    "end": "2026-07-21",
+    "title": {
+      "en": "Supply of a Portable XRF Analyzer for Semi-Quantitative Analysis of Heavy Metals in Soil",
+      "mn": "Хөрсний хүнд метал тодорхойлох хагас тоон анализийн XRF зөөврийн багаж нийлүүлэлт"
+    },
+    "client": {
+      "en": "Ulaanbaatar City Environment Department",
+      "mn": "Нийслэлийн Байгаль Орчны Газар"
+    },
+    "body": {
+      "en": [
+        "Supplied and handed over a Drawell DW-EX 9000 portable XRF analyzer for semi-quantitative analysis of heavy metals in soil to the Ulaanbaatar City Environment Department."
+      ],
+      "mn": [
+        "Нийслэлийн Байгаль Орчны Газар-т Drawell DW-EX 9000 загварын хөрсний хүнд металл тодорхойлох хагас тоон анализийн зөөврийн XRF төхөөрөмжийг хүлээлгэн өгсөн."
+      ]
+    },
+    "images": [
+      "/images/projects/p11-1.webp",
+      "/images/projects/p11-2.webp",
+      "/images/projects/p11-3.webp",
+      "/images/projects/p11-4.webp",
+      "/images/projects/p11-5.webp"
+    ],
+    "cover": "/images/projects/p11-2.webp",
+    "coverWidth": 1200
+  },
+  {
+    "slug": "12-supply-of-pathology-equipment-to-baganuur-district",
+    "n": 12,
+    "start": "2026-03-03",
+    "end": "2026-04-20",
+    "title": {
+      "en": "Supply of Pathology Equipment to Baganuur District Health Center",
+      "mn": "Багануур дүүргийн Эрүүл мэндийн төвд эмгэг судлалын тоног төхөөрөмж нийлүүлэх"
+    },
+    "client": {
+      "en": "Baganuur District Governor’s Office and Health Center",
+      "mn": "Багануур дүүргийн Засаг даргын Тамгын газар, Эрүүл мэндийн төв"
+    },
+    "body": {
+      "en": [
+        "Supplied one fume hood, one archive storage cabinet and one semi-automatic microtome to the pathology laboratory at Baganuur District Health Center. Assembled and installed the equipment, verified its operation, provided user training, and handed it over to the client with the relevant documentation."
+      ],
+      "mn": [
+        "Багануур дүүргийн Эрүүл мэндийн төвийн эмгэг судлалын лабораторид сорох шүүгээ, архивын шүүгээ, хагас автомат микротом тус бүр 1 ширхэг нийлүүлсэн. Тоног төхөөрөмжүүдийг угсарч суурилуулан, ажиллагааг шалгаж, ашиглалтын сургалт зохион байгуулж, холбогдох баримт бичгийн хамт захиалагчид хүлээлгэн өгсөн."
+      ]
+    },
+    "images": [],
+    "cover": null,
+    "coverWidth": 0
+  }
+]

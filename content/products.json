@@ -1,0 +1,2029 @@
+{
+  "groups": {
+    "baggage-parcel": {
+      "en": "Baggage and Parcel Inspection",
+      "mn": "Ачаа тээш, илгээмжийн хяналт шалгалт"
+    },
+    "personnel-screening": {
+      "en": "Personnel Security Screening",
+      "mn": "Хүний биеийн аюулгүй байдлын үзлэг"
+    },
+    "explosives-narcotics": {
+      "en": "Explosives and Narcotics Detection Equipment",
+      "mn": "Тэсрэх болон мансууруулах бодис илрүүлэх төхөөрөмж"
+    },
+    "radiation-dosimetry": {
+      "en": "Radiation Detection and Dosimetry Solutions",
+      "mn": "Цацраг илрүүлэх, тун хэмжих шийдлүүд"
+    }
+  },
+  "products": [
+    {
+      "slug": "cx6040d-x-ray-inspection-system",
+      "category": "radiation",
+      "group": "baggage-parcel",
+      "name": {
+        "en": "NUCTECH CX6040D —X-ray Inspection System",
+        "mn": "NUCTECH CX6040D — Рентген хяналтын систем"
+      },
+      "overview": {
+        "en": [
+          "CX6040D is an advanced dual-view X-ray inspection system for screening hand-held baggage, small checked luggage and parcels. It provides high quality images of vertical and horizontal view of the object, and this facilitates better identification of the inner information of the baggage. CX6040D stands out with modern and ergonomic design for efficient and professional X-ray screening."
+        ],
+        "mn": [
+          "CX6040D нь гар тээш, жижиг хэмжээний тээш болон илгээмжийг шалгах зориулалттай, хоёр өнцгөөс дүрслэх дэвшилтэт рентген хяналтын систем юм. Шалгаж буй эд зүйлийн босоо болон хэвтээ чиглэлийн өндөр чанартай дүрсийг гаргаж, тээшний доторх агуулгыг илүү нарийвчлалтай таних боломж олгоно. Орчин үеийн, эргономик хийц нь хяналт шалгалтыг үр ашигтай гүйцэтгэх нөхцөлийг бүрдүүлдэг."
+        ]
+      },
+      "features": {
+        "en": [
+          "Dual-view X-ray imaging design provides more efficient identification",
+          "Excellent image performance and objects identification capability",
+          "Optimal user experience based on ergonomic design"
+        ],
+        "mn": [
+          "Хоёр өнцгөөс рентген дүрс үүсгэх технологи нь эд зүйлсийг илүү үр дүнтэй таних боломж олгоно.",
+          "Өндөр чанартай дүрслэл, эд зүйлсийг ялган таних чадвартай.",
+          "Эргономик хийц нь операторын ажиллах тав тух, ашиглахад хялбар байдлыг хангана."
+        ]
+      }
+    },
+    {
+      "slug": "cx7555bi-x-ray-inspection-system",
+      "category": "radiation",
+      "group": "baggage-parcel",
+      "name": {
+        "en": "CX7555BI X-ray Inspection System",
+        "mn": "CX7555BI рентген хяналтын систем"
+      },
+      "overview": {
+        "en": [
+          "CX7555BI – With large tunnel for sceening oversized carry-on baggage, it is perfectly suitable for inspection of hand-held baggage, and parcels in airports, customs, railway stations etc."
+        ],
+        "mn": [
+          "CX7555BI нь том оврын гар тээш шалгах зориулалттай, өргөн нэвтрүүлэх хонгил бүхий рентген хяналтын систем юм. Нисэх буудал, гааль, төмөр замын өртөө зэрэг газарт гар тээш, илгээмж шалгахад тохиромжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Excellent image performance and objects identification capability",
+          "Smart image geometry correction algorithm is applied to reduce object distortion in x-ray images for better identification",
+          "Passed CAAC Certificate"
+        ],
+        "mn": [
+          " Өндөр чанартай дүрслэл, эд зүйлсийг ялган таних чадвар.",
+          " Дүрсний геометрийн гажуудлыг засах ухаалаг алгоритм нь рентген зураг дахь эд зүйлсийн хэлбэрийн гажилтыг бууруулж, танихад хялбар болгодог.",
+          " Хятадын Иргэний нисэхийн удирдах газрын (CAAC) гэрчилгээтэй."
+        ]
+      }
+    },
+    {
+      "slug": "cx7555d-x-ray-inspection-system",
+      "category": "radiation",
+      "group": "baggage-parcel",
+      "name": {
+        "en": "CX7555D X-ray Inspection System",
+        "mn": "CX7555D рентген хяналтын систем"
+      },
+      "overview": {
+        "en": [
+          "The NUCTECH™ CX7555D X-ray Inspection System employees dual view design, images of each view will be shown on a dedicated monitor, thus dangerous objects and contrabands hidden beneath overlapping area are more likely to be found and located. With more modern and ergonomic design for efficient and professional X-ray screening, it is perfectly suitable for briefcases, hand-held baggage, and parcels in airports, customs, railway stations, coach stations, ports, important events, government offices, stadiums, etc."
+        ],
+        "mn": [
+          "NUCTECH™ CX7555D нь эд зүйлсийг хоёр өнцгөөс дүрсэлж, өнцөг тус бүрийн зургийг тусдаа дэлгэцээр харуулдаг рентген хяналтын систем юм. Ингэснээр давхарласан эд зүйлсийн дунд нуугдсан аюултай болон хориотой зүйлсийг илрүүлэх, байршлыг нь тогтооход хялбар болдог.",
+          "Орчин үеийн, эргономик загвартай энэхүү систем нь нисэх буудал, гааль, төмөр замын өртөө, автобусны буудал, боомт, томоохон арга хэмжээ, төрийн байгууллага, цэнгэлдэх хүрээлэн зэрэг газарт цүнх, гар тээш, илгээмжийг шуурхай, үр дүнтэй шалгахад тохиромжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Dual-view X-ray imaging design provides more efficient identification",
+          "Excellent image performance and objects identification capability",
+          "Smart image geometry correction algorithm is applied to reduce object distortion in x-ray images for better identification"
+        ],
+        "mn": [
+          " Хоёр өнцгийн рентген дүрслэл нь эд зүйлсийг илүү үр дүнтэй ялган таних боломж олгодог.",
+          " Өндөр чанартай дүрслэл, эд зүйлсийг ялган таних чадвартай.",
+          " Дүрсний геометрийн гажуудлыг засах ухаалаг алгоритм нь рентген зураг дахь эд зүйлсийн хэлбэрийн гажилтыг бууруулж, танихад хялбар болгодог."
+        ]
+      }
+    },
+    {
+      "slug": "cx8065ti-x-ray-inspection-system",
+      "category": "radiation",
+      "group": "baggage-parcel",
+      "name": {
+        "en": "CX8065TI X-ray Inspection System",
+        "mn": "CX8065TI рентген хяналтын систем"
+      },
+      "overview": {
+        "en": [
+          "CX8065TI – CX8065 is perfectly suitable for inspection of hand-held baggage, large luggage, and parcels with small footprint in airports, customs, railway stations, etc."
+        ],
+        "mn": [
+          "CX8065TI нь нисэх буудал, гааль, төмөр замын өртөө зэрэг газарт гар тээш, том оврын ачаа тээш, илгээмж шалгах зориулалттай рентген хяналтын систем юм. Зай бага эзэлдэг тул талбай хязгаарлагдмал орчинд суурилуулахад тохиромжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Excellent image performance and objects identification capability",
+          "Smart image geometry correction algorithm is applied to reduce object distortion in x-ray images for better identification",
+          "Passed CAAC Certificate"
+        ],
+        "mn": [
+          " Өндөр чанартай дүрслэл, эд зүйлсийг ялган таних чадвартай.",
+          " Дүрсний геометрийн гажуудлыг засах ухаалаг алгоритм нь рентген зураг дахь эд зүйлсийн хэлбэрийн гажилтыг бууруулж, танихад хялбар болгодог.",
+          " Хятадын Иргэний нисэхийн удирдах газрын (CAAC) гэрчилгээтэй."
+        ]
+      }
+    },
+    {
+      "slug": "cx100100d-x-ray-inspection-system",
+      "category": "radiation",
+      "group": "baggage-parcel",
+      "name": {
+        "en": "CX100100D X-ray Inspection System",
+        "mn": "CX100100D рентген хяналтын систем"
+      },
+      "overview": {
+        "en": [
+          "CX100100D is an advanced product of dual-view dual-energy X-ray inspection machine for inspection of large luggage, baggage and small cargoe. It stands out with more modern and ergonomic design for efficient and professional X-ray screening.",
+          "With the tunnel dimensions of 1010mm width and 1005mm height, it is perfectly suitable for baggage inspection in airports, railway stations, customs, ports and stadiums, etc."
+        ],
+        "mn": [
+          "CX100100D нь том оврын ачаа тээш, цүнх болон жижиг ачааг шалгах зориулалттай, хоёр өнцгийн дүрслэл, хос энергийн технологи бүхий дэвшилтэт рентген хяналтын систем юм. Орчин үеийн, эргономик загвар нь хяналт шалгалтыг үр дүнтэй гүйцэтгэх боломж олгодог.",
+          "Нэвтрүүлэх хонгил нь 1010 мм өргөн, 1005 мм өндөр бөгөөд нисэх буудал, төмөр замын өртөө, гааль, боомт, цэнгэлдэх хүрээлэн зэрэг газарт ачаа тээш шалгахад тохиромжтой"
+        ]
+      },
+      "features": {
+        "en": [
+          "Dual-view X-ray imaging design provides more efficient identification",
+          "Excellent image performance and objects identification capability",
+          "Optimal user experience based on ergonomic design"
+        ],
+        "mn": [
+          "Хоёр өнцгийн рентген дүрслэл нь эд зүйлсийг илүү үр дүнтэй ялган таних боломж олгодог.",
+          "Өндөр чанартай дүрслэл, эд зүйлсийг ялган таних чадвартай.",
+          "Эргономик загвар нь операторын ажлыг хөнгөвчилж, ашиглахад тав тухтай байдлыг хангадаг."
+        ]
+      }
+    },
+    {
+      "slug": "cx100100db-x-ray-inspection-system",
+      "category": "radiation",
+      "group": "baggage-parcel",
+      "name": {
+        "en": "CX100100DB X-Ray Inspection System",
+        "mn": "CX100100DB рентген хяналтын систем"
+      },
+      "overview": {
+        "en": [
+          "CX100100DB is an advanced product of dual-view dual-energy X-ray inspection machine for inspection of large luggage, baggage and small cargoe. It stands out with more modern and ergonomic design for efficient and professional X-ray screening.",
+          "With the tunnel dimensions of 1010mm width and 1005mm height, it is perfectly suitable for baggage inspection in airports, railway stations, customs, ports and stadiums, etc."
+        ],
+        "mn": [
+          "CX100100DB нь том оврын ачаа тээш, цүнх болон жижиг ачааг шалгах зориулалттай, хоёр өнцгийн дүрслэл, хос энергийн технологи бүхий дэвшилтэт рентген хяналтын систем юм. Орчин үеийн, эргономик загвар нь хяналт шалгалтыг үр дүнтэй гүйцэтгэх боломж олгодог.",
+          "Нэвтрүүлэх хонгил нь 1010 мм өргөн, 1005 мм өндөр бөгөөд нисэх буудал, төмөр замын өртөө, гааль, боомт, цэнгэлдэх хүрээлэн зэрэг газарт ачаа тээш шалгахад тохиромжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Dual-view X-ray imaging design provides more efficient identification",
+          "Excellent image performance and objects identification capability",
+          "Optimal user experience based on ergonomic design"
+        ],
+        "mn": [
+          " Хоёр өнцгийн рентген дүрслэл нь эд зүйлсийг илүү үр дүнтэй ялган таних боломж олгодог.",
+          " Өндөр чанартай дүрслэл, эд зүйлсийг ялган таних чадвартай.",
+          " Эргономик загвар нь операторын ажлыг хөнгөвчилж, ашиглахад тав тухтай байдлыг хангадаг."
+        ]
+      }
+    },
+    {
+      "slug": "cx130130d-x-ray-inspection-system",
+      "category": "radiation",
+      "group": "baggage-parcel",
+      "name": {
+        "en": "CX130130D X-Ray Inspection System",
+        "mn": "CX130130D рентген хяналтын систем"
+      },
+      "overview": {
+        "en": [
+          "CX130130D is an advanced product of dual-view dual-energy X-ray inspection machine for inspection of large luggage, baggage and small cargoe. It stands out with more modern and ergonomic design for efficient and professional X-ray screening.",
+          "With the tunnel dimensions of 1310mm width and 1318mm height, it is perfectly suitable for baggage inspection in airports, railway stations, customs, ports and stadiums, etc."
+        ],
+        "mn": [
+          "CX130130D нь том оврын ачаа тээш, цүнх болон жижиг ачааг шалгах зориулалттай, хоёр өнцгийн дүрслэл, хос энергийн технологи бүхий дэвшилтэт рентген хяналтын систем юм. Орчин үеийн, эргономик загвар нь хяналт шалгалтыг үр дүнтэй гүйцэтгэх боломж олгодог.",
+          "Нэвтрүүлэх хонгил нь 1310 мм өргөн, 1318 мм өндөр бөгөөд нисэх буудал, төмөр замын өртөө, гааль, боомт, цэнгэлдэх хүрээлэн зэрэг газарт ачаа тээш шалгахад тохиромжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Dual-view X-ray imaging design provides more efficient identification",
+          "Excellent image performance and objects identification capability",
+          "Optimal user experience based on ergonomic design"
+        ],
+        "mn": [
+          " Хоёр өнцгийн рентген дүрслэл нь эд зүйлсийг илүү үр дүнтэй ялган таних боломж олгодог.",
+          " Өндөр чанартай дүрслэл, эд зүйлсийг ялган таних чадвартай.",
+          " Эргономик загвар нь операторын ажлыг хөнгөвчилж, ашиглахад тав тухтай байдлыг хангадаг."
+        ]
+      }
+    },
+    {
+      "slug": "cx150180d-x-ray-inspection-system",
+      "category": "radiation",
+      "group": "baggage-parcel",
+      "name": {
+        "en": "CX150180D X-ray Inspection System",
+        "mn": "CX150180D рентген хяналтын систем"
+      },
+      "overview": {
+        "en": [
+          "NUCTECH™ CX150180D employs dual-view design, images of each view will be shown on a dedicated monitor. It gives both vertical and horizontal views for the screened luggage and cargo. It has good performance in steel penetration because of its high anode voltage."
+        ],
+        "mn": [
+          "NUCTECH™ CX150180D нь ачаа тээш, барааг босоо болон хэвтээ хоёр өнцгөөс дүрсэлж, өнцөг тус бүрийн зургийг тусдаа дэлгэцээр харуулдаг рентген хяналтын систем юм. Анодын өндөр хүчдэлийн ачаар ган материалыг нэвт дүрслэх өндөр чадвартай."
+        ]
+      },
+      "features": {
+        "en": [
+          "Provided vertical and horizontal views.",
+          "Dual-view x-ray imaging design provides more efficient identification.",
+          "High performance in steel penetration"
+        ],
+        "mn": [
+          " Ачаа тээш, барааг босоо болон хэвтээ өнцгөөс дүрсэлдэг.",
+          " Хоёр өнцгийн рентген дүрслэл нь эд зүйлсийг илүү үр дүнтэй ялган таних боломж олгодог.",
+          " Ган материалыг нэвт дүрслэх өндөр чадвартай."
+        ]
+      }
+    },
+    {
+      "slug": "mx100100d-x-ray-inspection-system",
+      "category": "radiation",
+      "group": "baggage-parcel",
+      "name": {
+        "en": "MX100100D X-ray Inspection System",
+        "mn": "MX100100D хөдөлгөөнт рентген хяналтын систем"
+      },
+      "overview": {
+        "en": [
+          "MX100100D - X-ray inspection system integrated with vehicle for mobile and temporary applications. It employees dual view design, images of each view will be shown on a dedicated monitor.",
+          "MX100100D is ideal for mobile security inspection of baggage, luggage and parcels at airports, customs, railway stations, police stations, etc."
+        ],
+        "mn": [
+          "MX100100D нь явуулын болон түр хугацааны хяналт шалгалтад зориулан автомашинд суурилуулсан рентген хяналтын систем юм. Эд зүйлсийг хоёр өнцгөөс дүрсэлж, өнцөг тус бүрийн зургийг тусдаа дэлгэцээр харуулдаг.",
+          "Нисэх буудал, гааль, төмөр замын өртөө, цагдаагийн байгууллага зэрэг газарт цүнх, ачаа тээш, илгээмжийн хөдөлгөөнт аюулгүй байдлын шалгалт хийхэд тохиромжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Provided vertical and horizontal views.",
+          "Dual-view x-ray imaging design provides more efficient identification.",
+          "Comfortable and suitable position of the operating cab with CCTV system, intercom system, air conditioning system,etc",
+          "Equipped with power generator, easy to switch between city mains and on board generator"
+        ],
+        "mn": [
+          " Эд зүйлсийг босоо болон хэвтээ өнцгөөс дүрсэлдэг.",
+          " Хоёр өнцгийн рентген дүрслэл нь эд зүйлсийг илүү үр дүнтэй ялган таних боломж олгодог.",
+          " Операторын бүхээг нь тав тухтай, ажиллахад тохиромжтой бөгөөд камерын хяналт (CCTV), дотоод холбоо, агааржуулалтын системээр тоноглогдсон.",
+          " Цахилгаан үүсгүүртэй бөгөөд төвийн цахилгаан сүлжээ болон автомашинд суурилуулсан үүсгүүрийн тэжээлийн хооронд хялбар шилжих боломжтой."
+        ]
+      }
+    },
+    {
+      "slug": "key-line-passenger-smart-checkpoint",
+      "category": "radiation",
+      "group": "baggage-parcel",
+      "name": {
+        "en": "Key-Line Passenger Smart Checkpoint",
+        "mn": "Key-Line зорчигчийн аюулгүй байдлын ухаалаг хяналтын цэг"
+      },
+      "overview": {
+        "en": [
+          "The system has equipped with disinfection module, which can efficiently sterilize the tray used by passengers, and effectively reduce the probability of cross-infection between the passengers and staff through the tray.",
+          "In addition, the system integrates with the empty tray recognition system, automatic tray return system, automatic diverter system and remote screening function, to ensure that all the passenger carry-on luggage been fully inspected under the high throughput rate, which can greatly improve the inspection efficiency."
+        ],
+        "mn": [
+          "Key-Line нь зорчигчдын гар тээшний шалгалтыг автоматжуулж, нэвтрүүлэх хүчин чадал, хяналтын үр ашгийг нэмэгдүүлэх нэгдсэн систем юм. Тавиур халдваргүйжүүлэх модуль нь зорчигч, ажилтнуудын хооронд тавиураар дамжих халдварын эрсдэлийг бууруулдаг.",
+          "Хоосон тавиур таних, тавиурыг автоматаар буцаах, ачааг автоматаар чиглүүлэх болон алсаас дүрс шалгах функцүүдийг нэгтгэснээр зорчигчдын урсгал ихтэй үед гар тээшийг бүрэн шалгах боломж бүрдүүлдэг."
+        ]
+      },
+      "features": {
+        "en": [
+          "Empty tray disinfection module:",
+          "Using the ultraviolet technology, which can disinfect the tray at returning channel, and prevent cross-infection.",
+          "High throughput:",
+          "The system equipped with the automatic tray return, automatic diverter and empty tray recognition system, etc., hourly throughput is twice as high as the regular security lane.",
+          "Advanced human-luggage binding module:",
+          "Using facial recognition technology to enroll the passenger information, and binding with the luggage scanning image, to achieve the unified management of passenger information, reduce the risk of loss luggage.",
+          "Powerful management and interconnection function:",
+          "The system supports the remote screening, remote diagnosis, information centralized management, etc.. And it can connect with airport security information system, master clock system, departure system, etc., to achieve the real-time sharing and management of data of each system.",
+          "Excellent compatibility:",
+          "The system can be integrated with different types of CT or conventional X-ray inspection systems to accommodate different customer preference.",
+          "Flexible modular design:",
+          "The system can be flexibly configured depends on site area and throughput requirement."
+        ],
+        "mn": [
+          " Хоосон тавиур халдваргүйжүүлэх модуль:",
+          "Буцах дамжлага дахь тавиурыг хэт ягаан туяагаар халдваргүйжүүлж, дам халдварын эрсдэлийг бууруулдаг.",
+          " Нэвтрүүлэх өндөр хүчин чадал:",
+          "Тавиур автоматаар буцаах, ачаа чиглүүлэх, хоосон тавиур таних системүүдийн тусламжтайгаар ердийн хяналтын шугамаас ойролцоогоор хоёр дахин өндөр нэвтрүүлэх хүчин чадалтай.",
+          " Зорчигч, тээшний мэдээллийг холбох модуль:",
+          "Нүүр таних технологиор зорчигчийн мэдээллийг бүртгэж, тээшний рентген дүрстэй холбодог. Ингэснээр зорчигч, тээшний мэдээллийг нэгдсэн байдлаар удирдаж, тээш алдагдах эрсдэлийг бууруулдаг.",
+          " Нэгдсэн удирдлага, систем хоорондын холболт:",
+          "Алсаас дүрс шалгах, техникийн оношилгоо хийх, мэдээллийг төвлөрүүлэн удирдах боломжтой. Нисэх буудлын аюулгүй байдлын мэдээллийн систем, нэгдсэн цагийн систем, нислэгийн бүртгэл, удирдлагын системтэй холбогдож, мэдээллийг бодит цагийн горимоор солилцдог.",
+          " Өргөн нийцтэй байдал:",
+          "Хэрэглэгчийн хэрэгцээнд тохируулан төрөл бүрийн компьютер томографын (CT) болон уламжлалт рентген хяналтын системтэй нэгтгэх боломжтой.",
+          " Уян хатан модульчлагдсан загвар:",
+          "Суурилуулах талбай болон шаардлагатай нэвтрүүлэх хүчин чадалд тохируулан системийн бүрдэл, зохион байгуулалтыг өөрчлөх боломжтой."
+        ]
+      }
+    },
+    {
+      "slug": "wedrop-self-service-baggage-check-system",
+      "category": "radiation",
+      "group": "baggage-parcel",
+      "name": {
+        "en": "WeDrop Self-Service Baggage Check System",
+        "mn": "WeDrop өөртөө үйлчлэх тээш бүртгэлийн систем"
+      },
+      "overview": {
+        "en": [
+          "The NUCTECH™ WeDrop is a newly developed side-mounted self-service baggage check system. It is a user-friendly system designed with touch-screen and multilingual human-machine interaction interface.",
+          "WeDrop can make the baggage check process easier and more standardized with automatic detection of over-sized/overweight baggage and supports self-pay for overweight baggage. With practical functions and concise appearance, it greatly improves the service quality and efficiency of airport baggage check process."
+        ],
+        "mn": [
+          "NUCTECH™ WeDrop нь хажуу талаас тээш байрлуулах боломжтой, өөртөө үйлчлэх тээш бүртгэлийн систем юм. Мэдрэгчтэй дэлгэц, олон хэлний интерфэйс нь зорчигчдод тээшээ хялбар бүртгүүлэх боломж олгодог.",
+          "Тээшний хэмжээ, жингийн хэтрэлтийг автоматаар илрүүлж, илүүдэл жингийн төлбөрийг зорчигч өөрөө төлөх боломжтой. Авсаархан загвар, практик функцүүд нь нисэх буудлын тээш бүртгэлийн үйлчилгээг жигд, шуурхай, үр дүнтэй болгодог."
+        ]
+      },
+      "features": {
+        "en": [
+          "Human oriented design",
+          "The front conveyor is only 200mm height from the ground. Lower conveyor belt combined with side-mounted design makes it easier for passengers to place their luggage. The human-machine interaction interface applies touch screen and also supports multi-languages to facilitate the operation.",
+          "Multi-function ID identification module",
+          "The Built-in ID reader and scanner support recognition of ID card, passport, boarding pass, and other documents.",
+          "Built-in printer supports printing respectively luggage tag, baggage claim slip and overweight luggage tag; the printer also supports printing luggage tag with RFID to enable baggage track of BHS.",
+          "Quick read of check luggage bar code",
+          "The split bar code reader is designed to quickly and accurately read the passenger's checked baggage code.",
+          "Auto-detect and alert of oversized/overweight baggage",
+          "Able to measure and weight luggage as well as detect types of luggage (soft bag, hard suitcase, baggage that do not support self-check, etc.)",
+          "Easy payment for overweight luggage",
+          "Support self-service payment for oversized luggage through UnionPay, Alipay and other customized payment methods can be developed. Able to print payment receipt automatically.",
+          "Effective safety guarantee",
+          "When WeDrop is turned off, the built-in metal rolling door can be automatically locked to prevent unrelated personnel from entering. The equipment integrates light screen detection to automatically detect illegal intrusion during the operation of the equipment; if an illegal intrusion is found, the conveyor belt immediately stops and rolls back, accompanied by a sound-light alarm."
+        ],
+        "mn": [
+          "Хэрэглэгчид ээлтэй загвар:",
+          "Тээш байрлуулах урд талын туузан дамжуурга шалнаас ердөө 200 мм өндөрт байрладаг. Намхан дамжуурга, хажуугийн байрлалтай загвар нь тээшээ тавихад хялбар болгодог. Мэдрэгчтэй дэлгэц нь олон хэлний сонголттой.",
+          "Баримт бичиг таних олон үйлдэлт модуль:",
+          "Суурилуулсан уншигч, сканнер нь иргэний үнэмлэх, гадаад паспорт, онгоцонд суух тасалбар болон бусад баримт бичгийг танина. Хэвлэгч нь тээшний шошго, тээш хүлээн авсан баримт, илүүдэл жингийн шошго хэвлэдэг. Мөн тээш боловсруулах системд (BHS) тээшийг хянах зориулалттай RFID шошго хэвлэх боломжтой.",
+          "Тээшний баркодыг шуурхай унших:",
+          "Тусдаа загвартай баркод уншигч нь бүртгүүлсэн тээшний кодыг хурдан, нарийвчлалтай уншдаг.",
+          "Тээшний хэмжээ, жингийн автомат хяналт:",
+          "Тээшний хэмжээ, жинг хэмжиж, зөвшөөрөгдөх хэмжээнээс хэтэрсэн тохиолдолд анхааруулна. Мөн зөөлөн цүнх, хатуу чемодан, өөртөө үйлчлэх бүртгэлд тохиромжгүй тээш зэрэг төрлүүдийг танина.",
+          "Илүүдэл жингийн төлбөр төлөх боломж:",
+          "UnionPay, Alipay ашиглан зорчигч өөрөө төлбөр төлөх боломжтой бөгөөд захиалгаар бусад төлбөрийн аргыг нэмж хөгжүүлэх боломжтой. Төлбөрийн баримтыг автоматаар хэвлэнэ.",
+          "Аюулгүй ажиллагааны хамгаалалт:",
+          "Системийг унтраахад суурилуулсан металл хуйлмал хаалга автоматаар түгжигдэж, зөвшөөрөлгүй хүн нэвтрэхээс сэргийлнэ. Ажиллаж байх үед гэрлэн хөшгөн мэдрэгч зөвшөөрөлгүй нэвтрэлтийг илрүүлбэл туузан дамжуурга нэн даруй зогсож, буцаан хөдөлж, дуут болон гэрлэн дохио өгнө."
+        ]
+      }
+    },
+    {
+      "slug": "mw2000aa-millimeter-wave-body-inspection-device",
+      "category": "radiation",
+      "group": "personnel-screening",
+      "name": {
+        "en": "MW2000AA Millimeter Wave Body Inspection Device",
+        "mn": "MW2000AA миллиметрийн долгионоор хүний бие шалгах төхөөрөмж"
+      },
+      "overview": {
+        "en": [
+          "NUCTECH™ MW2000AA Millimeter Wave Body Inspection Device is a high-performance, efficient body inspection solution designed and manufactured by NUCTECH. It adopts a new appearance, simple and friendly, and is equipped with E-band millimeter wave transceiver array with higher frequency, which has better image resolution and object recognition ability. MW2000AA can easily detect non-metal/metal weapons, explosives, drugs and liquid hidden under or within clothing.",
+          "MW2000AA employs wide-bandwidth three-dimensional holographic millimeter-wave imaging technology (with neural network-based deep learning) to achieve automatic threat recognition. The standing posture simply requires passengers to stand in the channel of the device with arms held slightly away from the sides of the body for two seconds.",
+          "MW2000AA provides additional features in its compactness, high throughput and unique privacy protection. The device is adaptable and ideally suited for security inspections at airports, customs, stations, secret agencies, commercial buildings, military bases, special events and other checkpoints."
+        ],
+        "mn": [
+          "NUCTECH™ MW2000AA нь хүний биеийн аюулгүй байдлын шалгалтыг шуурхай, үр дүнтэй гүйцэтгэх зориулалттай төхөөрөмж юм. Орчин үеийн, ашиглахад хялбар загвартай бөгөөд өндөр давтамжийн E зурвасын миллиметрийн долгион дамжуулах, хүлээн авах антены матрицаар тоноглогдсон. Энэ нь өндөр нягтаршилтай дүрс үүсгэж, хувцасны доор болон дотор нуугдсан металл, металл бус зэвсэг, тэсрэх бодис, мансууруулах бодис, шингэнийг илрүүлэх боломж олгодог.",
+          "Өргөн зурвасын гурван хэмжээст голограф дүрслэлийн технологийг мэдрэлийн сүлжээнд суурилсан гүн сургалтын алгоритмтай хослуулан, аюултай зүйлсийг автоматаар танина. Зорчигч төхөөрөмжийн шалгах хэсэгт гараа биеэсээ бага зэрэг хөндийрүүлэн хоёр секунд зогсоход хангалттай.",
+          "Авсаархан бүтэц, нэвтрүүлэх өндөр хүчин чадал, хувийн нууцыг хамгаалах шийдэлтэй. Нисэх буудал, гааль, тусгай алба, худалдаа, үйлчилгээний барилга, цэргийн бааз, тусгай арга хэмжээ болон бусад хяналтын цэгт ашиглахад тохиромжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "High-resolution imaging technology",
+          "AdvancedATRfunctional algorithm",
+          "Comprehensive security inspection",
+          "Enhancedfoot detection capability",
+          "Friendly experience for passengers",
+          "Noionizing radiation hazard to body",
+          "Integrated LED traffic indicator light",
+          "Centralized detection& management Certifications",
+          "Lowpowerconsumption and noise",
+          "Flexible and friendly in deployment",
+          "Life cycle equipment management",
+          "Certifications",
+          "ECAC SSc Standard 2.1 Type A",
+          "CE"
+        ],
+        "mn": [
+          "Өндөр нягтаршилтай дүрслэлийн технологи.",
+          "Аюултай зүйлсийг автоматаар таних дэвшилтэт алгоритм (ATR).",
+          "Аюулгүй байдлын иж бүрэн шалгалт.",
+          "Хөлийн хэсэгт нуугдсан зүйлсийг илрүүлэх сайжруулсан чадвар.",
+          "Зорчигчдод хялбар, тав тухтай шалгалт.",
+          "Хүний биед ионжуулагч цацрагийн эрсдэл үүсгэхгүй.",
+          "Нэвтрэх хөдөлгөөнийг чиглүүлэх LED гэрлэн дохио.",
+          "Илрүүлэлт, удирдлагын төвлөрсөн боломж.",
+          "Эрчим хүчний бага хэрэглээ, дуу чимээ багатай ажиллагаа.",
+          "Байршуулж, суурилуулахад уян хатан, хялбар.",
+          "Тоног төхөөрөмжийн ашиглалтын мөчлөгийн удирдлага.",
+          "ECAC SSc Standard 2.1 Type A гэрчилгээтэй",
+          "CE гэрчилгээтэй"
+        ]
+      }
+    },
+    {
+      "slug": "wepass-smart-access-control-system",
+      "category": "radiation",
+      "group": "personnel-screening",
+      "name": {
+        "en": "WePass Smart Access Control System",
+        "mn": "WePass нэвтрэх хяналтын ухаалаг систем"
+      },
+      "overview": {
+        "en": [
+          "By using facial infrared thermal imaging technology, the system achieves non-contact body temperature monitoring and detects temperature anomalies in real time. The system can accurately and efficiently screen out persons who have a fever, which improves the throughput of body temperature monitoring. The system can not only measure body temperature, but also integrates functions such as facial recognition & comparison, ID identification, and explosives and/or volatile flammable liquids detection. The system can be deployed at airports, railway stations, subway stations, hospitals and other densely populated areas."
+        ],
+        "mn": [
+          "WePass нь нүүрний дулааны дүрслэлийн технологи ашиглан биеийн халууныг хүрэлцэхгүйгээр хэмжиж, хэвийн бус өөрчлөлтийг бодит цагийн горимоор илрүүлдэг ухаалаг систем юм. Халуурсан хүнийг шуурхай, нарийвчлалтай илрүүлснээр хяналтын цэгийн нэвтрүүлэх хүчин чадлыг нэмэгдүүлдэг.",
+          "Биеийн халуун хэмжихээс гадна нүүр таних, нүүрний дүрсийг харьцуулан баталгаажуулах, биеийн байцаалт таних, тэсрэх бодис болон дэгдэмхий шатамхай шингэн илрүүлэх функцүүдийг нэгтгэсэн. Нисэх буудал, төмөр замын өртөө, метроны буудал, эмнэлэг болон хүн олноор цуглардаг бусад газарт ашиглахад тохиромжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Body temperature Monitoring:",
+          "Independent R&D temperature measurement module enables body temperature detection quickly and accurately.",
+          "Contrabands detection:",
+          "Detection of hidden explosives and volatile flammable liquid.",
+          "High compatibility:",
+          "Integrating with information systems, CCTV systems, security inspection systems, to achieve real-time data sharing.",
+          "Modular design:",
+          "Based on modular design concept, the system can be customized fulfilling different requirements.",
+          "Centralized remote control:",
+          "Realizing centralized remote control to facilitate operation, management and maintenance。"
+        ],
+        "mn": [
+          "Биеийн халууны хяналт:",
+          "Үйлдвэрлэгчийн өөрийн судалгаа, хөгжүүлэлтийн температур хэмжих модуль нь биеийн халууныг хурдан, нарийвчлалтай хэмждэг.",
+          "Хориотой зүйлс илрүүлэх:",
+          "Нуун далдалсан тэсрэх бодис болон дэгдэмхий шатамхай шингэнийг илрүүлдэг.",
+          "Бусад системтэй холбогдох боломж:",
+          "Мэдээллийн систем, камерын хяналтын систем (CCTV), аюулгүй байдлын үзлэгийн системтэй холбогдон мэдээллийг бодит цагийн горимоор солилцдог.",
+          "Модульчлагдсан загвар:",
+          "Хэрэглэгчийн хэрэгцээ, шаардлагад нийцүүлэн системийн бүрдэл, тохиргоог өөрчлөх боломжтой.",
+          "Төвлөрсөн алсын удирдлага:",
+          "Системийг алсаас төвлөрүүлэн удирдаж, ашиглалт, хяналт болон засвар үйлчилгээг хялбарчилдаг."
+        ]
+      }
+    },
+    {
+      "slug": "bi2002-human-body-inspection-system",
+      "category": "radiation",
+      "group": "personnel-screening",
+      "name": {
+        "en": "BI2002 Human Body Inspection System",
+        "mn": "BI2002 хүний биеийн рентген хяналтын систем"
+      },
+      "overview": {
+        "en": [
+          "The NUCTECH™ BI2002 Body Inspection System is an ideal solution for detection of both metallic and non-metallic threats and contrabands concealed inside body and artificial limbs, beneath clothes and in shoes. Working with the best proven and extra low dose x-ray transmission imaging technology, and featuring unmatched imaging performance, ergonomic and friendly user interface, excellent reliability and maintainability, the BI2002 has an attractive market prospects at customs, airports, rail transportation stations, prisons, rare metal mines and etc."
+        ],
+        "mn": [
+          "NUCTECH™ BI2002 нь хүний бие дотор, хиймэл эрхтэн, хувцасны доор болон гуталд нуун далдалсан металл, металл бус аюултай болон хориотой зүйлсийг илрүүлэх зориулалттай рентген хяналтын систем юм.",
+          "Маш бага тунтай, нэвт гэрэлтүүлэх рентген дүрслэлийн технологийг ашигладаг бөгөөд өндөр чанартай дүрслэл, эргономик загвар, ашиглахад хялбар интерфэйстэй. Найдвартай ажиллагаатай, засвар үйлчилгээ хийхэд хялбар энэхүү системийг гааль, нисэх буудал, төмөр замын өртөө, хорих байгууллага, ховор металлын уурхай зэрэг газарт ашиглахад тохиромжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "By extra low dose x-ray transmission imaging, all kinds of threats and contrabands inside body are detectable.",
+          "Unparalleled imaging performance guaranteed by applying advanced medical x-ray generator optimized for body screening, high resolution detector technology, and creative system structure design for scanning human body in static status.",
+          "X-ray radiation exposure to human body is reduced to a minimal, by using diversity x-ray doses for persons with different size, filtering useless soft x-rays, and scanning Region of Interest only.",
+          "Full radiation protection design around the whole equipment, makes the x-ray leakage out of the housing covers is close to natural background level, and no extra radiation protection structure, region or measurements are required.",
+          "Windows system based computer platform builds powerful network capabilities with good compatibility and easy extendibility, and gains great advantages in network applications.",
+          "Technical Specifications",
+          "Screening Region 2000mm(H) × 800mm(W) (Full body)",
+          "Dimensions 2670mm(L) ×1900mm (W)×2550mm (H).",
+          "Weight 1300Kg",
+          "Power Consumption 3kVA"
+        ],
+        "mn": [
+          "Бие дотор нуун далдалсан зүйлсийг илрүүлэх:",
+          "Маш бага тунтай рентген туяагаар нэвт гэрэлтүүлж, хүний бие доторх төрөл бүрийн аюултай болон хориотой зүйлсийг илрүүлдэг.",
+          "Өндөр чанартай дүрслэл:",
+          "Хүний биеийн хяналтад тохируулсан эмнэлгийн зориулалтын рентген үүсгүүр, өндөр нягтаршилтай детектор болон тусгай хийцийн ачаар шалгуулагч хөдөлгөөнгүй зогсож байх үед дүрслэл үүсгэдэг.",
+          "Цацрагийн тунг бууруулах технологи:",
+          "Шалгуулагчийн биеийн хэмжээнд тохируулан рентген туяаны тунг өөрчилж, дүрслэлд шаардлагагүй бага энергитэй туяаг шүүн, зөвхөн шалгах шаардлагатай хэсгийг дүрсэлснээр цацрагийн өртөлтийг багасгадаг.",
+          "Цацрагийн хамгаалалттай хийц:",
+          "Төхөөрөмжийн бүх талын хамгаалалт нь их биеийн гаднах рентген туяаны алдагдлыг байгалийн цацрагийн дэвсгэр түвшинтэй ойролцоо байлгадаг. Үйлдвэрлэгчийн танилцуулгад нэмэлт хамгаалалтын байгууламж, тусгай бүс болон бусад хамгаалалтын арга хэмжээ шаардахгүй гэж дурдсан.",
+          "Сүлжээний холболт, өргөтгөх боломж:",
+          "Windows үйлдлийн системтэй компьютерын платформ нь бусад системтэй нийцтэй, өргөтгөхөд хялбар бөгөөд сүлжээнд холбон ашиглах боломжтой.",
+          "Техникийн үзүүлэлт",
+          "Шалгах хүрээ: 2000 мм өндөр × 800 мм өргөн, бүтэн бие.",
+          "Төхөөрөмжийн хэмжээ: 2670 мм урт × 1800 мм өргөн × 2550 мм өндөр.",
+          "Жин: 1300 кг.",
+          "Цахилгаан чадлын хэрэглээ: 3 кВА."
+        ]
+      }
+    },
+    {
+      "slug": "bs1000wa-t1-walk-through-temperature-and",
+      "category": "radiation",
+      "group": "personnel-screening",
+      "name": {
+        "en": "BS1000WA-T1 Walk-Through Temperature and Weapon Detector",
+        "mn": "BS1000WA-T1 биеийн халуун хэмжих, зэвсэг илрүүлэх нэвтрэх хаалга"
+      },
+      "overview": {
+        "en": [
+          "The NUCTECH™ BS100WA-T1 Smart Walk-Through Temperature and Weapon Detector is a detector used for detecting firearms, knives, explosives and other dangerous items which is recently developed and manufactured by the Nuctech Company Limited.",
+          "The BS1000PA-T1 Smart Walk-Through Temperature and Weapon Detector is highly accurate in body temperature detection to meet the needs of rapid measurement of body temperature. At the same time, it can effectively avoid the interference of daily carry-on items to accurately dangerous items.",
+          "It can be widely deployed at the railway stations, high speed railway stations, bus stations, hospitals, customs, airports, government buildings, major events and other places with high volume of people."
+        ],
+        "mn": [
+          "NUCTECH™ BS1000WA-T1 нь галт зэвсэг, хутга, тэсрэх бодис болон бусад аюултай зүйлсийг илрүүлэхийн зэрэгцээ биеийн халууныг шуурхай, нарийвчлалтай хэмжих зориулалттай ухаалаг хяналтын хаалга юм.",
+          "Өдөр тутам биедээ авч явдаг эд зүйлсээс үүсэх хөндлөнгийн нөлөөллийг бууруулж, аюултай зүйлсийг ялган таних боломжтой.",
+          "Төмөр замын өртөө, өндөр хурдны галт тэрэгний буудал, автобусны буудал, эмнэлэг, гааль, нисэх буудал, төрийн байгууллага, томоохон арга хэмжээ болон хүн олноор зорчдог бусад газарт ашиглахад тохиромжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Technical Features",
+          "Non-contact full body inspection and smart body temperature measurements",
+          "The detector is walk-through design. Taking off the shoes is not required. It can quickly detect the weapons concealed on the body surface and take the body temperature accurately.",
+          "Strong detection ability",
+          "It can detect the firearms, knives, explosives and other dangerous items concealed under clothing.",
+          "Multiple alarm methods",
+          "It is equipped with audio and visual alarm, and can display the images and the names of the suspicious items. The image shows the location of the contrabands on the human body.",
+          "Strong anti-interference ability",
+          "It can effectively avoid interference of daily carry-on items such as watches, coins, glasses, magnets, belt buckles, keys, or other designated metal items.",
+          "Variable optional functions/ customization",
+          "According to customer requirements, other practical functions can be customized and integrated to meet the variable needs."
+        ],
+        "mn": [
+          "Хүрэлцэхгүйгээр шалгах, биеийн халуун хэмжих:",
+          "Хүний биеийг бүхэлд нь хүрэлцэхгүйгээр шалгаж, биеийн халууныг ухаалгаар хэмждэг.",
+          "Нэвтрэн өнгөрөх загвар:",
+          "Гутлаа тайлах шаардлагагүй. Биедээ нуун далдалсан зэвсгийг шуурхай илрүүлж, биеийн халууныг нарийвчлалтай хэмждэг.",
+          "Аюултай зүйлс илрүүлэх чадвар:",
+          "Хувцасны доор нуун далдалсан галт зэвсэг, хутга, тэсрэх бодис болон бусад аюултай зүйлсийг илрүүлдэг.",
+          "Дуут болон дүрсээр анхааруулах дохиолол:",
+          "Сэжигтэй эд зүйлийн дүрс, нэрийг харуулж, хүний биеийн зураг дээр тухайн зүйлийн байршлыг заадаг.",
+          "Хөндлөнгийн нөлөөллийг бууруулах:",
+          "Бугуйн цаг, зоос, нүдний шил, соронз, бүсний арал, түлхүүр болон тохиргоогоор ялгасан бусад металл эд зүйлсээс үүсэх хөндлөнгийн нөлөөллийг багасгадаг.",
+          "Нэмэлт функц, захиалгат тохиргоо:",
+          "Хэрэглэгчийн шаардлагад нийцүүлэн нэмэлт функцүүдийг тохируулж, системд нэгтгэх боломжтой."
+        ]
+      }
+    },
+    {
+      "slug": "tr2000dc-desktop-explosives-and-narcotics-trace",
+      "category": "radiation",
+      "group": "explosives-narcotics",
+      "name": {
+        "en": "TR2000DC Desktop Explosives and Narcotics Trace Detector",
+        "mn": "TR2000DC тэсрэх болон мансууруулах бодисын ул мөр илрүүлэх ширээний төхөөрөмж"
+      },
+      "overview": {
+        "en": [
+          "NUCTECH™ TR2000DC Desktop Explosives and Narcotics Trace Detector is the latest desktop trace detector model based on Ion Mobility Spectrometry (IMS) and non-radioactive ionization source, built on the 15-years-field-proven TR series. TR2000DC enables users to detect and identify trace of explosive and drug substances sampled from passenger and cargo surfaces.",
+          "Its high detection performance and operational efficiency makes it a powerful instrument deployed in aviation security, customs & borders, logistics, critical infrastructure, etc., as a trustworthy and reliable part of NUCTECH integrated solutions."
+        ],
+        "mn": [
+          "NUCTECH™ TR2000DC нь ионы хөдөлгөөнт байдлын спектрометрийн (IMS) технологи, цацраг идэвхт бус ионжуулалтын үүсгүүрт суурилсан, тэсрэх болон мансууруулах бодисын ул мөр илрүүлэх ширээний төхөөрөмж юм. TR цувралын 15 жилийн туршлагад тулгуурлан бүтээсэн энэхүү загвар нь зорчигч болон ачааны гадаргуугаас авсан дээж дэх тэсрэх, мансууруулах бодисын өчүүхэн үлдэгдлийг илрүүлж, төрлийг нь тодорхойлдог.",
+          "Илрүүлэлтийн өндөр үзүүлэлт, үр ашигтай ажиллагаатай тул нисэхийн аюулгүй байдал, хил, гааль, логистик, чухал дэд бүтцийн хамгаалалтад ашиглахад тохиромжтой. NUCTECH-ийн аюулгүй байдлын нэгдсэн шийдлийн бүрэлдэхүүнд нэгтгэн ашиглах боломжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Non-radioactive ionization source",
+          "Detecting explosives and drugs in one analysis",
+          "Field-proven extremely low false alarm rate",
+          "ECAC ETD approved for passenger and cargo screening",
+          "CAAC approved for explosives detection"
+        ],
+        "mn": [
+          "Цацраг идэвхт бус ионжуулалтын үүсгүүртэй.",
+          "Нэг удаагийн шинжилгээгээр тэсрэх болон мансууруулах бодисыг илрүүлдэг.",
+          "Бодит ашиглалтаар батлагдсан, хуурамч дохиоллын маш бага түвшинтэй.",
+          "Зорчигч болон ачааны хяналт шалгалтад ашиглах ECAC ETD баталгаажуулалттай.",
+          "Тэсрэх бодис илрүүлэх зориулалтаар Хятадын Иргэний нисэхийн удирдах газрын (CAAC) зөвшөөрөлтэй."
+        ]
+      }
+    },
+    {
+      "slug": "tr1000qc-handheld-multifunction-contraband-detector",
+      "category": "radiation",
+      "group": "explosives-narcotics",
+      "name": {
+        "en": "TR1000QC Handheld Multifunction Contraband Detector",
+        "mn": "TR1000QC хориотой бодис илрүүлэх олон үйлдэлт гар төхөөрөмж"
+      },
+      "overview": {
+        "en": [
+          "NUCTECH™ TR1000QC Handheld Multifunction Contraband Detector is a novel handheld multifunction trace detector model based on Ion Mobility Spectrometry (IMS), built on the 15-years-field-proven TR series. TR1000QC enables users to detect trace of explosive & drug substances sampled from passenger & cargo surfaces and “smell” toxic gas. In addition, the system is integrated with a nuclear radiation detection module.",
+          "Its detection performance and CBRNE-oriented concept makes it a powerful instrument deployed in aviation security, customs & borders, critical infrastructure, police & military, etc., as a trustworthy and reliable part of NUCTECH integrated solutions."
+        ],
+        "mn": [
+          "NUCTECH™ TR1000QC нь ионы хөдөлгөөнт байдлын спектрометрийн (IMS) технологид суурилсан, хориотой бодисын ул мөр илрүүлэх олон үйлдэлт гар төхөөрөмж юм. TR цувралын 15 жилийн бодит ашиглалтын туршлагад тулгуурлан бүтээсэн энэхүү загвар нь зорчигч болон ачааны гадаргуугаас авсан дээж дэх тэсрэх, мансууруулах бодисын ул мөрийг илрүүлэхээс гадна хорт хийг мэдрэх боломжтой. Мөн цөмийн цацраг илрүүлэх модультай.",
+          "Илрүүлэлтийн үзүүлэлт болон хими, биологи, цацраг, цөмийн болон тэсрэх аюулын (CBRNE) хяналтад чиглэсэн загвар нь нисэхийн аюулгүй байдал, хил, гааль, чухал дэд бүтцийн хамгаалалт, цагдаа, цэргийн байгууллагын хэрэгцээнд ашиглахад тохиромжтой. NUCTECH-ийн аюулгүй байдлын нэгдсэн шийдлийн бүрэлдэхүүнд нэгтгэн ашиглах боломжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Non-radioactive ionization source (NRIS)",
+          "Detect explosives, drugs, toxic gas and nuclear radiation",
+          "Very lightweight and compact design"
+        ],
+        "mn": [
+          "Цацраг идэвхт бус ионжуулалтын үүсгүүртэй (NRIS).",
+          "Тэсрэх бодис, мансууруулах бодис, хорт хий болон цөмийн цацрагийг илрүүлдэг.",
+          "Маш хөнгөн, авсаархан загвартай."
+        ]
+      }
+    },
+    {
+      "slug": "tr3000de-explosive-express-trace-detector",
+      "category": "radiation",
+      "group": "explosives-narcotics",
+      "name": {
+        "en": "TR3000DE Explosive Express Trace Detector",
+        "mn": "TR3000DE тэсрэх бодисын ул мөрийг шуурхай илрүүлэх төхөөрөмж"
+      },
+      "overview": {
+        "en": [
+          "NUCTECH™ TR3000DE Explosive Express Trace Detector is a novel high throughput ETD model based on Ion Mobility Spectrometry (IMS) and patented multiple-inlets design, built on the 15-years-field-proven TR series. TR3000DE enables users to instantly detect and identify trace of explosive and drug substances sampled from passenger and cargo surfaces.",
+          "Its ultimate detection performance and maximized efficiency makes it a powerful instrument deployed in aviation security, customs & borders, logistics, critical infrastructure, etc., as a trustworthy and reliable part of NUCTECH integrated solutions."
+        ],
+        "mn": [
+          "NUCTECH™ TR3000DE нь ионы хөдөлгөөнт байдлын спектрометрийн (IMS) технологи болон патентлагдсан олон оролттой хийцэд суурилсан, өндөр бүтээмжтэй ул мөр илрүүлэгч юм. TR цувралын 15 жилийн бодит ашиглалтын туршлагад тулгуурлан бүтээсэн энэхүү загвар нь зорчигч болон ачааны гадаргуугаас авсан дээж дэх тэсрэх, мансууруулах бодисын ул мөрийг шуурхай илрүүлж, төрлийг нь тодорхойлдог.",
+          "Илрүүлэлтийн өндөр үзүүлэлт, үр ашигтай ажиллагаатай тул нисэхийн аюулгүй байдал, хил, гааль, логистик, чухал дэд бүтцийн хамгаалалтад ашиглахад тохиромжтой. NUCTECH-ийн аюулгүй байдлын нэгдсэн шийдлийн бүрэлдэхүүнд нэгтгэн ашиглах боломжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Non-radioactive ionization source (NRIS)",
+          "Nearly no clean-up to maximize throughput",
+          "Hot-Pluggable batteries for 8 hours standby"
+        ],
+        "mn": [
+          "Цацраг идэвхт бус ионжуулалтын үүсгүүртэй (NRIS).",
+          "Шинжилгээ хоорондын цэвэрлэгээ бараг шаардахгүй тул олон дээжийг дараалан шуурхай шалгах боломжтой.",
+          "Төхөөрөмжийг унтраалгүйгээр солих боломжтой батарейтай бөгөөд хүлээлгийн горимд 8 цаг ажиллана."
+        ]
+      }
+    },
+    {
+      "slug": "rt1003eb-liquid-security-inspector",
+      "category": "radiation",
+      "group": "explosives-narcotics",
+      "name": {
+        "en": "RT1003EB Liquid Security Inspector",
+        "mn": "RT1003EB шингэний аюулгүй байдлын хяналтын төхөөрөмж"
+      },
+      "overview": {
+        "en": [
+          "NUCTECH RT1003EB Liquid Security Inspector can analyze and identify the dangerous materials in various containers. Based on Raman spectroscopy of molecular detection, RT1003EB provides a reliable result of unknown liquid rapidly and accurately with a very low false alarm rate.",
+          "RT1003EB, the new generation of RT series product, now combines non-transparent packaging identification in order to screening opaque container, such as metal container, black container and so on.",
+          "Unique design of two-sided door enables RT1003EB to work for dual-channel inspection at the same time, improving the efficiency of security checkpoint. With its excellent performance that ECAC approved, RT1003EB Liquid Security Inspector can be a powerful and ideal solution at airports for Liquids, Aerosols and Gels (LAGs) in all types of containers."
+        ],
+        "mn": [
+          "NUCTECH™ RT1003EB нь төрөл бүрийн савлагаатай шингэн дэх аюултай бодисыг шинжилж, таних зориулалттай төхөөрөмж юм. Молекулын түвшинд шинжлэх Раманы спектроскопийн технологид суурилан үл мэдэгдэх шингэнийг хурдан, нарийвчлалтай тодорхойлдог бөгөөд хуурамч дохиоллын түвшин маш бага.",
+          "RT цувралын шинэ үеийн энэхүү загвар нь металл, хар өнгийн болон бусад гэрэл нэвтрүүлдэггүй савлагаатай бүтээгдэхүүнийг шалгах боломжтой.",
+          "Хоёр талдаа хаалгатай, хос сувгийн загвар нь хоёр сувгаар нэгэн зэрэг шалгалт хийж, хяналтын цэгийн бүтээмжийг нэмэгдүүлдэг. ECAC-ийн баталгаажуулалттай бөгөөд нисэх буудалд төрөл бүрийн савлагаатай шингэн, аэрозол, гель (LAGs) шалгахад тохиромжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Accurate and rapid identification for suspicious liquids",
+          "Extensive library - adding new by users",
+          "Reliable result in 5 seconds typically",
+          "Dual-channel design",
+          "Non-transparent container detection",
+          "Adaptive packaging recognition",
+          "Non-destructive and non-radioactive",
+          "Standard USB and Ethernet for data transfer and software update",
+          "User friendly interface with touch screen"
+        ],
+        "mn": [
+          "Сэжигтэй шингэнийг хурдан, нарийвчлалтай танина.",
+          "Бодисын өргөн мэдээллийн сантай бөгөөд хэрэглэгч шинэ бодисын мэдээлэл нэмэх боломжтой.",
+          "Ердийн нөхцөлд 5 секундэд найдвартай үр дүн гаргана.",
+          "Хос сувгаар шалгах загвартай.",
+          "Гэрэл нэвтрүүлдэггүй савтай бүтээгдэхүүнийг шалгана.",
+          "Савлагааг автоматаар таньж, түүнд тохируулан ажиллана.",
+          "Савлагааг гэмтээхгүй бөгөөд цацраг идэвхт үүсгүүр ашиглахгүй.",
+          "Өгөгдөл дамжуулах, программ хангамж шинэчлэх стандарт USB болон Ethernet холболттой.",
+          "Ашиглахад хялбар, мэдрэгчтэй дэлгэцийн интерфэйстэй."
+        ]
+      }
+    },
+    {
+      "slug": "mks-11gn-sprd-spectra-search-dosimeter",
+      "category": "radiation",
+      "group": "radiation-dosimetry",
+      "name": {
+        "en": "MKS-11GN SPRD SPECTRA Search Dosimeter-Radiometer",
+        "mn": "MKS-11GN SPRD SPECTRA эрэл хайгуулын дозиметр-радиометр"
+      },
+      "overview": {
+        "en": [
+          "SPRD SPECTRA is intended to detect, localize and identify radioactive and nuclear materials by their gamma and neutron radiation as well as the amplitude gamma spectra. The device identifies radionuclides with indication of the category that they belong to (in compliance with the IAEA requirements).",
+          "It is used to prevent illicit transfer of these materials across the state borders, as well as at the companies and institutions dealing with gamma and neutron radiation sources."
+        ],
+        "mn": [
+          "SPRD SPECTRA нь гамма, нейтроны цацраг болон гамма цацрагийн амплитудын спектрийг ашиглан цацраг идэвхт болон цөмийн материалыг илрүүлэх, байршлыг тогтоох, таних зориулалттай төхөөрөмж юм. Радионуклидыг таньж, Олон улсын атомын энергийн агентлагийн (ОУАЭА) шаардлагын дагуу харьяалагдах ангиллыг нь харуулдаг.",
+          "Улсын хилээр цацраг идэвхт болон цөмийн материалыг хууль бусаар нэвтрүүлэхээс урьдчилан сэргийлэх, мөн гамма, нейтроны цацрагийн үүсгүүртэй ажилладаг аж ахуйн нэгж, байгууллагад ашиглахад зориулагдсан."
+        ]
+      },
+      "features": {
+        "en": [
+          "Identifies radionuclides based on gamma and neutron radiation and gamma spectra.",
+          "Available in two colours: yellow and olive green (NATO green).",
+          "Upon customer’s request, SPECTRA can be produced in a gamma-only version (without neutron channel).",
+          "Compliance with Standards",
+          "Complies with ANSI 42.48, ANSI 42.32, ANSI 42.33."
+        ],
+        "mn": [
+          "Гамма, нейтроны цацраг илрүүлж, гамма спектрт үндэслэн радионуклидыг танина.",
+          "Шар болон чидун ногоон (NATO ногоон) гэсэн хоёр өнгөний сонголттой.",
+          "Захиалагчийн хүсэлтээр зөвхөн гамма цацраг хэмжих, нейтроны суваггүй хувилбараар үйлдвэрлэх боломжтой.",
+          "Стандартын нийцэл",
+          "ANSI 42.48, ANSI 42.32, ANSI 42.33 стандартын шаардлагад нийцдэг"
+        ]
+      }
+    },
+    {
+      "slug": "dks-02pn-prd-cadmium-search-alarm",
+      "category": "radiation",
+      "group": "radiation-dosimetry",
+      "name": {
+        "en": "DKS-02PN PRD CADMIUM Search Alarm Dosimeter",
+        "mn": "DKS-02PN PRD CADMIUM эрэл хайгуулын дохиололт дозиметр"
+      },
+      "overview": {
+        "en": [
+          "High sensitivity device intended to detect and localize radioactive and nuclear materials by their external gamma and neutron radiation. It is widely used to prevent the illicit transfer of radioactive materials."
+        ],
+        "mn": [
+          "DKS-02PN PRD CADMIUM нь цацраг идэвхт болон цөмийн материалаас ялгарах гамма, нейтроны цацрагийг илрүүлж, байршлыг нь тогтоох зориулалттай өндөр мэдрэмжтэй төхөөрөмж юм. Цацраг идэвхт материалыг хууль бусаар тээвэрлэх, шилжүүлэхээс урьдчилан сэргийлэхэд өргөн ашигладаг."
+        ]
+      },
+      "features": {
+        "en": [
+          "Upon customer’s request, we can produce CADMIUM in only gamma version (without a neutron channel)."
+        ],
+        "mn": [
+          "Захиалагчийн хүсэлтээр зөвхөн гамма цацраг илрүүлэх, нейтроны суваггүй хувилбараар үйлдвэрлэх боломжтой."
+        ]
+      }
+    },
+    {
+      "slug": "dkg-24-prd-guarder-personal-radiation",
+      "category": "radiation",
+      "group": "radiation-dosimetry",
+      "name": {
+        "en": "DKG-24 PRD GUARDER Personal radiation dosimeter",
+        "mn": "DKG-24 PRD GUARDER хувийн цацрагийн дозиметр"
+      },
+      "overview": {
+        "en": [
+          "PRD GUARDER belongs to spectrometric devices and is used to detect and localize radioactive and nuclear materials by their gamma radiation in order to prevent their illegal transfer. This device is also used at enterprises and institutions where personnel work with sources of gamma radiation."
+        ],
+        "mn": [
+          "PRD GUARDER нь гамма цацрагийг ашиглан цацраг идэвхт болон цөмийн материалыг илрүүлэх, байршлыг нь тогтоох зориулалттай спектрометрийн төхөөрөмж юм. Эдгээр материалыг хууль бусаар тээвэрлэх, шилжүүлэхээс урьдчилан сэргийлэхэд ашиглана. Мөн гамма цацрагийн үүсгүүртэй ажилладаг аж ахуйн нэгж, байгууллагын ажилтнуудын хэрэглээнд зориулагдсан."
+        ]
+      },
+      "features": {
+        "en": [
+          "Due to the device adaptive configuration, customer can choose the following equipment options:",
+          "high-sensitivity scintillation detector with a volume of 9 cm3, 5 cm3 or 0.7 cm3",
+          "without additional low-sensitivity scintillation detector",
+          "without GPS/GNSS receiver",
+          "without the wireless channel"
+        ],
+        "mn": [
+          "Уян хатан тохируулгатай тул захиалагч дараах хувилбаруудаас сонгох боломжтой:",
+          "9 см³, 5 см³ эсвэл 0.7 см³ эзлэхүүнтэй, өндөр мэдрэмжтэй сцинтилляцийн детектортой.",
+          "Нэмэлт бага мэдрэмжтэй сцинтилляцийн детекторгүй.",
+          "GPS/GNSS хүлээн авагчгүй.",
+          "Утасгүй холбооны суваггүй."
+        ]
+      }
+    },
+    {
+      "slug": "it-09-data-panel",
+      "category": "radiation",
+      "group": "radiation-dosimetry",
+      "name": {
+        "en": "IT-09 Data Panel",
+        "mn": "IT-09 мэдээллийн самбар"
+      },
+      "overview": {
+        "en": [
+          "Displays information about ambient dose equivalent rate of gamma radiation, real time and temperature. The data is communicated from the BDBG-09 detecting unit of gamma radiation, which is included in the delivery kit. IT-09 data panel together with the BDBG-09 detecting unit of gamma radiation, interface converter, and special software allow creating an automated system for continuous monitoring of background radiation."
+        ],
+        "mn": [
+          "IT-09 нь гамма цацрагийн орчны эквивалент тунгийн чадал, бодит цаг болон температурын мэдээллийг харуулдаг самбар юм. Хэмжилтийн мэдээллийг иж бүрдэлд багтсан BDBG-09 гамма цацрагийн илрүүлэх нэгжээс хүлээн авдаг.",
+          "Мэдээллийн самбарыг BDBG-09 илрүүлэх нэгж, интерфэйс хувиргагч болон тусгай программ хангамжтай хослуулан цацрагийн дэвсгэр түвшнийг тасралтгүй хянах автоматжуулсан систем бүрдүүлэх боломжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "The panel is placed inside",
+          "The BDBG-09 detecting unit of gamma radiation can be located inside or outside for a comprehensive control of the facilities.",
+          "The distance between the data panel and the detecting unit can reach 50 m.",
+          "The obtained data is continuously transmitted via interface converter to a personal computer that allows the monitoring of all objects."
+        ],
+        "mn": [
+          " Мэдээллийн самбарыг дотор орчинд байрлуулна.",
+          " BDBG-09 илрүүлэх нэгжийг хяналтын хэрэгцээнээс хамааран дотор болон гадаа суурилуулах боломжтой.",
+          " Самбар болон илрүүлэх нэгжийн хоорондох зай 50 метр хүртэл байж болно.",
+          " Хэмжилтийн мэдээллийг интерфэйс хувиргагчаар дамжуулан компьютерт тасралтгүй илгээж, хяналтад хамрагдсан бүх объектын мэдээллийг нэг дор хянах боломж олгодог."
+        ]
+      }
+    },
+    {
+      "slug": "bdbg-09-intelligent-detecting-unit-of",
+      "category": "radiation",
+      "group": "radiation-dosimetry",
+      "name": {
+        "en": "BDBG-09 Intelligent Detecting Unit of Gamma Radiation",
+        "mn": "BDBG-09 гамма цацрагийн ухаалаг илрүүлэх нэгж"
+      },
+      "overview": {
+        "en": [
+          "BDBG-09 is used to measure ambient dose equivalent rate of gamma radiation. It is used both within data panels and automated systems of radiation monitoring."
+        ],
+        "mn": [
+          "BDBG-09 нь гамма цацрагийн орчны эквивалент тунгийн чадлыг хэмжих зориулалттай илрүүлэх нэгж юм. Мэдээллийн самбар болон цацрагийн хяналтын автоматжуулсан системийн бүрэлдэхүүнд ашиглана."
+        ]
+      },
+      "features": {
+        "en": [
+          "A standard version is produced with a built-in Geiger-Muller counter.",
+          "A modification based on the scintillation detector is also available.",
+          "Upon customer request, the housing can be made of duralumin or stainless steel.",
+          "A special version with waterproof housing is available for use in waterbodies and artificial reservoirs.",
+          "Operational Experience",
+          "BDBG-09 detecting unit has been successfully used for many years at nuclear power plants in Ukraine, France, Bulgaria and Korea."
+        ],
+        "mn": [
+          "Стандарт хувилбар нь суурилуулсан Гейгер–Мюллерийн тоолууртай.",
+          "Сцинтилляцийн детекторт суурилсан хувилбар мөн бий.",
+          "Захиалагчийн хүсэлтээр их биеийг дюралюмин эсвэл зэвэрдэггүй гангаар үйлдвэрлэх боломжтой.",
+          "Усны сан, хиймэл усан санд ашиглах зориулалттай, ус үл нэвтрүүлэх их биетэй тусгай хувилбартай.",
+          "Ашиглалтын туршлага",
+          "BDBG-09 илрүүлэх нэгжийг Украин, Франц, Болгар, Солонгосын атомын цахилгаан станцуудад олон жилийн турш амжилттай ашиглаж ирсэн."
+        ]
+      }
+    },
+    {
+      "slug": "epd-27-doseg-and-dosegx-electronic",
+      "category": "radiation",
+      "group": "radiation-dosimetry",
+      "name": {
+        "en": "EPD-27 DoseG and DoseGX Electronic Personal Dosimeter",
+        "mn": "EPD-27 DoseG болон DoseGX хувийн электрон дозиметр"
+      },
+      "overview": {
+        "en": [
+          "DoseG and DoseGX represent a new EPD-27 family of electronic personal dosimeters from ECOTEST trademark.",
+          "The devices are intended for use as part of an automated system of individual dosimetric control and for autonomous use. EPD-27 dosimeters are available in two modifications – DoseG and DoseGX."
+        ],
+        "mn": [
+          "DoseG болон DoseGX нь ECOTEST брэндийн EPD-27 цувралын шинэ үеийн хувийн электрон дозиметрүүд юм.",
+          "Тус төхөөрөмжүүдийг ажилтны цацрагийн тунгийн хяналтын автоматжуулсан системийн бүрэлдэхүүнд болон бие даан ашиглах боломжтой. EPD-27 цуврал нь DoseG, DoseGX гэсэн хоёр хувилбартай."
+        ]
+      },
+      "features": {
+        "en": [
+          "Scintillator-based detectors with a silicon photomultiplier",
+          "Ability to store data in non-volatile memory",
+          "Sound, light, and vibration alarms of threshold levels exceeding",
+          "Infrared port for transferring the dose accumulation history and event history from the dosimeter to the personal computer, as well as for setting up the dosimeter",
+          "Glass-filled plastic shock-resistant housing of high ingress protection rating IP67",
+          "Backlight of the digital display",
+          "Resistant to 60 repetitive shocks, each corresponding to a drop of 10 cm on a hard steel surface, and resistant to 6 drops (one drop on each side) from a height of 1 m on a hard surface"
+        ],
+        "mn": [
+          " Цахиурын фотоүржүүлэгчтэй сцинтилляцийн детектортой.",
+          " Тэжээл тасарсан үед ч мэдээллээ хадгалах санах ойтой.",
+          " Тогтоосон босго түвшин хэтэрвэл дуут, гэрлэн болон чичиргээт дохио өгдөг.",
+          " Хэт улаан туяаны портоор хуримтлагдсан тунгийн түүх, үйл явдлын бүртгэлийг компьютерт дамжуулж, төхөөрөмжийн тохиргоог хийх боломжтой.",
+          " Шилэн мяндсаар бэхжүүлсэн хуванцар, цохилтод тэсвэртэй их биетэй бөгөөд IP67 хамгаалалтын зэрэгтэй.",
+          " Арын гэрэлтүүлэгтэй тоон дэлгэцтэй.",
+          " Хатуу ган гадаргуу дээр 10 см өндрөөс унагахтай дүйцэх 60 удаагийн давтан цохилтод тэсвэртэй.",
+          " Хатуу гадаргуу дээр 1 метр өндрөөс зургаан тал тус бүрээр нь нэг удаа буюу нийт зургаан удаа унагахад тэсвэртэй."
+        ]
+      }
+    },
+    {
+      "slug": "rkg-14-virtuoso-multipurpose-environment-activity",
+      "category": "radiation",
+      "group": "radiation-dosimetry",
+      "name": {
+        "en": "RKG-14 VIRTUOSO Multipurpose environment activity radiometer",
+        "mn": "RKG-14 VIRTUOSO хүрээлэн буй орчны цацраг идэвхийг хэмжих олон зориулалттай радиометр"
+      },
+      "overview": {
+        "en": [
+          "VIRTUOSO is a compact-size device for a comprehensive radiological examination of the environment, food, soil, construction materials, mineral raw materials, housing, etc.",
+          "Thanks to the use of brand-new technology, you can now control cesium radioisotopes and naturally occurring radioactive materials not only in specialized laboratories but at home without the help of professional radiologists.",
+          "VIRTUOSO performs measurement by simply putting it to the object, or even by holding the instrument in your hands in a certain place that you want to check for contamination. Thus, the item and its packaging remain undamaged."
+        ],
+        "mn": [
+          "VIRTUOSO нь хүрээлэн буй орчин, хүнс, хөрс, барилгын материал, эрдэс түүхий эд, орон байр зэрэгт цацрагийн иж бүрэн шинжилгээ хийх зориулалттай авсаархан төхөөрөмж юм.",
+          "Шинэ технологийн тусламжтайгаар цезийн цацраг идэвхт изотоп болон байгалийн гаралтай цацраг идэвхт материалыг төрөлжсөн лабораториос гадна ахуйн нөхцөлд ч мэргэжилтний тусламжгүйгээр хянах боломжтой.",
+          "Хэмжилт хийхдээ төхөөрөмжийг шалгах зүйлд ойртуулах эсвэл шалгах гадаргуугийн дээгүүр барихад хангалттай. Бүтээгдэхүүнийг задлах, сав баглаа боодлыг гэмтээх шаардлагагүй."
+        ]
+      },
+      "features": {
+        "en": [
+          "Portable, practical",
+          "Quickly checks radiation purity of soil, construction materials, mineral raw materials, wood, housing, vehicles, and such food as baby food, water, milk, meat, fish, eggs, fresh vegetables, fruit, grain, cereals, dried foods, dried herbs (tea)",
+          "Requires no special training of the user, operates in the interactive mode",
+          "Does not require sampling – measurement is done by putting the device to the tested object (material, product, soil, etc.), or by holding it over the studied surfaces",
+          "Requires no special preparation of the food sample (the product remains inside its packaging)",
+          "Requires no special protection",
+          "Ingress protection rating IP54",
+          "Detects 137Cs, 134Cs and measures the specific and volume activities of 40K, 226Ra, 232Th",
+          "Works with Android smartphones and tablets via Bluetooth"
+        ],
+        "mn": [
+          " Авсаархан, зөөврийн, ашиглахад хялбар.",
+          " Хөрс, барилгын материал, эрдэс түүхий эд, мод, орон байр, тээврийн хэрэгслийн цацрагийн бохирдлыг шуурхай шалгана.",
+          " Хүүхдийн хоол, ус, сүү, мах, загас, өндөг, хүнсний ногоо, жимс, үр тариа, хатаасан хүнс, хатаасан ургамал, цай зэрэг бүтээгдэхүүнийг шалгах боломжтой.",
+          " Хэрэглэгч тусгай сургалтад хамрагдах шаардлагагүй, харилцан үйлдэлт горимоор ажилладаг.",
+          " Дээж авах, тусгайлан бэлтгэх шаардлагагүй бөгөөд бүтээгдэхүүнийг савлагаатай нь хэмжиж болно.",
+          " Тусгай хамгаалалт шаардахгүй.",
+          " IP54 хамгаалалтын зэрэгтэй.",
+          " Цезий-137 (¹³⁷Cs), цезий-134 (¹³⁴Cs)-ийг илрүүлж, кали-40 (⁴⁰K), радий-226 (²²⁶Ra), торий-232 (²³²Th)-ын хувийн болон эзлэхүүний идэвхийг хэмжинэ.",
+          " Bluetooth холболтоор Android ухаалаг утас, таблеттай ажиллана."
+        ]
+      }
+    },
+    {
+      "slug": "bs-09-gamma-radiation-alarm-unit",
+      "category": "radiation",
+      "group": "radiation-dosimetry",
+      "name": {
+        "en": "BS-09 Gamma Radiation Alarm Unit",
+        "mn": "BS-09 гамма цацрагийн дохиоллын төхөөрөмж"
+      },
+      "overview": {
+        "en": [
+          "BS-09 is designed to provide personnel working at radiation hazardous sites with light and sound warnings about radiation levels and to indicate local radiation background. It operates in conjunction with the BDBG-09 gamma radiation detecting unit to warn of potential radiation hazards within the monitored area.",
+          "It can operate autonomously or as part of a data transmission system. Measurement data is transmitted via RS-485 and Ethernet interfaces using Modbus RTU and a special ECOTEST protocol."
+        ],
+        "mn": [
+          "BS-09 нь цацрагийн аюултай объектод ажиллаж буй ажилтнуудад цацрагийн түвшнийг гэрлэн болон дуут дохиогоор мэдээлж, тухайн орчны цацрагийн дэвсгэр түвшнийг харуулах зориулалттай төхөөрөмж юм. BDBG-09 гамма цацрагийн илрүүлэх нэгжтэй хослон ажиллаж, хяналтын бүсэд үүсэж болзошгүй цацрагийн аюулыг анхааруулдаг.",
+          "Бие даан болон мэдээлэл дамжуулах системийн бүрэлдэхүүнд ажиллах боломжтой. Хэмжилтийн мэдээллийг RS-485, Ethernet интерфэйсээр Modbus RTU болон ECOTEST-ийн тусгай протокол ашиглан дамжуулна."
+        ]
+      },
+      "features": {
+        "en": [
+          "Operates in conjunction with the BDBG-09 gamma radiation detecting unit and supplies power to it.",
+          "Features an OLED display showing the current gamma radiation equivalent dose rate.",
+          "Equipped with a built-in battery for autonomous operation.",
+          "Features flash memory for storing measurement data.",
+          "The BS-09 Geo version, equipped with a positioning system, is a component of the GeoRad-M system."
+        ],
+        "mn": [
+          " BDBG-09 гамма цацрагийн илрүүлэх нэгжтэй хослон ажиллаж, түүнийг цахилгаан тэжээлээр хангана.",
+          " Гамма цацрагийн эквивалент тунгийн чадлын одоогийн утгыг харуулах OLED дэлгэцтэй.",
+          " Бие даан ажиллах зориулалттай суурилуулсан зайтай.",
+          " Хэмжилтийн мэдээлэл хадгалах флаш санах ойтой.",
+          " Байршил тогтоох системээр тоноглогдсон BS-09 Geo хувилбар нь GeoRad-M системийн бүрэлдэхүүнд ашиглагдана."
+        ]
+      }
+    },
+    {
+      "slug": "dosimeter-radiometer-mks-05-terra",
+      "category": "radiation",
+      "group": "radiation-dosimetry",
+      "name": {
+        "en": "Dosimeter-radiometer MKS-05 TERRA",
+        "mn": "Дозиметр-радиометр MKS-05 TERRA"
+      },
+      "overview": {
+        "en": [
+          "TERRA is a professional device for official measurements, which measures the level of gamma background, beta contamination, accumulated dose, and its accumulation time.",
+          "TERRA is exported to over 70 countries. The device is in operation in many Governmental Institutions and Agencies worldwide."
+        ],
+        "mn": [
+          "MKS-05 TERRA нь орчны гамма цацрагийн түвшин, бета бохирдол, хуримтлагдсан цацрагийн тун болон тун хуримтлуулах хугацааг хэмжих зориулалттай мэргэжлийн төхөөрөмж юм.",
+          "Дэлхийн 70 гаруй улсад экспортлогдож, олон орны төрийн байгууллага, агентлагийн үйл ажиллагаанд ашиглагдаж байна."
+        ]
+      },
+      "features": {
+        "en": [
+          "Big display with luminescent backlight",
+          "Simultaneous indication of units of measurement, measurement errors, threshold level, and real-time on the display",
+          "Analog ten-segment indicator of registered radiation intensity",
+          "Ability to perform measurements with a preset error",
+          "Four-level indication of battery discharge",
+          "Built-in memory which allows storing up to 1 200 measurements",
+          "Five independent measuring channels with the alternate indication of data on the single liquid crystal display",
+          "Built-in gamma, beta-sensitive Geiger-Muller counter",
+          "Prompt evaluation of gamma background within 10 seconds",
+          "Automatic subtraction of gamma background at measurement of beta contamination",
+          "Measurement results averaging, manually and automatically interrupted",
+          "Automatic setting of measurement intervals and ranges",
+          "Audio, vibration, and vibration-audio alarm of each detected gamma-quantum or beta-particle that can be switched off",
+          "Two-tone audio, vibration, and vibration-audio alarm of exceeded programmed threshold levels",
+          "Clock and alarm clock"
+        ],
+        "mn": [
+          "Арын гэрэлтүүлэгтэй том дэлгэц.",
+          "Хэмжих нэгж, хэмжилтийн алдаа, дохиоллын босго болон тухайн үеийн цагийг дэлгэцэд зэрэг харуулна.",
+          "Цацрагийн эрчмийг харуулах 10 шатлалтай индикатортой.",
+          "Урьдчилан тохируулсан хэмжилтийн алдааны түвшинд хэмжилт хийх боломжтой.",
+          "Батерейн цэнэгийг дөрвөн түвшнээр харуулна.",
+          "1,200 хүртэлх хэмжилтийн үр дүн хадгалах санах ойтой.",
+          "Таван бие даасан хэмжилтийн сувгийн мэдээллийг нэг дэлгэцэд ээлжлэн харуулна.",
+          "Гамма болон бета цацрагт мэдрэг Гейгер–Мюллерийн тоолууртай.",
+          "Орчны гамма цацрагийн түвшнийг 10 секундийн дотор шуурхай үнэлнэ.",
+          "Бета бохирдол хэмжих үед гамма цацрагийн дэвсгэр утгыг автоматаар хасаж тооцно.",
+          "Хэмжилтийн үр дүнг дундажлах бөгөөд дундажлалтыг гараар болон автоматаар зогсоох боломжтой.",
+          "Хэмжилтийн хугацаа болон хэмжих хязгаарыг автоматаар сонгоно.",
+          "Илрүүлсэн гамма квант, бета бөөм бүрийг дуут, чичиргээт эсвэл хосолсон дохиогоор мэдэгдэнэ. Дохиог унтраах боломжтой.",
+          "Тохируулсан босго хэтрэхэд Хоёр өөр өнгө аястай дуут дохио, чичиргээ эсвэл хосолсон дохиолол өгнө.",
+          "Цаг болон сэрүүлэгтэй."
+        ]
+      }
+    },
+    {
+      "slug": "mks-um-multipurpose-survey-meter",
+      "category": "radiation",
+      "group": "radiation-dosimetry",
+      "name": {
+        "en": "MKS-UM Multipurpose Survey Meter",
+        "mn": "MKS-UM олон зориулалттай цацрагийн хэмжилтийн багаж"
+      },
+      "overview": {
+        "en": [
+          "MKS-UM is a full-range radiation survey device in the field environment, which measures alpha, beta, gamma and X-ray radiation. The gamma radiation dose rate is measured from the background to emergency levels. High protection rating and a hard shell allow using the device in harsh climatic and dusty conditions."
+        ],
+        "mn": [
+          "MKS-UM нь хээрийн нөхцөлд альфа, бета, гамма болон рентген цацраг хэмжих зориулалттай, өргөн хүрээний хэмжилтийн багаж юм. Гамма цацрагийн тунгийн чадлыг байгалийн дэвсгэр түвшнээс ослын үеийн өндөр түвшин хүртэл хэмжинэ.",
+          "Хамгаалалтын өндөр зэрэг, бат бөх их бие нь цаг уурын хүнд, тоосжилт ихтэй орчинд ашиглах боломж олгодог."
+        ]
+      },
+      "features": {
+        "en": [
+          "Scintillation detectors and gas discharge Geiger-Muller meters without return run of counting response",
+          "Possibility to measure ambient dose equivalent rate (DER) of gamma radiation with the detector which is built in the control unit",
+          "Automatic selection between measurement intervals and ranges",
+          "Audio signaling of each registered gamma-quantum, beta particle and alpha particle",
+          "Backlight of display and control buttons for operation in the dark",
+          "Rechargeable Li-lon battery charging by the built-in charger from:",
+          "solar panel",
+          "12 V automobile battery",
+          "industrial network 220 V/50 Hz",
+          "Multilevel indication of battery discharge",
+          "Analog indicator of radiation intensity",
+          "IP56 of control unit and IP57 of detecting units",
+          "Logging of up to 1 500 measurement results tagged to location coordinates in the non-volatile memory via USB/IrDA adapter to the PC (built-in GPS receiver)",
+          "Viewing of logged measurement results on the display",
+          "Easy to operate even if wearing personal protection – rubber gloves",
+          "Compliance with Standards",
+          "Complies with MIL-STD-810G, MIL-STD-461F standards. Complies with ІЕС 60846, ІЕС 60325 standards."
+        ],
+        "mn": [
+          "Сцинтилляцийн болон өндөр ачааллын үед тоололтын заалт буурах үзэгдлээс хамгаалсан Гейгер–Мюллерийн хийн цэнэг алдалтын детекторуудтай.",
+          "Удирдлагын нэгжид суурилуулсан детектороор гамма цацрагийн орчны эквивалент тунгийн чадлыг хэмжинэ.",
+          "Хэмжилтийн хугацаа болон хүрээг автоматаар сонгоно.",
+          "Бүртгэгдсэн гамма квант, бета болон альфа бөөм тус бүрд дуут дохио өгнө.",
+          "Харанхуй орчинд ажиллахад зориулсан дэлгэц, удирдлагын товчлуурын гэрэлтүүлэгтэй.",
+          "Лити-ион зайг суурилуулсан цэнэглэгчээр нарны хавтан, автомашины 12 В зай эсвэл 220 В / 50 Гц цахилгаан сүлжээнээс цэнэглэнэ.",
+          "Зайны цэнэгийн түвшнийг олон шатлалаар харуулна.",
+          "Цацрагийн эрчмийг харуулах аналог заагчтай.",
+          "Удирдлагын нэгж нь IP56, илрүүлэх нэгжүүд нь IP57 хамгаалалтын зэрэгтэй.",
+          "Суурилуулсан GPS хүлээн авагчтай бөгөөд байршлын координаттай 1,500 хүртэлх хэмжилтийн үр дүнг тэжээлээс үл хамаарах санах ойд хадгална.",
+          "Хадгалсан хэмжилтийг дэлгэцээр үзэж, USB/IrDA адаптераар компьютерт дамжуулна.",
+          "Хамгаалалтын резинэн бээлийтэй үед ч удирдахад хялбар.",
+          "Стандартын нийцэл",
+          "MIL-STD-810G, MIL-STD-461F, IEC 60846 болон IEC 60325 стандартын шаардлагад нийцдэг."
+        ]
+      }
+    },
+    {
+      "slug": "radmonitor-computer-aided-system-of-radiation",
+      "category": "radiation",
+      "group": "radiation-dosimetry",
+      "name": {
+        "en": "RadMonitor Computer-Aided System of Radiation control",
+        "mn": "RadMonitor компьютерт суурилсан цацрагийн хяналтын систем"
+      },
+      "overview": {
+        "en": [
+          "RadMonitor is intended for continuous automated radiation monitoring of the environment at radiation hazardous sites.",
+          "BDBG-09 detecting units of gamma radiation are the key element of the system."
+        ],
+        "mn": [
+          "RadMonitor нь цацрагийн аюултай объектын хүрээлэн буй орчны цацрагийн түвшнийг тасралтгүй, автомат горимоор хянах зориулалттай систем юм.",
+          "Системийн үндсэн бүрэлдэхүүн нь BDBG-09 гамма цацрагийн илрүүлэх нэгж бөгөөд хэмжилтийн мэдээллийг мэдээллийн самбар болон RadMonitor программ хангамжаар хянах боломжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "BDBG-09 gamma radiation detecting units.",
+          "IT-09T / IT-09 data panels.",
+          "Isolated interface converters.",
+          "RadMonitor software.",
+          "A personal computer can be included in the delivery kit at the customer’s request.."
+        ],
+        "mn": [
+          " BDBG-09 гамма цацрагийн илрүүлэх нэгжүүд.",
+          " IT-09T / IT-09 мэдээллийн самбарууд.",
+          " Цахилгаан тусгаарлалттай интерфэйс хувиргагчид.",
+          " RadMonitor программ хангамж.",
+          " Захиалагчийн хүсэлтээр иж бүрдэлд компьютер нэмж нийлүүлэх боломжтой."
+        ]
+      }
+    },
+    {
+      "slug": "georad-m-software-and-hardware-system",
+      "category": "radiation",
+      "group": "radiation-dosimetry",
+      "name": {
+        "en": "GeoRad-M Software and Hardware System",
+        "mn": "GeoRad-M цацрагийн хөдөлгөөнт хяналтын программ, тоног төхөөрөмжийн систем"
+      },
+      "overview": {
+        "en": [
+          "GeoRad-M is a vehicle-mounted system used to establish a mobile radiological and radiochemical laboratory.",
+          "It measures the ambient dose equivalent rate of gamma radiation and records the results together with satellite-derived geographical coordinates. Measurement data is displayed on a map on the computer screen.",
+          "System Components",
+          "BDBG-09 gamma radiation detecting unit. Other detecting units using the same communication protocol can also be used.",
+          "BS-09 Geo device.",
+          "GPS antenna.",
+          "Dedicated GRad software."
+        ],
+        "mn": [
+          "GeoRad-M нь автомашинд суурилуулан радиологийн болон радиохимийн хөдөлгөөнт лаборатори бүрдүүлэхэд ашигладаг систем юм.",
+          "Гамма цацрагийн орчны эквивалент тунгийн чадлыг хэмжиж, үр дүнг хиймэл дагуулаас авсан газарзүйн координаттай холбон бүртгэнэ. Хэмжилтийн мэдээллийг компьютерын дэлгэц дээр газрын зурагт дүрслэн харуулдаг.",
+          "Системийн бүрэлдэхүүн",
+          "BDBG-09 гамма цацрагийн илрүүлэх нэгж. Ижил мэдээлэл солилцооны протоколтой бусад илрүүлэх нэгж ашиглах боломжтой.",
+          "BS-09 Geo төхөөрөмж.",
+          "GPS антен.",
+          "Зориулалтын GRad программ хангамж."
+        ]
+      },
+      "features": {
+        "en": [
+          "Records measurement results of gamma radiation DER, as well as geographic coordinates and measurement time with an one second interval",
+          "Displays measurement results on the PC screen as a text and as route points linked to a geographic map. There are two modes of displaying / saving information – in a specified time or when moving to a given distance",
+          "Two threshold levels can be set – the warning threshold level and the danger threshold level of gamma radiation DER",
+          "Signals when the measured DER exceeds the set threshold levels with sound signals and a change in the color of information displayed on the PC screen and with light and sound alarm on the BS-09 Geo unit",
+          "Signals failures of the detecting unit and the BS-09 Geo unit with sound signals and messages on the PC screen. Sound signals about exceeding threshold levels and equipment failure are also generated by the PC acoustic system",
+          "Works with OpenStreetMap, Google Maps and Google Earth electronic maps"
+        ],
+        "mn": [
+          " Гамма цацрагийн тунгийн чадал, газарзүйн координат, хэмжилтийн хугацааг нэг секунд тутамд бүртгэнэ.",
+          " Хэмжилтийн үр дүнг компьютерын дэлгэц дээр бичвэрээр болон газрын зурагтай холбосон маршрутын цэгүүдээр харуулна.",
+          " Мэдээллийг тогтоосон хугацааны эсвэл туулсан зайны интервалаар харуулах, хадгалах хоёр горимтой.",
+          " Анхааруулах болон аюулын гэсэн хоёр босго түвшин тохируулах боломжтой.",
+          " Тунгийн чадал босго түвшнээс хэтэрвэл компьютер дээрх мэдээллийн өнгө өөрчлөгдөж, дуут дохио өгнө. BS-09 Geo төхөөрөмж мөн гэрлэн болон дуут дохиогоор анхааруулна.",
+          " Илрүүлэх нэгж болон BS-09 Geo төхөөрөмжийн гэмтлийг компьютерын дэлгэц дээр мэдээлж, дуут дохио өгнө.",
+          " OpenStreetMap, Google Maps, Google Earth цахим газрын зурагтай ажиллана."
+        ]
+      }
+    },
+    {
+      "slug": "radiation-protective-clothing-and-equipment-set",
+      "category": "radiation",
+      "group": "radiation-dosimetry",
+      "name": {
+        "en": "Radiation Protective Clothing and Equipment Set",
+        "mn": "Цацрагийн хамгаалалтын хувцас, хэрэгслийн иж бүрдэл"
+      },
+      "overview": {
+        "en": [
+          "A set of protective clothing and equipment designed to reduce radiation exposure to medical staff, patients and accompanying persons during X-ray examinations and procedures. The set can be configured to suit the user’s needs, including protective aprons, vests, skirts, thyroid shields, caps, protective eyewear, gloves and gonadal shields."
+        ],
+        "mn": [
+          "Рентген шинжилгээ болон цацраг ашигладаг ажилбарын үед эмнэлгийн ажилтан, үйлчлүүлэгчийн биеийн хэсгүүдийн цацрагийн өртөлтийг бууруулах зориулалттай хамгаалалтын хувцас, хэрэгслийн багц. Хамгаалалтын хормогч эсвэл хантааз, хормойн хослол, бамбай булчирхайн хамгаалалт, малгай, нүдний шил, бээлий болон нөхөн үржихүйн эрхтний хамгаалалт зэргийг хэрэгцээнд тохируулан иж бүрдүүлнэ."
+        ]
+      },
+      "features": {
+        "en": [
+          "Configuration options: Full-length and wraparound protective aprons, as well as vest-and-skirt sets.",
+          "Targeted protection: Specialized protective equipment for the neck, head, eyes, hands and reproductive organs.",
+          "Sizes and styles: Available in adult and pediatric sizes, with various shapes, colours and designs.",
+          "Protection level: Lead-equivalent thickness is selected according to the application and operational requirements.",
+          "Additional accessories: Optional clothing storage racks, stands and hangers."
+        ],
+        "mn": [
+          "Хувцасны сонголт: Урд талын болон биеийг тойрон хамгаалах хормогч, хантааз–хормойн хослолтой.",
+          "Хэсэгчилсэн хамгаалалт: Хүзүү, толгой, нүд, гар болон нөхөн үржихүйн эрхтэнд зориулсан тусгай хэрэгслүүдтэй.",
+          "Хэмжээ, загвар: Насанд хүрэгчид болон хүүхдийн зориулалттай, төрөл бүрийн хэмжээ, өнгө, загварын сонголттой.",
+          "Хамгаалалтын үзүүлэлт: Хар тугалганы эквивалент зузааныг сонгосон загвар, ашиглалтын шаардлагад тохируулан тодорхойлно.",
+          "Нэмэлт хэрэгсэл: Хувцас хадгалах өлгүүр, тавиурыг багцад нэмж сонгох боломжтой."
+        ]
+      }
+    },
+    {
+      "slug": "neuviz-ace-128-computed-tomography-system",
+      "category": "medical",
+      "group": null,
+      "name": {
+        "en": "NeuViz ACE 128 Computed Tomography System (CT)",
+        "mn": "NeuViz ACE 128 компьютер томограф (CT)"
+      },
+      "overview": {
+        "en": [
+          "NeuViz ACE 128 by Neusoft Medical is an AI-powered computed tomography system featuring a high-definition imaging chain. It supports brain, lung, abdominal and musculoskeletal imaging, as well as CT angiography and coronary CT angiography. Intelligent technologies streamline image acquisition and reconstruction to deliver high-quality images at low radiation doses."
+        ],
+        "mn": [
+          "Neusoft Medical компанийн хиймэл оюун ухаанд суурилсан, өндөр нягтаршилтай дүрслэлийн систем бүхий компьютер томограф. Тархи, уушги, хэвлий, яс-булчингийн тогтолцоо, судасны болон титэм судасны CT ангиографийн шинжилгээнд ашиглана. Дүрс авах, боловсруулах ажлын урсгалыг ухаалаг технологиор дэмжиж, бага тунгаар чанартай дүрс үүсгэхэд чиглэсэн."
+        ]
+      },
+      "features": {
+        "en": [
+          "High-definition imaging: An integrated HD imaging chain delivers detailed images.",
+          "ClearInfinity: Deep learning reconstruction technology reduces noise at low doses while preserving image sharpness and fine anatomical detail.",
+          "A-STAR X-ray Tube: Liquid Metal Bearing (LMB) technology supports reliable performance and an extended tube lifespan.",
+          "Heat Capacity: 19 MHU.",
+          "Low-dose Technology: Supports scanning at a tube voltage of 70 kV.",
+          "NeuAI Platform: Integrates AI-powered workflow and image-processing capabilities.",
+          "Clinical Applications: Routine CT examinations, CT angiography (CTA) and coronary CTA."
+        ],
+        "mn": [
+          "Өндөр нягтаршилтай дүрслэл: HD дүрслэлийн нэгдсэн системтэй.",
+          "ClearInfinity: Гүн сургалтад суурилсан дүрс сэргээн боловсруулах технологи нь бага тунгийн үед шуугианыг бууруулж, дүрсний тод байдал, нарийн бүтцийн ялгаралтыг хадгална.",
+          "A-STAR рентген хоолой: Шингэн металлын холхивчтой LMB технологи нь тогтвортой ажиллагаа, урт хугацааны ашиглалтыг дэмжинэ.",
+          "Дулаан багтаамж: 19 MHU.",
+          "Бага тунгийн технологи: 70 кВ хүчдэлээр зураг авах боломжтой.",
+          "NeuAI платформ: Хиймэл оюун ухаанд суурилсан ажлын урсгал, дүрс боловсруулалтын боломжуудыг нэгтгэнэ.",
+          "Эмнэлзүйн хэрэглээ: Ердийн CT шинжилгээ, CT ангиографи (CTA), титэм судасны CTA."
+        ]
+      }
+    },
+    {
+      "slug": "neumr-1-5t-magnetic-resonance-imaging",
+      "category": "medical",
+      "group": null,
+      "name": {
+        "en": "NeuMR 1.5T Magnetic Resonance Imaging System (MRI)",
+        "mn": "NeuMR 1.5T соронзон резонансын томограф (MRI)"
+      },
+      "overview": {
+        "en": [
+          "NeuMR 1.5T by Neusoft Medical is a 1.5 Tesla MRI system built on the AIM platform. It simplifies patient positioning, protocol selection and image processing while delivering consistent, detailed images. The system supports brain, neurological, whole-spine, abdominal, prostate, musculoskeletal, vascular and whole-body oncology imaging."
+        ],
+        "mn": [
+          "Neusoft Medical компанийн 1.5 Тесла соронзон орны хүчтэй, AIM платформд суурилсан MRI систем. Өвчтөнийг байрлуулах, шинжилгээний протокол сонгох, дүрс боловсруулах ажлын урсгалыг хялбарчилж, тогтвортой, нарийвчилсан дүрслэл үүсгэнэ. Тархи, мэдрэлийн тогтолцоо, бүх нуруу, хэвлий, түрүү булчирхай, яс-булчин, судас болон бүх биеийн хавдрын шинжилгээнд ашиглах боломжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Magnetic Field Strength: 1.5 Tesla.",
+          "AIM Platform: Integrates newly designed RF coils, patient table, system housing and user interface.",
+          "AIM Coils: Feature RightConnect and EasyConnect connections, high-density receiver elements and compatibility with NeuSENSE.",
+          "ARM Gradient Coil: Incorporates direct water cooling, multi-point temperature monitoring and adjustable water flow.",
+          "Image Stability: PID control and eddy current compensation maintain stable gradient output and reduce image distortion.",
+          "Clinical Applications: Total Neuro, Total Spine, BrainQuant, HD DWI, DTI, magnetic resonance spectroscopy (MRS), arterial spin labeling (ASL), Body DIXON and vascular imaging.",
+          "System Controls: A status indicator light strip, large LCD displaying patient and system information, and an ergonomic control panel.",
+          "Ease of Use: Graphical patient positioning and anatomy selection, image previews and direct access to analysis tools.",
+          "Patient Comfort: A wide patient table and easy coil positioning."
+        ],
+        "mn": [
+          "Соронзон орны хүч: 1.5 Тесла.",
+          "AIM платформ: Шинэ загварын RF ороомог, өвчтөний ор, их бие болон хэрэглэгчийн интерфэйсийг нэгтгэсэн.",
+          "AIM ороомог: RightConnect, EasyConnect холболттой, хүлээн авах элементүүдийн нягтрал өндөр, NeuSENSE технологитой нийцтэй.",
+          "ARM градиентийн ороомог: Шууд усан хөргөлт, олон цэгийн температурын хяналт, усны урсгалын тохируулгатай.",
+          "Дүрсний тогтвортой байдал: PID удирдлага, хуйларсан гүйдлийн нөхөн засвар нь градиентийн гаралтыг тогтворжуулж, дүрсний гажуудлыг бууруулна.",
+          "Эмнэлзүйн программ: Total Neuro, Total Spine, BrainQuant, HD DWI, DTI, соронзон резонансын спектроскопи (MRS), артерийн спин тэмдэглэгээ (ASL), Body DIXON болон судасны дүрслэл.",
+          "Удирдлага: Системийн төлөв заах гэрлэн тууз, өвчтөн болон системийн мэдээлэл харуулах том LCD дэлгэц, эргономик самбартай.",
+          "Ашиглахад хялбар: Биеийн байрлал, анатомийн хэсгийг зургаар сонгох, дүрсийг урьдчилан харах, шинжилгээний хэрэгслүүдэд шууд хандах боломжтой.",
+          "Өвчтөний тав тух: Өргөн тавцантай ор, ороомгийг хялбар байрлуулах шийдэлтэй."
+        ]
+      }
+    },
+    {
+      "slug": "neuvision-850-digital-radiography-system-dr",
+      "category": "medical",
+      "group": null,
+      "name": {
+        "en": "NeuVision 850 Digital Radiography System (DR)",
+        "mn": "NeuVision 850 дижитал рентген оношилгооны систем (DR)"
+      },
+      "overview": {
+        "en": [
+          "NeuVision 850 by Neusoft Medical is a digital radiography system combining a wireless flat-panel detector, low-dose technology and intelligent image processing. It enhances image quality and radiation dose control while streamlining the diagnostic workflow. Image stitching technology enables extended anatomical coverage."
+        ],
+        "mn": [
+          "Neusoft Medical компанийн утасгүй хавтгай детектор, бага тунгийн технологи, ухаалаг дүрс боловсруулалтыг хослуулсан дижитал рентген систем. Дүрсний чанар болон цацрагийн тунгийн хяналтыг сайжруулж, оношилгооны ажлын урсгалыг хөнгөвчилнө. Олон зургийг залган нэгтгэх технологи нь өргөн хүрээний анатомийн дүрслэл үүсгэх боломж олгоно."
+        ]
+      },
+      "features": {
+        "en": [
+          "Wireless Flat-Panel Detector: Transfers image data via Wi-Fi.",
+          "Low-Dose Algorithm: Adjusts the dynamic range according to the anatomical region and applies grayscale compensation within the region of interest (ROI) to improve dose control.",
+          "Patented Image Stitching Technology: Corrects pixel grayscale values in overlapping regions and precisely identifies image edges to produce seamless composite images.",
+          "S.O.E — Synthesis Optimal Exposure: Uses the entire detector field for automatic exposure control, enabling precise X-ray dose detection and feedback.",
+          "S.E.P — Smart Equilibrium Processing: Enhances fine anatomical detail through multi-frequency processing and multi-scale image enhancement.",
+          "S.I.G — Super Intelligent Grid: Reduces radiation dose by 40%, according to the manufacturer."
+        ],
+        "mn": [
+          "Утасгүй хавтгай детектор: Дүрсний мэдээллийг Wi-Fi холболтоор дамжуулна.",
+          "Бага тунгийн алгоритм: Анатомийн хэсэгт тохируулан дүрсний динамик хүрээ, сонирхсон хэсгийн (ROI) саарал түвшнийг засварлаж, тунгийн хяналтыг сайжруулна.",
+          "Дүрс залгах патентлагдсан технологи: Давхцсан хэсгийн пикселийн саарал түвшнийг тохируулж, дүрсний ирмэгийг нарийвчлалтай танин, залгаасгүй мэт нэгдсэн зураг үүсгэнэ.",
+          "S.O.E автомат өртөлтийн хяналт: Детекторын бүх талбайг ашиглан рентген цацрагийн тунг илрүүлж, буцах холбоогоор өртөлтийг нарийвчлалтай хянана.",
+          "S.E.P дүрс боловсруулалт: Олон давтамж, олон масштабын боловсруулалтаар дүрсний нарийн бүтцийн ялгаралтыг сайжруулна.",
+          "S.I.G ухаалаг торны технологи: Үйлдвэрлэгчийн мэдээллээр цацрагийн тунг 40%-иар бууруулна."
+        ]
+      }
+    },
+    {
+      "slug": "climber-035-open-mri-system",
+      "category": "medical",
+      "group": null,
+      "name": {
+        "en": "CLIMBER 035 Open MRI System",
+        "mn": "CLIMBER 035 нээлттэй загварын соронзон резонансын томограф (MRI)"
+      },
+      "overview": {
+        "en": [
+          "An MRI system with low operating costs, designed for diagnostic imaging in primary care and regional hospitals. It supports examinations of the brain, spine, abdomen, shoulder, knee, ankle and hip. The system assists in stroke diagnosis, assessment for early tumor detection and the diagnosis of joint disorders."
+        ],
+        "mn": [
+          "Анхан шатны болон бүсийн эмнэлгийн дүрс оношилгоонд зориулсан, ашиглалтын зардал багатай MRI систем. Тархи, нуруу, хэвлий, мөр, өвдөг, шагай, түнх зэрэг хэсгийн шинжилгээнд ашиглана. Тархины харвалтын оношилгоо, хавдрын эрт илрүүлгийн үнэлгээ болон үений эмгэгийн оношилгоонд дэмжлэг үзүүлнэ."
+        ]
+      },
+      "features": {
+        "en": [
+          "Open Design: A C-shaped magnet helps reduce patient claustrophobia.",
+          "DWI Imaging: Supports diffusion-weighted imaging with high b-values.",
+          "DIXON Technology: Generates water, fat, fat-fraction and R2* maps in a single scan.",
+          "Abdominal Imaging: Enables free-breathing scans without breath-holding.",
+          "Image Quality: Features automatic magnetic field shimming, automatic temperature drift compensation and motion artifact reduction.",
+          "Signal Reception: Four independent receiver channels with parallel data acquisition.",
+          "Temperature Control: PID-controlled temperature regulation with an accuracy of ±0.1°C.",
+          "Operation: Features a motorized patient table, laser positioning, remote diagnostics and technical support capabilities."
+        ],
+        "mn": [
+          "Нээлттэй бүтэц: С хэлбэрийн соронз нь өвчтөний давчдах мэдрэмжийг бууруулна.",
+          "DWI дүрслэл: Өндөр b утгатай диффузийн жинлэсэн дүрслэл дэмжинэ.",
+          "DIXON технологи: Нэг сканаар ус, өөх, өөхний эзлэх хувь болон R2* зураг үүсгэнэ.",
+          "Хэвлийн дүрслэл: Амьсгал түгжихгүйгээр, чөлөөтэй амьсгалж байх үед зураг авах боломжтой.",
+          "Дүрсний чанар: Автомат соронзон орны жигдрүүлэлт, температурын шилжилтийн автомат тохируулга, хөдөлгөөний гажуудлыг бууруулах технологитой.",
+          "Дохио хүлээн авалт: Бие даасан 4 сувагтай, параллель мэдээлэл цуглуулалттай.",
+          "Температурын хяналт: PID удирдлагатай, ±0.1°C нарийвчлалтай.",
+          "Ашиглалт: Цахилгаан хөдөлгүүртэй ор, лазерын байрлал тогтоолт, алсын оношилгоо болон техникийн дэмжлэгийн боломжтой."
+        ]
+      }
+    },
+    {
+      "slug": "climber-035-complete-mobile-mri-diagnostic",
+      "category": "medical",
+      "group": null,
+      "name": {
+        "en": "CLIMBER 035 Complete Mobile MRI Diagnostic System",
+        "mn": "CLIMBER 035 хөдөлгөөнт MRI оношилгооны иж бүрэн систем"
+      },
+      "overview": {
+        "en": [
+          "A mobile diagnostic solution integrating the CLIMBER 035 MRI scanner into a transportable module or purpose-built vehicle. It can be used for examinations in remote areas, preventive screening, employee health checkups, disaster response and military medical care. The system can be configured to combine MRI examinations with other diagnostic and laboratory services."
+        ],
+        "mn": [
+          "CLIMBER 035 MRI төхөөрөмжийг хөдөлгөөнт модуль эсвэл тусгай автомашинд нэгтгэсэн явуулын оношилгооны шийдэл. Алслагдсан бүсийн үзлэг, урьдчилан сэргийлэх шинжилгээ, байгууллагын ажилтны эрүүл мэндийн үзлэг, гамшиг болон цэргийн эмнэлгийн тусламжид ашиглах боломжтой. MRI шинжилгээг бусад үзлэг, лабораторийн үйлчилгээтэй хослуулан тоноглож болно."
+        ]
+      },
+      "features": {
+        "en": [
+          "Deployment Options: Available as a transportable module, a vehicle-mounted unit or a semi-trailer configuration.",
+          "MRI Capabilities: Incorporates the imaging technologies and examination capabilities of the CLIMBER 035.",
+          "Modular Facility: The configuration shown in the brochure measures 10 × 3.5 × 3 m (length × width × height).",
+          "Shielding: The modular configuration features electromagnetic shielding on all six sides.",
+          "Integrated Equipment: Includes the MRI scanner, operator workstation, electrical distribution panel, air conditioning, and report and image printers.",
+          "Vehicle Equipment: Can be equipped with a generator, isolation transformer, independent air conditioning, automatic stabilizers, camera monitoring and an oxygen supply system.",
+          "Connectivity: Supports data transmission and video consultations via a 5G network.",
+          "Optional Equipment: Ultrasound, hematology, urinalysis, biochemistry and other diagnostic equipment can be added as required."
+        ],
+        "mn": [
+          "Байршуулалтын хувилбар: Зөөвөрлөн байрлуулах модуль, автомашины бүхээгт суурилуулсан болон хагас чиргүүлтэй загвар.",
+          "MRI боломжууд: CLIMBER 035-ийн дүрслэлийн технологи, шинжилгээний боломжуудыг ашиглана.",
+          "Модуль байгууламж: Танилцуулгад үзүүлсэн хувилбарын хэмжээ 10 × 3.5 × 3 м (урт × өргөн × өндөр).",
+          "Хамгаалалт: Модуль хувилбар нь зургаан талын цахилгаан соронзон хамгаалалттай.",
+          "Иж бүрдэл: MRI төхөөрөмж, операторын ажлын станц, цахилгаан хуваарилах самбар, агааржуулалт, тайлан болон дүрс хэвлэгчийг нэгтгэнэ.",
+          "Автомашины тоноглол: Генератор, тусгаарлах трансформатор, тусдаа агааржуулалт, автомат тулгуур, камерын хяналт болон хүчилтөрөгчийн системтэйгээр тоноглох боломжтой.",
+          "Холболт: 5G сүлжээгээр мэдээлэл дамжуулах, видео зөвлөгөө авах боломжтой.",
+          "Нэмэлт сонголт: Хэт авиа, цус, шээс, биохими болон бусад шинжилгээний төхөөрөмжийг хэрэгцээнд тохируулан нэмнэ."
+        ]
+      }
+    },
+    {
+      "slug": "venusx-radiotherapy-linear-accelerator-linac",
+      "category": "medical",
+      "group": null,
+      "name": {
+        "en": "VenusX Radiotherapy Linear Accelerator (LINAC)",
+        "mn": "VenusX хавдрын туяа эмчилгээний шугаман хурдасгуур (LINAC)"
+      },
+      "overview": {
+        "en": [
+          "VenusX by LinaTech is a radiotherapy system designed to deliver precise radiation doses tailored to the shape and location of a tumor. It supports 3D-CRT, IMRT, VMAT, IGRT, SRS and SBRT treatment techniques. Its dual-layer multileaf collimator, with layers arranged perpendicular to each other, shapes the dose distribution within the tumor while helping spare surrounding healthy tissue and organs at risk."
+        ],
+        "mn": [
+          "LinaTech компанийн VenusX нь хавдрын хэлбэр, байрлалд тохируулан цацрагийн тунг нарийвчлалтай хүргэх зориулалттай туяа эмчилгээний систем юм. 3D-CRT, IMRT, VMAT, IGRT, SRS, SBRT эмчилгээний аргуудыг дэмжинэ. Харилцан перпендикуляр байрлалтай хоёр давхар олон навчит коллиматор нь хавдрын хэсэгт тунгийн тархалтыг тохируулж, ойролцоох эрүүл эд, эрсдэлт эрхтнийг хамгаалахад тусална."
+        ]
+      },
+      "features": {
+        "en": [
+          "Beam Energy: 6 MV FFF.",
+          "Dose Rate: 600 / 800 / 1000 cGy/min.",
+          "Collimator: Dual-layer, orthogonally arranged MLC with 102 pairs (204 leaves); minimum leaf width of 4 mm.",
+          "Radiation Field Size: 40 × 40 cm.",
+          "Image Guidance: kV-CBCT, MV-EPID and a BPS optical surface positioning and monitoring system.",
+          "Treatment Couch: A 6D couch with six degrees of freedom and automated positioning with submillimeter accuracy.",
+          "Motion Monitoring: Supports real-time monitoring of patient position and movement.",
+          "Treatment Planning: TIGRT-TPS software featuring GPU-based Monte Carlo dose calculation, AI-assisted automatic contouring and treatment planning.",
+          "Optional Equipment: Micro MLC D2SRS module with a minimum leaf width of 2.5 mm and 4–35 mm cone collimators."
+        ],
+        "mn": [
+          "Цацрагийн энерги: 6 MV FFF.",
+          "Тунгийн чадал: 600 / 800 / 1000 cGy/мин.",
+          "Коллиматор: Хоёр давхар, харилцан перпендикуляр зохион байгуулалттай 102 хос буюу 204 навчтай MLC; навчны хамгийн бага өргөн 4 мм.",
+          "Шарлагын талбай: 40 × 40 см.",
+          "Дүрсээр чиглүүлэх систем: kV-CBCT, MV-EPID болон оптик гадаргуугийн байрлал хянах BPS систем.",
+          "Эмчилгээний ор: Зургаан тэнхлэгийн хөдөлгөөнтэй 6D ор, миллиметрээс бага нарийвчлалтай автомат байрлал тохируулгатай.",
+          "Хөдөлгөөний хяналт: Өвчтөний байрлал, хөдөлгөөнийг бодит хугацаанд хянах боломжтой.",
+          "Төлөвлөлт: TIGRT-TPS программ, GPU-д суурилсан Monte Carlo тунгийн тооцоолол, AI автомат хүрээлэл тогтоох болон төлөвлөлтийн боломжтой.",
+          "Нэмэлт сонголт: Micro MLC D2SRS модуль — хамгийн нимгэн навч 2.5 мм, 4–35 мм конус коллиматортой."
+        ]
+      }
+    },
+    {
+      "slug": "nstar-mr055-liquid-helium-free-superconducting",
+      "category": "medical",
+      "group": null,
+      "name": {
+        "en": "NSTAR MR055 Liquid-Helium-Free Superconducting MRI System",
+        "mn": "NSTAR MR055 шингэн гелийгүй хэт дамжуулагч соронзон резонансын томограф (MRI)"
+      },
+      "overview": {
+        "en": [
+          "An MRI system featuring liquid-helium-free cooling technology. It supports rapid stroke assessment and detailed imaging of the entire spine, small joints and pelvis. Reduced metal artifacts facilitate postoperative orthopedic assessment. Installation options include hospitals, mobile modules, vehicles and hybrid operating rooms."
+        ],
+        "mn": [
+          "Шингэн гелийгүй хөргөлтийн технологи бүхий MRI систем. Тархины харвалтын шуурхай үнэлгээ, бүх нуруу, жижиг үе болон аарцгийн нарийвчилсан дүрс оношилгоонд ашиглана. Металлаас үүсэх дүрсний гажуудлыг бууруулж, ортопедийн мэс заслын дараах үнэлгээнд дэмжлэг үзүүлнэ. Эмнэлэг, хөдөлгөөнт модуль, автомашин болон хосолсон мэс заслын өрөөнд байрлуулах шийдэлтэй."
+        ]
+      },
+      "features": {
+        "en": [
+          "Cooling: COOLMATRIX direct conduction cooling technology with 0 L of liquid helium.",
+          "Imaging: Consistent image quality with support for expanding advanced MRI pulse sequences.",
+          "Patient Comfort: Low acoustic noise and low specific absorption rate (SAR).",
+          "Dimensions and Weight: Weighs less than 3 tonnes, stands under 2 m high, and requires an installation area of less than 24 m².",
+          "Installation: No helium quench pipe required.",
+          "Operation: No helium refill costs; low power consumption and maintenance costs, according to the manufacturer."
+        ],
+        "mn": [
+          "Хөргөлт: COOLMATRIX шууд дулаан дамжуулан хөргөх технологитой, шингэн гелийн хэрэглээ 0 л.",
+          "Дүрслэл: Тогтвортой дүрсний чанар, дэвшилтэт MRI дарааллыг өргөжүүлэх боломжтой.",
+          "Тав тух: Дуу чимээ болон SAR багатай.",
+          "Хэмжээ, жин: Жин 3 тонноос бага, өндөр 2 м-ээс бага, эзлэх талбай 24 м²-ээс бага.",
+          "Суурилуулалт: Гели гадагшлуулах тусгай хоолой шаардлагагүй.",
+          "Ашиглалт: Гели нөхөх зардалгүй; үйлдвэрлэгчийн мэдээллээр цахилгааны хэрэглээ, засвар үйлчилгээний зардал бага."
+        ]
+      }
+    },
+    {
+      "slug": "smart3d-x-intelligent-dental-and-maxillofacial",
+      "category": "medical",
+      "group": null,
+      "name": {
+        "en": "Smart3D-X Intelligent Dental and Maxillofacial Cone Beam Computed Tomography System (CBCT)",
+        "mn": "Smart3D-X шүд, эрүү нүүрний ухаалаг конус цацрагт компьютер томограф (CBCT)"
+      },
+      "overview": {
+        "en": [
+          "Four Imaging Modes",
+          "SD — Standard Mode",
+          "FS — Fast Mode: Acquires CT images in just 6 seconds.",
+          "HD — High-Definition Mode",
+          "UHD — Ultra-High-Definition Mode",
+          "Single-Exposure Cephalometric Imaging (OneShot CEPH)",
+          "Acquires a cephalometric image in just 1 second, helping prevent motion artifacts caused by patient movement.",
+          "Configuration Options",
+          "2-in-1: CBCT + PAN — Three-dimensional tomography and panoramic dental imaging.",
+          "3-in-1: CBCT + PAN + CEPH — Three-dimensional tomography, panoramic dental imaging and cephalometric imaging.",
+          "Cooling System",
+          "Enables consecutive image acquisitions without waiting for the unit to cool down. Ensures stable operation at high temperatures and during continuous imaging.",
+          "Two Panoramic Imaging Options",
+          "Directly acquired 2D panoramic images (PAN).",
+          "Panoramic images reconstructed from 3D imaging data.",
+          "High-Resolution Imaging",
+          "Spatial Resolution: 3.0–5.0 line pairs/mm (lp/mm).",
+          "Voxel Size: 0.04–0.3 mm.",
+          "High-Resolution Detector Pixel Size: 95 μm."
+        ],
+        "mn": [
+          "Дүрслэлийн дөрвөн горим",
+          "SD — Стандарт горим",
+          "FS — Хурдан горим: CT дүрслэлийг ердөө 6 секундэд авах боломжтой.",
+          "HD — Өндөр нягтаршилтай горим",
+          "UHD — Хэт өндөр нягтаршилтай горим",
+          "Нэг удаагийн өртөлтөөр авах цефалометрийн зураг (OneShot CEPH)",
+          "Цефалометрийн зургийг ердөө 1 секундэд авч, өвчтөний хөдөлгөөнөөс үүсэх дүрсний гажуудлаас сэргийлнэ.",
+          "Тоноглолын сонголтууд",
+          "2 үйлдэлтэй: CBCT + PAN — гурван хэмжээст томограф болон шүдний дэлгэмэл зураг.",
+          "3 үйлдэлтэй: CBCT + PAN + CEPH — гурван хэмжээст томограф, шүдний дэлгэмэл болон цефалометрийн зураг.",
+          "Хөргөлтийн систем",
+          "Хөргөлтийн систем нь төхөөрөмжийг хөрөхийг хүлээлгүйгээр дараалсан зураг авах боломж бүрдүүлнэ. Өндөр температур болон тасралтгүй зураг авалтын үед тогтвортой ажиллагааг хангана.",
+          "Шүдний дэлгэмэл зургийн хоёр сонголт",
+          "Шууд авах 2D дэлгэмэл зураг (PAN).",
+          "3D дүрсний өгөгдлөөс сэргээн боловсруулсан дэлгэмэл зураг.",
+          "Өндөр нягтаршилтай дүрслэл",
+          "Орон зайн ялгах чадвар: 3.0–5.0 хос шугам/мм (lp/mm).",
+          "Вокселийн хэмжээ: 0.04–0.3 мм.",
+          "Өндөр нягтаршилтай детекторын пикселийн хэмжээ: 95 мкм."
+        ]
+      },
+      "features": {
+        "en": [
+          "Multimodal Imaging: CT, PAN and CEPH image processing, multiplanar reconstruction and detailed 3D visualization.",
+          "AI Image Processing: Produces clear images at low doses, reduces metal artifacts and automatically corrects head positioning.",
+          "Dental and Bone Assessment: Visualizes teeth, root canals, jaws and maxillary sinuses to assess anatomy, positioning and bone quality.",
+          "Implant Planning: Measures bone height and width, identifies nerve locations, and calculates implant size, position, angulation and bone graft material volume.",
+          "Orthodontic Analysis: Supports cephalometric measurements, skeletal age assessment using cervical vertebrae, and comparative visualization of the temporomandibular joints.",
+          "Airway Assessment: Measures airway volume, narrowing and cross-sectional area.",
+          "Patient Communication: Uses virtual visualization to explain tooth extraction and implant placement plans to patients."
+        ],
+        "mn": [
+          " Олон төрлийн дүрслэл: CT, PAN, CEPH зураг боловсруулах, олон хавтгайн огтлол болон нарийвчилсан 3D дүрс харах.",
+          " AI дүрс боловсруулалт: Бага тунгаар тод дүрс авах, металлын гажуудлыг бууруулах, толгойн байрлалыг автоматаар засах.",
+          " Шүд, ясны шинжилгээ: Шүд, сурвалжийн суваг, эрүү болон дээд эрүүний хөндийг ялган дүрсэлж, бүтэц, байрлал, ясны чанарыг үнэлэх.",
+          " Имплантын төлөвлөлт: Ясны өндөр, өргөн, мэдрэлийн байрлалыг тодорхойлж, имплантын хэмжээ, байрлал, өнцөг болон яс нөхөх материалын эзлэхүүнийг тооцоолох.",
+          " Гажиг заслын шинжилгээ: Цефалометрийн хэмжилт, хүзүүний нугалмаар ясны нас үнэлэх, эрүү-чамархайн үеийг харьцуулан харах.",
+          " Амьсгалын замын үнэлгээ: Эзлэхүүн, нарийсал, хөндлөн огтлолын талбайг хэмжих.",
+          " Эмчилгээний тайлбар: Шүд авах болон имплант суулгах төлөвлөгөөг виртуал дүрслэлээр өвчтөнд танилцуулах"
+        ]
+      }
+    },
+    {
+      "slug": "fusionscanner-su-series-intraoral-scanner",
+      "category": "medical",
+      "group": null,
+      "name": {
+        "en": "FusionScanner SU Series Intraoral Scanner",
+        "mn": "FusionScanner SU цувралын амны хөндийн сканнер"
+      },
+      "overview": {
+        "en": [
+          "FusionScanner SU is designed for easy, precise digital impression taking of teeth and oral structures. Its lightweight, compact design simplifies operation for clinicians while ensuring patient comfort.",
+          "Model Options",
+          "FusionScanner SU: An efficient solution for everyday dental practice.",
+          "FusionScanner SU Lab: A practical choice for versatile applications.",
+          "FusionScanner SU Pro: A premium model with comprehensive capabilities."
+        ],
+        "mn": [
+          "FusionScanner SU нь шүд, амны хөндийн дижитал хэвийг хялбар, нарийвчлалтай авах зориулалттай сканнер юм. Хөнгөн, авсаархан загвар нь эмчийн ажиллагааг хөнгөвчилж, өвчтөнд тав тухтай үйлчлүүлэх боломж бүрдүүлнэ.",
+          "Загварын сонголтууд",
+          "FusionScanner SU: Шүдний эмнэлгийн өдөр тутмын хэрэглээнд зориулсан үр ашигтай шийдэл.",
+          "FusionScanner SU Lab: Олон зориулалтаар ашиглах практик сонголт.",
+          "FusionScanner SU Pro: Өргөн боломж бүхий дээд зэрэглэлийн хувилбар."
+        ]
+      },
+      "features": {
+        "en": [
+          "Key Features",
+          "High-resolution scanning with accuracy down to 20 μm.",
+          "Anti-fog airflow keeps the scanner ready for immediate use.",
+          "Multifunction button for one-touch operation.",
+          "Ergonomic, compact body.",
+          "Silicone surface provides a comfortable, secure grip.",
+          "Detachable Type-C cable for direct connection to a computer.",
+          "Technical Specifications",
+          "Power Supply: 12 V / 3 A, 5 V / 3 A.",
+          "Scanning Depth: −2–20 mm.",
+          "Connectivity: USB 3.0.",
+          "Scanning Area: 16 × 12 mm, 12 × 9 mm.",
+          "Dimensions: 251 × 40 × 30 mm.",
+          "Weight: 200 ± 10 g.",
+          "Scanning Speed: 20 frames per second.",
+          "Output File Formats: STL, OBJ, PLY.",
+          "Configuration Options",
+          "Portable Configuration: Connects directly to a laptop for scanning.",
+          "Cart Configuration: Equipped with a touchscreen and easily moved between examination rooms."
+        ],
+        "mn": [
+          "Гол онцлог",
+          "20 мкм хүртэлх нарийвчлалтай өндөр нягтаршилтай скан.",
+          "Цан үүсэхээс сэргийлэх агаарын урсгалтай тул скан хийхэд шууд бэлэн.",
+          "Олон үйлдэлт товчлуураар нэг товшилтоор удирдана.",
+          "Эргономик, авсаархан их биетэй.",
+          "Силикон гадаргуу нь гарт эвтэйхэн, найдвартай барьцалдана.",
+          "Салдаг Type-C кабельтай, компьютерт шууд холбох боломжтой.",
+          "Техникийн үзүүлэлт",
+          "Цахилгаан тэжээл: 12 В / 3 А, 5 В / 3 А.",
+          "Скан хийх гүн: −2–20 мм.",
+          "Холболт: USB 3.0.",
+          "Скан хийх талбай: 16 × 12 мм, 12 × 9 мм.",
+          "Хэмжээ: 251 × 40 × 30 мм.",
+          "Жин: 200 ± 10 г.",
+          "Скан хийх хурд: 20 кадр/секунд.",
+          "Гаралтын файлын формат: STL, OBJ, PLY.",
+          "Ашиглалтын хувилбарууд",
+          "Зөөврийн хувилбар: Зөөврийн компьютерт шууд холбон скан хийх боломжтой.",
+          "Дугуйт суурьтай хувилбар: Мэдрэгчтэй дэлгэцтэй, үзлэгийн өрөөнүүдийн хооронд хялбар зөөвөрлөн ашиглана."
+        ]
+      }
+    },
+    {
+      "slug": "hires3d-series-dental-and-maxillofacial-cone",
+      "category": "medical",
+      "group": null,
+      "name": {
+        "en": "HiRes3D Series Dental and Maxillofacial Cone Beam Computed Tomography System (CBCT)",
+        "mn": "HiRes3D цувралын шүд, эрүү нүүрний конус цацрагт компьютер томограф (CBCT)"
+      },
+      "overview": {
+        "en": [
+          "HiRes3D combines a large field of view, high-resolution imaging and a seated patient design. It supports dental implant planning, orthodontics, impacted tooth localization, oral and maxillofacial surgical assessment, and the diagnosis of dental conditions."
+        ],
+        "mn": [
+          "HiRes3D нь өргөн талбайн дүрслэл, өндөр нягтаршил, өвчтөнийг суулган шинжлэх загварыг хослуулсан CBCT төхөөрөмж юм. Шүдний имплант, гажиг засал, саатсан шүдний байрлал тодорхойлох, амны хөндий, эрүү нүүрний мэс заслын үнэлгээ болон шүдний эмгэгийн оношилгоонд ашиглана."
+        ]
+      },
+      "features": {
+        "en": [
+          "Key Imaging Capabilities",
+          "Large Field of View (FOV): Captures a broad oral and maxillofacial region in a single scan without image stitching.",
+          "Low-Dose Mode: Balances image quality and radiation dose, enabling dose reduction, particularly for pediatric and elderly patients.",
+          "CT / PAN / CEPH: Performs a 360° scan and automatically generates panoramic images and posteroanterior (PA) and lateral (LAT) cephalometric images.",
+          "High-Quality Imaging: Features a small focal spot X-ray tube and a high-sensitivity detector, achieving a spatial resolution of up to 2.4 line pairs/mm (lp/mm).",
+          "Fast Imaging: Acquires 3D image data in 12.5 seconds and reconstructs high-resolution images within 30 seconds.",
+          "S / M / L Modes: Offers three acquisition modes to suit individual patient characteristics.",
+          "Metal Artifact Reduction: Reduces image artifacts caused by metal and other high-density materials.",
+          "Patient Positioning and Comfort",
+          "Seated examinations allow face-to-face interaction between the clinician and patient.",
+          "A 3D laser positioning system precisely aligns the region to be examined.",
+          "A six-direction motorized chair provides stable, comfortable positioning and helps reduce motion artifacts.",
+          "Chair movement control offers precision down to 0.1 mm.",
+          "Fully motorized chin and forehead supports.",
+          "Soft, breathable composite-fabric seating with shape recovery.",
+          "Optional Features",
+          "Dental Model Scanning: Scans dental impressions and plaster models with accuracy down to 100 μm, generating STL-format 3D models for implant and orthodontic planning.",
+          "3D Facial Scanning: Captures 3D facial surface data for integration with CBCT images."
+        ],
+        "mn": [
+          "Дүрслэлийн гол боломжууд",
+          "Том хэмжээний FOV: Олон дүрс залгахгүйгээр амны хөндий, эрүү нүүрний өргөн хэсгийг нэг удаагийн сканаар хамруулна.",
+          "Бага тунгийн горим: Дүрсний чанар, цацрагийн тунгийн тэнцвэрийг хангаж, ялангуяа хүүхэд, ахмад настны шинжилгээнд тунг бууруулах боломж олгоно.",
+          "CT / PAN / CEPH: 360° скан хийж, дэлгэмэл болон цефалометрийн эгц (PA), хажуугийн (LAT) дүрсийг автоматаар үүсгэнэ.",
+          "Өндөр чанартай дүрслэл: Жижиг фокустай рентген хоолой, өндөр мэдрэмжтэй детектортой. Ялгах чадвар 2.4 хос шугам/мм (lp/mm) хүрнэ.",
+          "Шуурхай ажиллагаа: 12.5 секундэд 3D дүрсний өгөгдөл авч, өндөр нягтаршилтай дүрсийг 30 секундийн дотор сэргээн боловсруулна.",
+          "S / M / L горим: Өвчтөний онцлогт тохируулан зураг авалтын гурван горимоос сонгоно.",
+          "Металлын гажуудлыг засах: Металл болон өндөр нягттай материалаас үүсэх дүрсний гажуудлыг бууруулна.",
+          "Өвчтөний байрлал, тав тух",
+          "Суулгаа байрлалаар шинжилгээ хийх бөгөөд эмч өвчтөнтэй нүүр тулан харилцах боломжтой.",
+          "3D лазерын байрлал тогтоох систем нь шинжлэх хэсгийг нарийвчлалтай тохируулна.",
+          "Зургаан чиглэлийн цахилгаан тохируулгатай суудал нь хөдөлгөөнөөс үүсэх гажуудлыг бууруулж, тогтвортой, тав тухтай байрлалыг хангана.",
+          "Суудлын хөдөлгөөний удирдлагын нарийвчлал 0.1 мм хүрнэ.",
+          "Эрүү, духны тулгуур нь бүрэн цахилгаан тохируулгатай.",
+          "Зөөлөн, агаар нэвтрүүлдэг, хэлбэрээ сэргээдэг нийлмэл даавуун суудалтай.",
+          "Нэмэлт сонголтууд",
+          "Шүдний загварын скан: Шүдний хэв, гипсэн загварыг 100 мкм хүртэлх нарийвчлалтай скан хийж, имплант болон гажиг заслын төлөвлөлтөд зориулсан STL форматтай 3D загвар үүсгэнэ.",
+          "Нүүрний 3D скан: Нүүрний бодит гадаргуугийн 3D өгөгдлийг авч, CBCT дүрстэй нэгтгэнэ."
+        ]
+      }
+    },
+    {
+      "slug": "ultra3d-dual-source-dual-detector-cone",
+      "category": "medical",
+      "group": null,
+      "name": {
+        "en": "Ultra3D Dual-Source, Dual-Detector Cone Beam Computed Tomography System (CBCT)",
+        "mn": "Ultra3D хос үүсгүүр, хос детектортой конус цацрагт компьютер томограф (CBCT)"
+      },
+      "overview": {
+        "en": [
+          "Ultra3D is a CBCT system featuring dual X-ray sources and dual detectors, combining wide-area coverage with fine-detail imaging. It produces high-resolution images for diagnostic assessment of the extremities, ears, nose, pharynx, airways, oral cavity and maxillofacial region.",
+          "Key Imaging Capabilities",
+          "Fine-Detail Imaging: Capable of resolving anatomical structures as small as 50 μm.",
+          "Starry Sky Detector: Provides high resolution, high sensitivity and fast image acquisition with low power consumption.",
+          "0.25 Small Focal Spot X-ray Tube: Improves spatial resolution and the signal-to-noise ratio.",
+          "Image Processing Algorithms: Support high-resolution reconstruction, scatter correction and metal artifact reduction.",
+          "Low-Dose Control: Automatically adjusts radiation output to balance image quality and dose. A low-dose mode is available for pediatric and elderly patients."
+        ],
+        "mn": [
+          "Бүтээгдэхүүний танилцуулга",
+          "Ultra3D нь хос рентген үүсгүүр, хос детекторын загвараар өргөн хүрээний болон бичил бүтцийн дүрслэлийг хослуулсан CBCT систем юм. Мөч, чих, хамар, залгиур, амьсгалын зам, амны хөндий болон эрүү нүүрний хэсгийн оношилгоонд зориулсан өндөр нарийвчлалтай дүрс үүсгэнэ.",
+          "Дүрслэлийн гол боломжууд",
+          "Нарийвчилсан дүрслэл: 50 мкм хэмжээтэй анатомийн бүтцийг ялган харуулах боломжтой.",
+          "Starry Sky детектор: Өндөр нягтаршил, мэдрэмж, дүрс авах хурдтай, эрчим хүчний бага хэрэглээтэй.",
+          "0.25 жижиг фокустай рентген хоолой: Дүрсний ялгах чадвар болон дохио-шуугианы харьцааг сайжруулна.",
+          "Дүрс боловсруулах алгоритмууд: Өндөр нягтаршилтай дүрс сэргээн боловсруулах, сарнилын засвар, металлаас үүсэх гажуудлыг бууруулах боломжтой.",
+          "Бага тунгийн хяналт: Цацрагийн түвшнийг автоматаар тохируулж, дүрсний чанар ба тунгийн тэнцвэрийг хангана. Хүүхэд, ахмад настны шинжилгээнд бага тунгийн горим ашиглах боломжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Positioning and Patient Comfort",
+          "Scout-Based Positioning: Automatically adjusts patient positioning when the region for a 3D examination is selected on a wide-field 2D scout image.",
+          "Six-Direction Motorized Patient Table: Moves smoothly up, down, left, right, forward and backward, with positioning control precision of 0.1 mm.",
+          "Two-Way Communication: Enables direct communication between the clinician and patient during the examination, with on/off and volume controls accessible from the control panel.",
+          "Laser Positioning System: Simplifies accurate patient positioning.",
+          "Bore Open at Both Ends: Helps maintain patient comfort during the examination."
+        ],
+        "mn": [
+          "Байрлал тогтоох, өвчтөний тав тух",
+          "Урьдчилсан зурагт суурилсан байрлал тогтоолт: Өргөн талбайн 2D зургаас 3D шинжилгээ хийх хэсгийг сонгоход өвчтөний байрлалыг автоматаар тохируулна.",
+          "Зургаан чиглэлийн хөдөлгөөнтэй ор: Дээш, доош, зүүн, баруун, урагш, хойш жигд хөдөлж, 0.1 мм-ийн удирдлагын нарийвчлалтай байрлуулна.",
+          "Хоёр талын холбоо: Эмч өвчтөнтэй шинжилгээний явцад шууд ярилцаж, удирдлагын самбараас холбоог асаах, унтраах, дууны түвшнийг тохируулах боломжтой.",
+          "Лазерын байрлал тогтоох систем: Өвчтөнийг зөв байрлуулах ажиллагааг хялбарчилна.",
+          "Хоёр талдаа нээлттэй хонгил: Шинжилгээний үед өвчтөнд тав тухтай байхад дэмжлэг үзүүлнэ."
+        ]
+      }
+    },
+    {
+      "slug": "dw-t30-cart-based-color-doppler",
+      "category": "medical",
+      "group": null,
+      "name": {
+        "en": "DW-T30 — Cart-Based Color Doppler Ultrasound System",
+        "mn": "DW-T30 — Тэргэнцэрт суурилуулсан өнгөт Допплер хэт авиан оношилгооны аппарат"
+      },
+      "overview": {
+        "en": [
+          "A high-resolution 4D ultrasound system designed for obstetric and gynecological imaging. It supports real-time visualization of fetal movement, measurements and gynecological examinations. An adjustable control panel, touchscreen and multiple probe connections simplify examinations."
+        ],
+        "mn": [
+          "Эх барих, эмэгтэйчүүдийн оношилгоонд зориулсан өндөр нягтаршилтай 4D хэт авиан систем. Ургийн хөдөлгөөнийг бодит хугацаанд дүрслэх, хэмжилт хийх болон эмэгтэйчүүдийн эрүүл мэндийн үзлэгт ашиглана. Тохируулгатай удирдлагын хэсэг, мэдрэгчтэй дэлгэц, олон датчик холбох боломж нь үзлэгийг хялбарчилна."
+        ]
+      },
+      "features": {
+        "en": [
+          "Display: A 21.5-inch medical-grade HD main monitor and a 13.3-inch control touchscreen with 0–45° tilt adjustment.",
+          "4D D-Live: Displays the fetal surface with lifelike lighting and shading while showing movement in real time.",
+          "Image Processing: Features the YH+ platform, parallel multi-beam processing and sub-array transducer technology. Supports micro-imaging, tissue harmonic imaging (THI) and trapezoidal imaging.",
+          "Probe Connections: Four active probe ports.",
+          "Ergonomic Adjustment: The control panel rotates horizontally through 110° and offers 18 cm of height adjustment.",
+          "Data Transfer: Shares images and video with a computer in real time over a LAN. Connects to hospital PACS through DICOM 3.0."
+        ],
+        "mn": [
+          "Дэлгэц: 21.5 инчийн эмнэлгийн зориулалтын HD үндсэн дэлгэц; 0–45° налуулах боломжтой 13.3 инчийн мэдрэгчтэй удирдлагын дэлгэц.",
+          "4D D-Live: Ургийн гадаргууг бодит мэт гэрэл, сүүдэртэйгээр дүрслэн, хөдөлгөөнийг бодит хугацаанд харуулна.",
+          "Дүрс боловсруулалт: YH+ платформ, олон цацрагийг зэрэг боловсруулах болон дэд массивын датчикийн технологитой. Micro-imaging, эдийн гармоник дүрслэл (THI), трапец хэлбэрийн дүрслэлийг дэмжинэ.",
+          "Датчикийн холболт: Идэвхтэй 4 порттой.",
+          "Эргономик тохируулга: Удирдлагын самбар хэвтээ чиглэлд 110° эргэж, өндрийг 18 см-ийн хүрээнд тохируулна.",
+          "Мэдээлэл дамжуулалт: LAN сүлжээгээр зураг, бичлэгийг компьютерт бодит хугацаанд хуваалцана. DICOM 3.0 стандартаар эмнэлгийн PACS системтэй холбогдоно."
+        ]
+      }
+    },
+    {
+      "slug": "afm-800m-fetal-monitor",
+      "category": "medical",
+      "group": null,
+      "name": {
+        "en": "AFM-800M — Fetal Monitor",
+        "mn": "AFM-800M — Ургийн хяналтын монитор"
+      },
+      "overview": {
+        "en": [
+          "Designed to monitor fetal heart rate, uterine contractions and fetal movement during pregnancy and labor. Measurements are displayed in real time and can be stored and printed. Optional configurations support twin fetal monitoring and maternal vital signs monitoring."
+        ],
+        "mn": [
+          "Жирэмсний болон төрөлтийн үеийн ургийн зүрхний цохилт, умайн агшилт, ургийн хөдөлгөөнийг хянах зориулалттай төхөөрөмж. Үзүүлэлтүүдийг бодит хугацаанд дэлгэцээр харуулж, хадгалах болон хэвлэх боломжтой. Нэмэлт тохиргоогоор ихэр ургийн болон эхийн үзүүлэлтүүдийн хяналтыг дэмжинэ."
+        ]
+      },
+      "features": {
+        "en": [
+          "Display: A 10-inch TFT screen with tilt adjustment up to 90°.",
+          "Fetal Heart Rate (FHR): Measurement range of 50–240 bpm, with an accuracy of ±2 bpm. Uses DSP technology for real-time detection and measurement.",
+          "Transducer: A high-sensitivity, 9-crystal pulsed Doppler transducer operating at 1.0 MHz.",
+          "Uterine Contractions (TOCO): Measurement range of 0–100 units.",
+          "Fetal Movement: Automatic detection and counting.",
+          "CTG Assessment: Includes Krebs and Fischer scoring systems.",
+          "Printing and Power: Built-in 110 mm thermal printer and rechargeable battery.",
+          "Optional Features: Twin fetal heart rate monitoring; maternal SpO₂, pulse rate and non-invasive blood pressure (NIBP) monitoring; touchscreen, trolley and wall mount."
+        ],
+        "mn": [
+          "Дэлгэц: 10 инчийн TFT дэлгэцтэй, 90° хүртэл нугалах боломжтой.",
+          "Ургийн зүрхний цохилт (FHR): 50–240 цохилт/мин; нарийвчлал ±2 цохилт/мин. DSP технологиор бодит хугацаанд таньж хэмжинэ.",
+          "Датчик: 1.0 МГц давтамжтай, 9 талст бүхий өндөр мэдрэмжтэй импульсийн Допплер датчик.",
+          "Умайн агшилт (TOCO): 0–100 нэгжийн хүрээнд хэмжинэ.",
+          "Ургийн хөдөлгөөн: Автоматаар илрүүлж, тоолно.",
+          "КТГ үнэлгээ: Krebs болон Fischer онооны системтэй.",
+          "Хэвлэлт, тэжээл: Суурилуулсан 110 мм-ийн дулааны принтер, цэнэглэдэг батарейтай.",
+          "Нэмэлт сонголт: Ихэр ургийн зүрхний цохилт; эхийн SpO₂, пульс, инвазив бус цусны даралт (NIBP); мэдрэгчтэй дэлгэц, тэргэнцэр, ханын тогтоогч."
+        ]
+      }
+    },
+    {
+      "slug": "lrm-6-semi-automatic-microtome-with",
+      "category": "medical",
+      "group": null,
+      "name": {
+        "en": "LRM-6 — Semi-Automatic Microtome with Touchscreen",
+        "mn": "LRM-6 — Мэдрэгчтэй дэлгэц бүхий хагас автомат микротом"
+      },
+      "overview": {
+        "en": [
+          "A laboratory instrument designed to prepare thin tissue sections at a selected thickness. Suitable for clinical histology, pathology and research laboratories. Specimen advance and retraction are motorized, while sectioning is performed using a manual handwheel."
+        ],
+        "mn": [
+          "Эдийн сорьцыг тохируулсан зузаантай нимгэн зүсмэл болгон бэлтгэх зориулалттай лабораторийн төхөөрөмж. Эмнэлгийн гистологи, эмгэг судлалын шинжилгээ болон эрдэм шинжилгээний лабораторид ашиглана. Сорьцын урагш, хойш шилжилтийг цахилгаанаар удирдаж, зүсэлтийг гар хүрдээр гүйцэтгэнэ."
+        ]
+      },
+      "features": {
+        "en": [
+          "Section Thickness: 1–100 μm, adjustable in 1 μm increments.",
+          "Trimming Thickness (TRIM): 1–100 μm, adjustable in 1 μm increments.",
+          "Sectioning Accuracy: ±10%.",
+          "Maximum Specimen Size: 50 × 45 mm.",
+          "Specimen Travel: 20 mm horizontally and 60 mm vertically; specimen retraction of 12 μm.",
+          "Controls: Touchscreen controls for section thickness, section count and specimen movement. Adjustable specimen orientation.",
+          "Safety: Handwheel lock, blade guard and automatic sleep mode.",
+          "Dimensions: 500 × 420 × 310 mm. Power Supply: 220 V."
+        ],
+        "mn": [
+          "Зүсэлтийн зузаан: 1–100 мкм; тохируулгын алхам 1 мкм.",
+          "Урьдчилан тэгшлэх зүсэлт (TRIM): 1–100 мкм; тохируулгын алхам 1 мкм.",
+          "Зүсэлтийн нарийвчлал: ±10%.",
+          "Сорьцын дээд хэмжээ: 50 × 45 мм.",
+          "Сорьцын хөдөлгөөн: Хэвтээ чиглэлд 20 мм, босоо чиглэлд 60 мм; буцаан таталт 12 мкм.",
+          "Удирдлага: Мэдрэгчтэй дэлгэцээр зүсэлтийн зузаан, зүсэлтийн тоо, сорьцын шилжилтийг хянана. Сорьцын өнцгийг тохируулах боломжтой.",
+          "Аюулгүй байдал: Гар хүрдний түгжээ, ирний хамгаалалт, автомат унтлагын горимтой.",
+          "Хэмжээ: 500 × 420 × 310 мм. Тэжээл: 220 В."
+        ]
+      }
+    },
+    {
+      "slug": "gsl-link-i-series-integrated-solar",
+      "category": "energy",
+      "group": null,
+      "name": {
+        "en": "GSL-Link I Series — Integrated Solar Energy and Battery Storage System",
+        "mn": "GSL-Link I цуврал — Нарны эрчим хүч, хуримтлуурын нэгдсэн систем"
+      },
+      "overview": {
+        "en": [
+          "An indoor energy system that integrates solar PV connectivity, a lithium battery, an inverter and power distribution into a single unit. Suitable for homes, summer houses, commercial premises, industrial facilities and temporary backup power. It stores solar energy for use when needed and can also charge from the grid for use during peak demand periods."
+        ],
+        "mn": [
+          "Нарны хавтангийн холболт, литийн батарей, инвертер болон цахилгаан хуваарилалтыг нэг төхөөрөмжид нэгтгэсэн дотор орчинд ашиглах эрчим хүчний систем. Айл өрх, зуслан, худалдаа, үйлчилгээ, үйлдвэрлэл болон түр хугацааны нөөц тэжээлд ашиглана. Нарны эрчим хүчийг хуримтлуулж, хэрэглээнд нийлүүлэхийн зэрэгцээ сүлжээнээс цэнэглэн оргил хэрэглээний үед ашиглах боломжтой."
+        ]
+      },
+      "features": {
+        "en": [
+          "Power / Storage Capacity Options:",
+          "3.5 kW / 5 kWh",
+          "6.6 kW / 10 kWh",
+          "5.5 kW / 16 kWh",
+          "12.5 kW / 30–32 kWh",
+          "25 kW / 60 kWh",
+          "37.5 kW / 90 kWh",
+          "50 kW / 120 kWh",
+          "Solar Charging: Depending on the model, features 1–8 MPPT controllers and supports a maximum total connected PV capacity of 4–52.8 kW.",
+          "Operating Modes: Offers solar-priority, load-priority and grid-priority modes, with peak-shaving control.",
+          "Power Transfer: Typical transfer time from inverter power to grid bypass supply is 10 ms.",
+          "Control and Monitoring: Features an HD touchscreen, remote monitoring via a mobile app, remote firmware updates and fault diagnostics.",
+          "Safety: Includes a battery management system (BMS) and multiple levels of protection. IP20 protection rating.",
+          "Phase Options: A three-phase configuration is available for the 12.5 kW model; 25–50 kW models feature three-phase inverters."
+        ],
+        "mn": [
+          "Чадал / багтаамжийн сонголт:",
+          "3.5 кВт / 5 кВт·ц;",
+          "6.6 кВт / 10 кВт·ц;",
+          "5.5 кВт / 16 кВт·ц;",
+          "12.5 кВт / 30–32 кВт·ц;",
+          "25 кВт / 60 кВт·ц;",
+          "37.5 кВт / 90 кВт·ц;",
+          "50 кВт / 120 кВт·ц.",
+          "Нарны цэнэглэлт: Загвараас хамааран 1–8 MPPT хянагчтай; холбох нарны хавтангийн нийт дээд чадал 4–52.8 кВт.",
+          "Ажиллах горим: Нарны эх үүсвэр, хэрэглээ болон сүлжээний холболтыг тэргүүлэх горимуудтай; оргил ачааллыг бууруулах удирдлагатай.",
+          "Тэжээлийн шилжилт: Инвертерээс сүлжээний шууд тэжээлд шилжих ердийн хугацаа 10 мс.",
+          "Удирдлага: HD мэдрэгчтэй дэлгэц, гар утасны аппын алсын хяналт, программын алсын шинэчлэлт, гэмтлийн оношилгоотой.",
+          "Аюулгүй байдал: Батарейн удирдлагын BMS болон олон түвшний хамгаалалттай. Хамгаалалтын зэрэг IP20.",
+          "Фазын сонголт: 12.5 кВт загварт гурван фазын хувилбар сонгох боломжтой; 25–50 кВт загварууд гурван фазын инвертертэй."
+        ]
+      }
+    },
+    {
+      "slug": "mobile-foldable-solar-power-container-power",
+      "category": "energy",
+      "group": null,
+      "name": {
+        "en": "Mobile Foldable Solar Power Container — Power SPV / Power SES Series",
+        "mn": "Зөөврийн, эвхэгддэг нарны цахилгаан станцын контейнер — Power SPV / Power SES цуврал"
+      },
+      "overview": {
+        "en": [
+          "A transportable, redeployable energy solution integrating solar panels, foldable mounting structures, inverters and electrical equipment into a container. Power SPV provides solar power generation, while Power SES integrates solar generation with battery storage. Suitable for mines, construction sites, oil extraction operations, remote areas and temporary power supply."
+        ],
+        "mn": [
+          "Нарны хавтан, эвхэгддэг тулгуур, инвертер болон цахилгааны тоноглолыг контейнерт нэгтгэсэн, тээвэрлэж дахин байрлуулах боломжтой эрчим хүчний шийдэл. Power SPV нь нарны цахилгаан үүсгүүрийн, Power SES нь батарей хуримтлууртай нэгдсэн хувилбар юм. Уурхай, барилгын талбай, газрын тосны олборлолт, алслагдсан бүс болон түр хугацааны цахилгаан хангамжид ашиглана."
+        ]
+      },
+      "features": {
+        "en": [
+          "Total Peak PV Capacity: 21.6–272.32 kWp for the SPV series; 20.4–218.4 kWp for the SES series.",
+          "Battery Storage Options — SES: 32, 64, 261 or 522 kWh.",
+          "Inverters: Total inverter capacity of 18–220 kW for SPV grid-connected configurations and 16–160 kW for SES hybrid configurations.",
+          "Container Options: 8GPF, 20HQ, 40HQ and 40HQP, selected according to requirements.",
+          "Deployment and Retraction: Depending on the model, full deployment takes 50–200 minutes and retraction takes 40–150 minutes, with a crew of 3–4 people.",
+          "System Integration: Can be combined with battery storage, diesel generators and wind turbines to form a microgrid. Off-grid operation depends on the selected configuration.",
+          "Modular Design: Supports transportation, reuse and capacity expansion to meet changing requirements."
+        ],
+        "mn": [
+          "Нарны хавтангийн нийт оргил чадал: SPV цуврал 21.6–272.32 кВтₚ; SES цуврал 20.4–218.4 кВтₚ.",
+          "Хуримтлуурын сонголт — SES: 32, 64, 261 эсвэл 522 кВт·ц.",
+          "Инвертер: SPV хувилбарт сүлжээний 18–220 кВт; SES хувилбарт хосолмол 16–160 кВт нийт чадалтай.",
+          "Контейнерийн сонголт: 8GPF, 20HQ, 40HQ болон 40HQP; хэрэгцээнд тохируулан сонгоно.",
+          "Дэлгэх, хураах: Загвараас хамааран бүрэн дэлгэх хугацаа 50–200 минут, хураах хугацаа 40–150 минут; 3–4 хүн ажиллана.",
+          "Системийн уялдаа: Хуримтлуур, дизель генератор болон салхин үүсгүүртэй хослуулан бичил сүлжээ байгуулах боломжтой. Бие даасан ажиллагаа нь сонгосон тохиргооноос хамаарна.",
+          "Модуль бүтэц: Тээвэрлэх, дахин ашиглах, хүчин чадлыг хэрэгцээнд тохируулан өргөтгөх боломжтой."
+        ]
+      }
+    },
+    {
+      "slug": "jdjz-s1-pro-ev-charger",
+      "category": "energy",
+      "group": null,
+      "name": {
+        "en": "JDJZ S1 Pro — EV Charger",
+        "mn": "JDJZ S1 Pro — Цахилгаан автомашины цэнэглэгч"
+      },
+      "overview": {
+        "en": [
+          "A 7 kW electric vehicle charger supporting plug-and-charge operation, Bluetooth connectivity and card-activated charging. It also supports 4G network connectivity."
+        ],
+        "mn": [
+          "7 кВт чадалтай, цахилгаан автомашин цэнэглэх зориулалттай төхөөрөмж. Залгаад шууд цэнэглэх, Bluetooth холболт болон картаар цэнэглэлт эхлүүлэх боломжтой. 4G сүлжээний холболтыг дэмжинэ."
+        ]
+      },
+      "features": {
+        "en": [
+          "Power Output: 7 kW.",
+          "Protection Rating: IP55.",
+          "Charging Cable: Integrated 5 m cable.",
+          "Operating Modes: Plug-and-charge, Bluetooth control and card-activated charging.",
+          "Connectivity: 4G.",
+          "Status Indication: Indicator lights display charging status.",
+          "Package Contents: Charger, charging cable and connector, user manual, mounting accessories and installation marking template."
+        ],
+        "mn": [
+          "Чадал: 7 кВт.",
+          "Хамгаалалтын зэрэг: IP55.",
+          "Цэнэглэх кабель: 5 м урттай, төхөөрөмжтэй нэгтгэсэн хийцтэй.",
+          "Ашиглах горим: Залгаад шууд цэнэглэх, Bluetooth холболт, картаар цэнэглэх.",
+          "Сүлжээ: 4G холболттой.",
+          "Төлөвийн мэдээлэл: Индикатор гэрлээр харуулна.",
+          "Иж бүрдэл: Цэнэглэгч, цэнэглэх кабель ба залгуур, ашиглалтын заавар, угсралтын хэрэгсэл, суурилуулалтын байрлал тэмдэглэх загвар цаас."
+        ]
+      }
+    },
+    {
+      "slug": "kstar-7-kw-ac-ev-charger",
+      "category": "energy",
+      "group": null,
+      "name": {
+        "en": "KSTAR — 7 kW AC EV Charger",
+        "mn": "KSTAR — 7 кВт-ын хувьсах гүйдлийн (AC) цахилгаан автомашины цэнэглэгч"
+      },
+      "overview": {
+        "en": [
+          "A 7 kW AC charger designed for electric vehicle charging at homes, workplaces and parking facilities. Suitable for indoor and outdoor installation, either wall-mounted or pedestal-mounted. Charging can be initiated via a QR code, while the home version also supports plug-and-charge operation."
+        ],
+        "mn": [
+          "Гэр, байгууллага болон зогсоолд цахилгаан автомашин цэнэглэх зориулалттай 7 кВт чадалтай AC цэнэглэгч. Дотор болон гадна орчинд хананд эсвэл суурийн баганад угсарч ашиглана. QR кодоор цэнэглэлт эхлүүлэх бөгөөд гэрийн хувилбар нь залгаад шууд цэнэглэх горимыг дэмжинэ."
+        ]
+      },
+      "features": {
+        "en": [
+          "Electrical Specifications: 220 V ±15%, 45–65 Hz; output current of 32 A.",
+          "Environmental Protection: IP65 rating with a UV-resistant PC+ASA enclosure.",
+          "Operating Temperature: −30°C to +50°C, with natural cooling.",
+          "Safety: Protection against overvoltage, undervoltage, overload, short circuits, current leakage, grounding faults and lightning.",
+          "Control and Connectivity: QR code activation and Ethernet connectivity; Bluetooth for initial setup and firmware updates. RFID card access and 4G are optional.",
+          "Cable and Display: 3.5 m or 4.5 m charging cable with status indicator lights. An optional 4.3-inch display is available.",
+          "Dimensions and Weight: 275 × 380 × 133 mm; less than 7 kg."
+        ],
+        "mn": [
+          "Цахилгаан үзүүлэлт: 220 В ±15%; 45–65 Гц; гаралтын гүйдэл 32 А.",
+          "Орчны хамгаалалт: IP65; хэт ягаан туяанд тэсвэртэй PC+ASA их биетэй.",
+          "Ажиллах температур: −30°C-аас +50°C; байгалийн хөргөлттэй.",
+          "Аюулгүй байдал: Хэт болон бага хүчдэл, хэт ачаалал, богино холболт, гүйдлийн алдагдал, газардуулга, аянгын хамгаалалттай.",
+          "Удирдлага, холболт: QR код, Ethernet; Bluetooth-ээр анхны тохиргоо, программын шинэчлэл хийнэ. RFID карт болон 4G нь нэмэлт сонголттой.",
+          "Кабель, дэлгэц: 3.5 эсвэл 4.5 м кабель; төлөвийн гэрлэн индикатортой. 4.3 инчийн дэлгэцийг нэмэлтээр сонгох боломжтой",
+          "Хэмжээ, жин: 275 × 380 × 133 мм; 7 кг-аас бага."
+        ]
+      }
+    }
+  ]
+}
